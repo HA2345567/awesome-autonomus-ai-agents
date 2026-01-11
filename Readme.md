@@ -190,7 +190,7 @@ GitHub Copilot   Stable (99K+ stars)
 
 **🆕 New Releases:**
 1. **Google Universal Commerce Protocol (UCP)** - Open standard for AI agent-based shopping announced at NRF conference
-   - Link: https://developers.google.com/ucp
+   - Link: https://developers.google.com/shopping
    - License: Open Standard
    - Key Features: Works with Shopify, Etsy, Wayfair, Target, Walmart; integrates with A2P, A2A, and MCP protocols
    - Initial Reception: Major enterprise backing, industry-wide adoption expected
@@ -251,504 +251,164 @@ GitHub Copilot   Stable (99K+ stars)
 ---
 
 ## 🌐 Browser & Computer Use Agents
-
-**OpenAI ChatGPT Agent Mode**
-https://openai.com/chatgpt-agent
-Combines Operator + Deep Research capabilities using own virtual computer
-📄 License: Proprietary (ChatGPT Plus/Team)
-
-**Google Project Mariner**
-https://deepmind.google/technologies/gemini/mariner
-Gemini 2.5-powered web navigation agent for autonomous browsing
-📄 License: Proprietary (Google)
-
-**Anthropic Claude Computer Use**
-https://www.anthropic.com/claude
-Claude 3.5 Sonnet can see screen and control mouse/keyboard
-📄 License: Proprietary (API Access)
-
-**Windsurf Editor**
-https://windsurf.com
-First agentic IDE with Cascade agent system and parallel agents
-📄 License: Proprietary (Freemium)
-
-**Cline**
-https://github.com/cline/cline
-Autonomous coding agent for VS Code that can read/write files and execute commands
-📄 License: Apache 2.0
+- [OpenAI ChatGPT Agent Mode](https://openai.com/chatgpt-agent): Combines Operator + Deep Research capabilities using own virtual computer.
+- [Google Project Mariner](https://deepmind.google/technologies/gemini/mariner): Gemini 2.5-powered web navigation agent for autonomous browsing.
+- [Anthropic Claude Computer Use](https://www.anthropic.com/claude): Claude 3.5 Sonnet can see screen and control mouse/keyboard.
+- [Windsurf Editor](https://windsurf.com): First agentic IDE with Cascade agent system and parallel agents.
+- [Cline](https://github.com/cline/cline): Autonomous coding agent for VS Code that can read/write files and execute commands.
 
 ---
 
 ## 🚀 Multi-Agent Frameworks & Platforms
-
-**CrewAI**
-https://github.com/joaomdmoura/crewai
-Framework for orchestrating role-playing autonomous AI agents with collaborative intelligence
-📄 License: MIT
-
-**OpenAI Agents SDK**
-https://github.com/openai/agents-sdk
-Lightweight Python framework with provider-agnostic compatibility for 100+ different LLMs
-📄 License: MIT
-
-**Agent-S**
-https://github.com/simular-ai/Agent-S
-Open agentic framework that uses computers like a human
-📄 License: Apache 2.0
-
-**Microsoft AutoGen**
-https://github.com/microsoft/autogen
-Multi-agent conversation framework for building complex workflows
-📄 License: MIT
-
-**LangChain Agents**
-https://github.com/langchain-ai/langchain
-Open-source framework for developers creating complex applications that leverage large language models
-📄 License: MIT
-
-**Microsoft Semantic Kernel**
-https://github.com/microsoft/semantic-kernel
-Enterprise-grade SDK for integrating LLMs into applications
-📄 License: MIT
-
-**Phidata**
-https://github.com/phidatahq/phidata
-Python-based framework designed to transform LLMs into intelligent agents for AI-driven products
-📄 License: Mozilla Public License 2.0
-
-**Atomic Agents**
-https://github.com/BrainBlend-AI/atomic-agents
-Library for creating multi-agent systems with distributed agents
-📄 License: MIT
+- [CrewAI](https://github.com/joaomdmoura/crewai): Framework for orchestrating role-playing autonomous AI agents with collaborative intelligence.
+- [OpenAI Agents SDK](https://github.com/openai/agents-sdk): Lightweight Python framework with provider-agnostic compatibility for 100+ different LLMs.
+- [Agent-S](https://github.com/simular-ai/Agent-S): Open agentic framework that uses computers like a human.
+- [Microsoft AutoGen](https://github.com/microsoft/autogen): Multi-agent conversation framework for building complex workflows.
+- [LangChain Agents](https://github.com/langchain-ai/langchain): Open-source framework for developers creating complex applications that leverage large language models.
+- [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel): Enterprise-grade SDK for integrating LLMs into applications.
+- [Phidata](https://github.com/phidatahq/phidata): Python-based framework designed to transform LLMs into intelligent agents for AI-driven products.
+- [Atomic Agents](https://github.com/BrainBlend-AI/atomic-agents): Library for creating multi-agent systems with distributed agents.
 
 ---
 
 ## 🛒 Agentic Commerce & Retail
-
-**Google Business Agent**
-https://google.com/business
-AI-powered customer service for merchants integrated with UCP
-📄 License: Proprietary (Commercial)
-
-**Microsoft Copilot Checkout**
-https://copilot.microsoft.com
-Conversational purchasing directly in Copilot without redirects
-📄 License: Proprietary (Microsoft)
-
-**Microsoft Brand Agents**
-https://copilot.microsoft.com/brand-agents
-AI shopping assistants for Shopify merchants trained on brand's product catalog
-📄 License: Proprietary (Shopify Integration)
-
-**Universal Commerce Protocol (UCP)**
-https://developers.google.com/ucp
-Open standard for AI agent commerce enabling seamless discovery and purchase
-📄 License: Open Standard
+- [Google Business Agent](https://google.com/business): AI-powered customer service for merchants integrated with UCP.
+- [Microsoft Copilot Checkout](https://copilot.microsoft.com): Conversational purchasing directly in Copilot without redirects.
+- [Microsoft Brand Agents](https://copilot.microsoft.com/brand-agents): AI shopping assistants for Shopify merchants trained on brand's product catalog.
+- [Universal Commerce Protocol (UCP)](https://developers.google.com/shopping): Open standard for AI agent commerce enabling seamless discovery and purchase.
 
 ---
 
 ## 💼 Business & Enterprise Agents
-
-**Meta Manus**
-https://www.meta.com
-Leader in AI agents for complex tasks like market research and coding automation
-📄 License: Proprietary (Meta)
-
-**Thomson Reuters CoCounsel**
-https://casetext.com/cocounsel
-Agentic workflows for legal work and autonomous document review
-📄 License: Proprietary (Commercial)
-
-**LexisNexis Legal Agents**
-https://www.lexisnexis.com
-Specialized agents for legal research and case analysis
-📄 License: Proprietary (Commercial)
-
-**Big Four Accounting Agents**
-https://www2.deloitte.com
-System for accounting, audit automation, and regulatory compliance
-📄 License: Proprietary (Commercial)
-
-**Salesforce Agentforce**
-https://www.salesforce.com/products/agentforce/
-Enterprise autonomous agent platform for CRM and sales workflows
-📄 License: Proprietary (Commercial)
-
-**Microsoft Copilot Vision**
-https://copilot.microsoft.com/
-AI assistant that visually scans Windows desktop for task automation
-📄 License: Proprietary (Commercial)
-
-**Oracle Miracle Agent**
-https://www.oracle.com/artificial-intelligence/
-Embedded within Oracle's Fusion Cloud suite for business automation
-📄 License: Proprietary (Commercial)
-
-**Zapier Agent**
-https://zapier.com/
-Perfect for small-to-medium businesses to automate repetitive tasks without technical experience
-📄 License: Proprietary (Freemium)
-
-**Azure AI Agent Service**
-https://azure.microsoft.com/products/ai-services/
-Microsoft's enterprise agent service integrated with Azure AI Foundry
-📄 License: Proprietary (Commercial)
+- [Meta Manus](https://www.meta.com): Leader in AI agents for complex tasks like market research and coding automation.
+- [Thomson Reuters CoCounsel](https://casetext.com/cocounsel): Agentic workflows for legal work and autonomous document review.
+- [LexisNexis Legal Agents](https://www.lexisnexis.com): Specialized agents for legal research and case analysis.
+- [Big Four Accounting Agents](https://www2.deloitte.com): System for accounting, audit automation, and regulatory compliance.
+- [Salesforce Agentforce](https://www.salesforce.com/products/agentforce/): Enterprise autonomous agent platform for CRM and sales workflows.
+- [Microsoft Copilot Vision](https://copilot.microsoft.com/): AI assistant that visually scans Windows desktop for task automation.
+- [Oracle Miracle Agent](https://www.oracle.com/artificial-intelligence/): Embedded within Oracle's Fusion Cloud suite for business automation.
+- [Zapier Agent](https://zapier.com/): Perfect for small-to-medium businesses to automate repetitive tasks without technical experience.
+- [Azure AI Agent Service](https://azure.microsoft.com/products/ai-services/): Microsoft's enterprise agent service integrated with Azure AI Foundry.
 
 ---
 
 ## 🔧 Development & Coding Agents
-
-**GitHub Copilot**
-https://github.com/features/copilot
-AI pair programmer that operates as a team member with new skills system
-📄 License: Proprietary (Commercial)
-
-**Visual Studio 2026**
-https://visualstudio.microsoft.com
-GitHub cloud agent integration and deep symbol awareness for C++
-📄 License: Proprietary (Microsoft)
-
-**Claude Code**
-https://claude.ai/code
-Command line agentic coding tool that delegates tasks from terminal
-📄 License: Proprietary (Anthropic)
-
-**Goose**
-https://github.com/block/goose
-Open-source AI agent framework that runs entirely locally
-📄 License: Apache 2.0
-
-**Continue**
-https://github.com/continuedev/continue
-Open-source IDE extension to create and share custom AI assistants
-📄 License: Apache 2.0
-
-**Cursor AI**
-https://cursor.sh/
-AI-powered code editor with agent capabilities
-📄 License: Proprietary (Freemium)
-
-**Open Interpreter**
-https://github.com/KillianLucas/open-interpreter
-Natural language interface for computers to execute system commands
-📄 License: AGPL-3.0
-
-**PR-Agent**
-https://github.com/Codium-ai/pr-agent
-AI-powered pull request automation for code review assistance
-📄 License: Apache 2.0
-
-**Devon**
-https://github.com/entropy-research/Devon
-AI software engineer
-📄 License: AGPL-3.0
-
-**Aide**
-https://github.com/WecoAI/aideml
-AI coding assistant
-📄 License: Apache 2.0
+- [GitHub Copilot](https://github.com/features/copilot): AI pair programmer that operates as a team member with new skills system.
+- [Visual Studio 2026](https://visualstudio.microsoft.com): GitHub cloud agent integration and deep symbol awareness for C++.
+- [Claude Code](https://claude.ai/code): Command line agentic coding tool that delegates tasks from terminal.
+- [Goose](https://github.com/block/goose): Open-source AI agent framework that runs entirely locally.
+- [Continue](https://github.com/continuedev/continue): Open-source IDE extension to create and share custom AI assistants.
+- [Cursor AI](https://cursor.sh/): AI-powered code editor with agent capabilities.
+- [Open Interpreter](https://github.com/KillianLucas/open-interpreter): Natural language interface for computers to execute system commands.
+- [PR-Agent](https://github.com/Codium-ai/pr-agent): AI-powered pull request automation for code review assistance.
+- [Devon](https://github.com/entropy-research/Devon): AI software engineer.
+- [Aide](https://github.com/WecoAI/aideml): AI coding assistant.
 
 ---
 
 ## 🌐 Web Automation Agents
-
-**Chrome Extension AI Agents**
-https://github.com/e2b-dev/ai-agents-chrome-extension
-Open-source Chrome extension for AI-powered web automation
-📄 License: MIT
-
-**AgentGPT**
-https://github.com/reworkd/AgentGPT
-Autonomous AI agents in your browser
-📄 License: MIT
+- [Chrome Extension AI Agents](https://github.com/e2b-dev/ai-agents-chrome-extension): Open-source Chrome extension for AI-powered web automation.
+- [AgentGPT](https://github.com/reworkd/AgentGPT): Autonomous AI agents in your browser.
 
 ---
 
 ## 🧠 Reasoning & Foundation Models
-
-**DeepSeek-R1**
-https://github.com/deepseek-ai/DeepSeek-R1
-$6M open-source reasoning model that disrupted LLM development costs
-📄 License: Open Source
-
-**OpenAI o3 / o3-mini**
-https://openai.com
-Advanced reasoning models powering latest agent capabilities
-📄 License: Proprietary (OpenAI)
-
-**Anthropic Claude 3.5 Sonnet / Opus 4.5**
-https://www.anthropic.com
-Powers Claude Computer Use with multiple versions for different use cases
-📄 License: Proprietary (Anthropic)
-
-**AM-Thinking-v1**
-https://huggingface.co
-Dense 32B open-source reasoning model built on Qwen2.5-32B
-📄 License: Open Source
+- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1): $6M open-source reasoning model that disrupted LLM development costs.
+- [OpenAI o3 / o3-mini](https://openai.com): Advanced reasoning models powering latest agent capabilities.
+- [Anthropic Claude 3.5 Sonnet / Opus 4.5](https://www.anthropic.com): Powers Claude Computer Use with multiple versions for different use cases.
+- [AM-Thinking-v1](https://huggingface.co): Dense 32B open-source reasoning model built on Qwen2.5-32B.
 
 ---
 
 ## 🎯 Specialized Use-Case Agents
-
-**GPT Researcher**
-https://github.com/assafelovic/gpt-researcher
-Autonomous agent for comprehensive research
-📄 License: MIT
-
-**Baby AGI**
-https://github.com/yoheinakajima/babyagi
-Task-driven autonomous agent system
-📄 License: MIT
-
-**Automata**
-https://github.com/emrgnt-cmplxty/automata
-Self-programming AI system
-📄 License: MIT
-
-**Jarvis**
-https://github.com/microsoft/JARVIS
-Virtual assistant AI agent from Microsoft Research
-📄 License: MIT
-
-**VannaCoding**
-https://github.com/vanna-ai/vanna
-AI agent for data analysis and SQL generation
-📄 License: MIT
-
-**Mitra**
-https://github.com/mitra-ai/mitra
-Collaborative AI agent
-📄 License: Apache 2.0
+- [GPT Researcher](https://github.com/assafelovic/gpt-researcher): Autonomous agent for comprehensive research.
+- [Baby AGI](https://github.com/yoheinakajima/babyagi): Task-driven autonomous agent system.
+- [Automata](https://github.com/emrgnt-cmplxty/automata): Self-programming AI system.
+- [Jarvis](https://github.com/microsoft/JARVIS): Virtual assistant AI agent from Microsoft Research.
+- [VannaCoding](https://github.com/vanna-ai/vanna): AI agent for data analysis and SQL generation.
+- [Mitra](https://github.com/mitra-ai/mitra): Collaborative AI agent.
 
 ---
 
 ## 🧠 Intelligence & Research Agents
-
-**OpenAI Deep Research**
-https://openai.com
-AI-powered research and synthesis now part of unified ChatGPT agent
-📄 License: Proprietary (ChatGPT)
-
-**Perplexity AI Agents**
-https://www.perplexity.ai/
-AI-powered research agents and information synthesis
-📄 License: Proprietary (Freemium)
-
-**NotebookLM Agents**
-https://notebooklm.google.com/
-Google's AI research assistant for document analysis
-📄 License: Proprietary (Free)
+- [OpenAI Deep Research](https://openai.com): AI-powered research and synthesis now part of unified ChatGPT agent.
+- [Perplexity AI Agents](https://www.perplexity.ai/): AI-powered research agents and information synthesis.
+- [NotebookLM Agents](https://notebooklm.google.com/): Google's AI research assistant for document analysis.
 
 ---
 
 ## 🛡️ Security & Monitoring Agents
-
-**Exabeam Agent Behavior Analytics (ABA)**
-https://www.exabeam.com
-Industry-first behavioral analytics for AI agents with forensic timeline
-📄 License: Proprietary (Commercial)
-
-**Darktrace AI Analyst**
-https://darktrace.com/
-Autonomous cybersecurity investigation agent
-📄 License: Proprietary (Commercial)
-
-**CrowdStrike Falcon Agent**
-https://www.crowdstrike.com/
-AI-powered endpoint protection agent
-📄 License: Proprietary (Commercial)
-
-**Palo Alto Networks Security**
-https://www.paloaltonetworks.com/
-Developing protection strategies for AI insider threats
-📄 License: Proprietary (Commercial)
+- [Exabeam Agent Behavior Analytics (ABA)](https://www.exabeam.com): Industry-first behavioral analytics for AI agents with forensic timeline.
+- [Darktrace AI Analyst](https://darktrace.com/): Autonomous cybersecurity investigation agent.
+- [CrowdStrike Falcon Agent](https://www.crowdstrike.com/): AI-powered endpoint protection agent.
+- [Palo Alto Networks Security](https://www.paloaltonetworks.com/): Developing protection strategies for AI insider threats.
 
 ---
 
 ## 📺 Advertising & Media Agents
-
-**Newton AI Agents**
-https://www.nbcuniversal.com
-Handle buy side for advertising, including first automated live sports ad buys
-📄 License: Proprietary (Commercial)
-
-**PubMatic AgenticOS**
-https://pubmatic.com
-Operating system for autonomous advertising execution using Claude AI
-📄 License: Proprietary (Commercial)
+- [Newton AI Agents](https://www.nbcuniversal.com): Handle buy side for advertising, including first automated live sports ad buys.
+- [PubMatic AgenticOS](https://pubmatic.com): Operating system for autonomous advertising execution using Claude AI.
 
 ---
 
 ## 🎨 Creative & Content Agents
-
-**Runway Gen-3 Alpha & GWM-1**
-https://runwayml.com/
-Advanced AI video generation with new GWM-1 world model
-📄 License: Proprietary (Commercial)
-
-**Synthesia AI Avatars**
-https://www.synthesia.io/
-AI-powered video creation with virtual presenters
-📄 License: Proprietary (Commercial)
-
-**MidJourney Agent**
-https://midjourney.com/
-AI art generation through Discord bot interface
-📄 License: Proprietary (Commercial)
-
-**ElevenLabs Voice Agents**
-https://elevenlabs.io/
-AI voice cloning and speech synthesis agents
-📄 License: Proprietary (Freemium)
+- [Runway Gen-3 Alpha & GWM-1](https://runwayml.com/): Advanced AI video generation with new GWM-1 world model.
+- [Synthesia AI Avatars](https://www.synthesia.io/): AI-powered video creation with virtual presenters.
+- [MidJourney Agent](https://midjourney.com/): AI art generation through Discord bot interface.
+- [ElevenLabs Voice Agents](https://elevenlabs.io/): AI voice cloning and speech synthesis agents.
 
 ---
 
 ## 📊 Data & Analytics Agents
-
-**DataRobot Autonomous AI**
-https://www.datarobot.com/
-End-to-end automated machine learning platform
-📄 License: Proprietary (Commercial)
-
-**Tableau Ask Data**
-https://www.tableau.com/products/natural-language
-Natural language interface for data analysis
-📄 License: Proprietary (Commercial)
-
-**Power BI Copilot**
-https://powerbi.microsoft.com/copilot/
-Microsoft's AI assistant for business intelligence
-📄 License: Proprietary (Commercial)
+- [DataRobot Autonomous AI](https://www.datarobot.com/): End-to-end automated machine learning platform.
+- [Tableau Ask Data](https://www.tableau.com/products/natural-language): Natural language interface for data analysis.
+- [Power BI Copilot](https://powerbi.microsoft.com/copilot/): Microsoft's AI assistant for business intelligence.
 
 ---
 
 ## 🌐 Protocols & Standards
-
-**Model Context Protocol (MCP)**
-https://modelcontextprotocol.io
-Universal tool/data connections created by Anthropic ("USB-C for AI")
-📄 License: Open Standard
-
-**Agent2Agent Protocol (A2A)**
-https://developers.google.com/agent2agent
-Google's protocol for inter-agent communication and collaboration
-📄 License: Open Standard
-
-**Universal Commerce Protocol (UCP)**
-https://developers.google.com/ucp
-Open standard for AI agent commerce enabling seamless integration
-📄 License: Open Standard
-
-**Agent Grid UI (AG-UI)**
-https://github.com
-Standard for agent user interfaces and workflow builders
-📄 License: Open Standard
-
-**Linux Foundation Agentic AI Foundation**
-https://agentic.ai
-Industry consortium for standards, governance, and best practices
-📄 License: Non-profit / Open
+- [Model Context Protocol (MCP)](https://modelcontextprotocol.io): Universal tool/data connections created by Anthropic ("USB-C for AI").
+- [Agent2Agent Protocol (A2A)](https://developers.google.com/agent2agent): Google's protocol for inter-agent communication and collaboration.
+- [Universal Commerce Protocol (UCP)](https://developers.google.com/shopping): Open standard for AI agent commerce enabling seamless integration.
+- [Agent Grid UI (AG-UI)](https://github.com): Standard for agent user interfaces and workflow builders.
+- [Linux Foundation Agentic AI Foundation](https://agentic.ai): Industry consortium for standards, governance, and best practices.
 
 ---
 
 ## 🔧 Workflow Builders & Low-Code Platforms
-
-**n8n**
-https://n8n.io
-Open-source workflow automation and agent orchestration with visual builder
-📄 License: Sustainable Use License / Apache 2.0
-
-**Google Antigravity**
-https://google.com
-Visual agent workflows to lower technical barriers
-📄 License: Proprietary (Google)
-
-**Replit Agent**
-https://replit.com
-Build applications through natural language
-📄 License: Proprietary (Freemium)
+- [n8n](https://n8n.io): Open-source workflow automation and agent orchestration with visual builder.
+- [Google Antigravity](https://google.com): Visual agent workflows to lower technical barriers.
+- [Replit Agent](https://replit.com): Build applications through natural language.
 
 ---
 
 ## 📚 Learning & Research Resources
-
-**awesome-ai-agents**
-https://github.com/e2b-dev/awesome-ai-agents
-Comprehensive list of AI autonomous agents
-📄 License: MIT
-
-**500-AI-Agents-Projects**
-https://github.com/ashishpatel26/500-AI-Agents-Projects
-Industry-specific AI agent use cases
-📄 License: MIT
-
-**CopilotKit Resources**
-https://copilotkit.ai
-Best AI agent resources, tutorials and guides
-📄 License: MIT
+- [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): Comprehensive list of AI autonomous agents.
+- [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): Industry-specific AI agent use cases.
+- [CopilotKit Resources](https://copilotkit.ai): Best AI agent resources, tutorials and guides.
 
 ---
 
 ## 🏢 Industry-Specific Agents
 
 ### Healthcare
-**Thomson Reuters Legal Agents**
-https://www.thomsonreuters.com
-Specialized legal research agents
-📄 License: Commercial
-
-**CoCounsel**
-https://casetext.com/cocounsel
-AI legal assistant for workflow automation
-📄 License: Commercial
+- [Thomson Reuters Legal Agents](https://www.thomsonreuters.com): Specialized legal research agents.
+- [CoCounsel](https://casetext.com/cocounsel): AI legal assistant for workflow automation.
 
 ### Finance & Accounting
-**Big Four Agents**
-https://www2.deloitte.com
-Systems from PwC, KPMG, Deloitte, EY
-📄 License: Proprietary
-
-**Tax preparation agents**
-https://www.intuit.com
-Automated tax filing and compliance
-📄 License: Proprietary
-
-**Audit automation**
-https://www.kpmg.com
-AI-driven audit processes
-📄 License: Proprietary
+- [Big Four Agents](https://www2.deloitte.com): Systems from PwC, KPMG, Deloitte, EY.
+- [Tax preparation agents](https://www.intuit.com): Automated tax filing and compliance.
+- [Audit automation](https://www.kpmg.com): AI-driven audit processes.
 
 ### Retail
-**Microsoft Retail Suite**
-https://www.microsoft.com/en-us/industry/retail
-Comprehensive retail agent solutions
-📄 License: Commercial
-
-**Google Business Agent**
-https://google.com/business
-Customer service and support agents
-📄 License: Commercial
-
-**Inventory management agents**
-https://www.oracle.com/industries/retail/
-Automated stock tracking and ordering
-📄 License: Commercial
+- [Microsoft Retail Suite](https://www.microsoft.com/en-us/industry/retail): Comprehensive retail agent solutions.
+- [Google Business Agent](https://google.com/business): Customer service and support agents.
+- [Inventory management agents](https://www.oracle.com/industries/retail/): Automated stock tracking and ordering.
 
 ### Media & Advertising
-**Newton**
-https://www.nbcuniversal.com/
-Buy-side media automation
-📄 License: Commercial
-
-**PubMatic AgenticOS**
-https://pubmatic.com
-Sell-side advertising operations
-📄 License: Commercial
-
-**Content generation agents**
-https://www.adobe.com/products/sensei.html
-Automated media creation tools
-📄 License: Commercial
+- [Newton](https://www.nbcuniversal.com/): Buy-side media automation.
+- [PubMatic AgenticOS](https://pubmatic.com): Sell-side advertising operations.
+- [Content generation agents](https://www.adobe.com/products/sensei.html): Automated media creation tools.
 
 ---
 
