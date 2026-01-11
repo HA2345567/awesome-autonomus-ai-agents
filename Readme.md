@@ -1,12 +1,11 @@
 # 🤖 Awesome Autonomous AI Tools & Agents
-
 A curated collection of the latest and greatest AI agents and autonomous AI tools for 2025.
 
 ---
 
-## 📈 **Trending & Popularity Graph**
+## 📈 Trending & Popularity Graph
 
-### **GitHub Stars Rankings (2025)**
+### GitHub Stars Rankings (2025)
 ```
 LangChain        ████████████████████████████████████████████████████ 99,000+ ⭐
 Open Interpreter ████████████████████████████████████████████████████ 55,000+ ⭐
@@ -20,14 +19,14 @@ AgentGPT        █████████████████████�
 PR-Agent        ███████████████████████ 5,500+ ⭐
 ```
 
-### **Monthly Growth Trends (Jan-July 2025)**
+### Monthly Growth Trends (Jan-July 2025)
 ```
 📊 Fastest Growing:
-1. CrewAI        📈 +800% (32K stars, launched early 2024)
-2. Phidata       📈 +450% (8.5K stars, rapid adoption)
-3. OpenAI Agents 📈 +300% (11K stars, new framework)
-4. GPT Researcher📈 +250% (14K stars, research boom)
-5. LangChain     📈 +180% (99K stars, mature growth)
+CrewAI        ████████████████████████████████ +800% (32K stars)
+Phidata       ██████████████████ +450% (8.5K stars)
+OpenAI Agents ████████████ +300% (11K stars)
+GPT Researcher██████████ +250% (14K stars)
+LangChain     ███████ +180% (99K stars)
 
 📊 Download Statistics:
 • CrewAI: ~1 million monthly downloads
@@ -36,7 +35,7 @@ PR-Agent        █████████████████████�
 • LangSmith: 250K+ user signups, 1B+ trace logs
 ```
 
-### **2025 Trending Categories**
+### 2025 Trending Categories
 ```
 🔥 Most Active Areas:
 1. Multi-Agent Frameworks     ████████████████████████████████████████ 40%
@@ -47,7 +46,7 @@ PR-Agent        █████████████████████�
 6. Security & Monitoring      ██████████████ 12%
 ```
 
-### **Weekly Trending (Last 7 Days)**
+### Weekly Trending (Last 7 Days)
 Based on GitHub activity and community buzz:
 1. **Cline** - Autonomous coding agent (2,521 stars this week)
 2. **CrewAI** - Multi-agent collaboration surge
@@ -57,7 +56,7 @@ Based on GitHub activity and community buzz:
 
 ---
 
-## 🚀 **Multi-Agent Frameworks & Platforms**
+## 🚀 Multi-Agent Frameworks & Platforms
 
 **OpenAI Agents SDK**  
 https://github.com/openai/agents-sdk  
@@ -101,7 +100,7 @@ Python-based framework designed to transform LLMs into intelligent agents for AI
 
 ---
 
-## 💼 **Business & Enterprise Agents**
+## 💼 Business & Enterprise Agents
 
 **Salesforce Agentforce**  
 https://www.salesforce.com/products/agentforce/  
@@ -130,7 +129,7 @@ Microsoft's enterprise agent service integrated with Azure AI Foundry
 
 ---
 
-## 🔧 **Development & Coding Agents**
+## 🔧 Development & Coding Agents
 
 **GitHub Copilot**  
 https://github.com/features/copilot  
@@ -164,7 +163,7 @@ AI-powered code editor with agent capabilities
 
 ---
 
-## 🌐 **Web Automation Agents**
+## 🌐 Web Automation Agents
 
 **Chrome Extension AI Agents**  
 https://github.com/e2b-dev/ai-agents-chrome-extension  
@@ -178,7 +177,7 @@ Autonomous AI agents in your browser
 
 ---
 
-## 🎯 **Specialized Use-Case Agents**
+## 🎯 Specialized Use-Case Agents
 
 **GPT Researcher**  
 https://github.com/assafelovic/gpt-researcher  
@@ -217,7 +216,7 @@ Collaborative AI agent
 
 ---
 
-## 🧠 **Intelligence & Research Agents**
+## 🧠 Intelligence & Research Agents
 
 **Perplexity AI Agents**  
 https://www.perplexity.ai/  
@@ -236,7 +235,7 @@ Anthropic's computer-using AI agent (experimental)
 
 ---
 
-## 🎨 **Creative & Content Agents**
+## 🎨 Creative & Content Agents
 
 **Runway Gen-3 Alpha**  
 https://runwayml.com/  
@@ -260,7 +259,7 @@ AI voice cloning and speech synthesis agents
 
 ---
 
-## 📊 **Data & Analytics Agents**
+## 📊 Data & Analytics Agents
 
 **DataRobot Autonomous AI**  
 https://www.datarobot.com/  
@@ -279,7 +278,7 @@ Microsoft's AI assistant for business intelligence
 
 ---
 
-## 🛡️ **Security & Monitoring Agents**
+## 🛡️ Security & Monitoring Agents
 
 **Darktrace AI Analyst**  
 https://darktrace.com/  
@@ -293,7 +292,7 @@ AI-powered endpoint protection agent
 
 ---
 
-## 📚 **Learning & Research Resources**
+## 📚 Learning & Research Resources
 
 **awesome-ai-agents**  
 https://github.com/e2b-dev/awesome-ai-agents  
@@ -307,37 +306,16 @@ Industry-specific AI agent use cases
 
 ---
 
-## 📄 **License Summary**
+## 📄 License Summary
 
-### **Open Source Licenses:**
+### Open Source Licenses:
 - **MIT License:** 16 projects (Most permissive)
 - **Apache 2.0:** 4 projects (Patent protection)
 - **AGPL-3.0:** 2 projects (Strong copyleft)
 - **Mozilla Public License 2.0:** 1 project (File-level copyleft)
 
-### **Commercial/Proprietary:**
+### Commercial/Proprietary:
 - **Proprietary (Commercial):** 12 projects (Enterprise solutions)
 - **Proprietary (Freemium):** 3 projects (Free tier + paid features)
 - **Proprietary (Free):** 1 project (Free to use)
 - **Proprietary (API Access):** 1 project (API-based access)
-
----
-
-## 🤝 **Contributing**
-
-Want to add a new AI agent or tool? Please ensure it meets these criteria:
-- ✅ Autonomous or semi-autonomous functionality
-- ✅ Active development (updated in 2024-2025)
-- ✅ Open source or has significant free tier
-- ✅ Practical use cases and good documentation
-- ✅ Community traction (GitHub stars, forks, or commercial adoption)
-
-### **How to Contribute:**
-1. Fork this repository
-2. Add your AI agent/tool to the appropriate category
-3. Include: Name, GitHub/Website link, Description, License
-4. Submit a pull request with a clear description
-5. Ensure all links are working and information is accurate
-
----
-
