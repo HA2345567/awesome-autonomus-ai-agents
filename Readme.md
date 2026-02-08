@@ -6,7 +6,7 @@
 
 A curated collection of the latest and greatest AI agents and autonomous AI tools for 2026.
 
-**Last Updated:** January 23, 2026
+**Last Updated:** February 8, 2026
 
 ---
 
@@ -15,14 +15,18 @@ A curated collection of the latest and greatest AI agents and autonomous AI tool
 - [Trending & Popularity](#-trending--popularity)
   - [Weekly Trends](#-weekly-trends)
   - [Monthly Trends](#-monthly-trends)
-  - [Daily Market Updates](#-daily-market-updates---january-2026)
+  - [Daily Market Updates](#-daily-market-updates---february-2026)
 - [Browser & Computer Use Agents](#-browser--computer-use-agents)
+- [Physical AI & Robotics](#-physical-ai--robotics-agents)
+- [Gaming & Entertainment Agents](#-gaming--entertainment-agents)
 - [Multi-Agent Frameworks](#-multi-agent-frameworks--platforms)
 - [Commerce & Retail Agents](#-agentic-commerce--retail)
 - [Business & Enterprise Agents](#-business--enterprise-agents)
 - [Development & Coding Agents](#-development--coding-agents)
 - [Web Automation Agents](#-web-automation-agents)
 - [Reasoning & Foundation Models](#-reasoning--foundation-models)
+- [Voice & Conversational Agents](#-voice--conversational-agents)
+- [Autonomous Task Management Agents](#-autonomous-task-management-agents)
 - [Specialized Use-Case Agents](#-specialized-use-case-agents)
 - [Security & Monitoring Agents](#-security--monitoring-agents)
 - [Advertising & Media Agents](#-advertising--media-agents)
@@ -30,6 +34,8 @@ A curated collection of the latest and greatest AI agents and autonomous AI tool
 - [Data & Analytics Agents](#-data--analytics-agents)
 - [Protocols & Standards](#-protocols--standards)
 - [Workflow Builders](#-workflow-builders--low-code-platforms)
+- [Science & Discovery Agents](#-science--discovery-agents)
+- [Government & Public Sector Agents](#-government--public-sector-agents)
 - [Industry-Specific Agents](#-industry-specific-agents)
 - [2025 Year in Review](#-2025-year-in-review---the-year-ai-agents-arrived)
 - [Predictions for 2026](#-predictions-for-2026)
@@ -192,6 +198,56 @@ CrewAI             ███ +310 stars (32K+ total)
 - **General Intuition:** $134M seed round (Oct 2025, now deploying)
 - **World Labs:** First commercial world model launched
 - **Agent startups:** 300% increase in VC interest
+
+---
+
+## 📅 Daily Market Updates - February 2026
+
+### 🗓️ **Sunday, February 8, 2026** ⚡ **TODAY**
+
+📊 **Market Snapshot:**
+- **New Launches:** Claude Opus 4.6, OpenAI Frontier
+- **Category Focus:** Agentic Planning & Enterprise Management
+- **Key Trend:** "Physical AI" and "Agentic AI" moving to mainstream adoption.
+
+**🔥 Trending Today:**
+- **Anthropic's Claude Opus 4.6:** Released Feb 5. 1M token context, advanced agentic planning, multi-agent coordination.
+- **OpenAI Frontier:** New enterprise platform for managing agent fleets.
+- **OpenClaw:** Gaining traction for autonomous task management (email, trading).
+- **Physical AI:** Projected 80% adoption in manufacturing/defense by 2028.
+
+**🆕 New Releases (February 2026):**
+
+**Anthropic Claude Opus 4.6**
+- **Released:** Feb 5, 2026
+- **Key Features:** 1M context window, parallel sub-agents, enhanced coding & financial analysis.
+- **Impact:** Significant leap in agentic planning and long-horizon tasks.
+
+**OpenAI Frontier**
+- **Released:** Feb 5, 2026
+- **Description:** Enterprise solution for building, deploying, and managing AI agent fleets.
+
+**Veritus Voice Agents**
+- **Funding:** $10.1M Seed
+- **Focus:** Voice-first agents for lenders (collections, identity verification).
+
+**Cerebri AI T&E Agents**
+- **Focus:** Autonomous travel and expense management.
+
+**OpenClaw** 🔥
+- **Type:** Self-hosted autonomous task management agent
+- **Capabilities:** Email management, trading, multi-platform messaging
+- **Status:** Rapidly gaining adoption in power user community
+- **See:** [Autonomous Task Management Agents](#-autonomous-task-management-agents) section for full details
+
+---
+
+### 🔮 Upcoming Technology & Trends (February 2026 Outlook)
+
+- **Agentic AI:** Expected to account for 10-15% of IT spending in 2026.
+- **Physical AI:** Intelligence embedded in the material world (robotics, manufacturing).
+- **Self-Verification:** AI agents capable of autonomously verifying and correcting their own work.
+- **Text Diffusion Models:** Moving to mainstream for faster and more efficient text generation.
 
 ---
 
@@ -421,7 +477,49 @@ CrewAI             ███ +310 stars (32K+ total)
 
 ---
 
+## 🤖 Physical AI & Robotics Agents
+
+### **Figure AI (Figure 02)**
+**Link:** https://figure.ai  
+**License:** Commercial  
+**Description:** Embodied AI agents for humanoid robots in manufacturing.  
+**Key Features:**
+- End-to-end neural networks for perception and action
+- Autonomous manipulation of complex objects
+- Integrated speech-to-action reasoning
+**Partners:** BMW (Manufacturing deployment)
+
+### **Covariant Brain**
+**Link:** https://covariant.ai  
+**License:** Commercial  
+**Description:** Universal AI for robotic manipulation.  
+**Key Features:**
+- Robotic foundation models (RFM-1)
+- General-purpose adaptability for logistics
+- "ChatGPT for robots" capability
+
+### **Skild AI**
+**Link:** https://skild.ai  
+**License:** Proprietary  
+**Description:** Building a shared "brain" for diverse robot embodiments.  
+**Funding:** $300M (July 2025)  
+**Mission:** Artificial General Intelligence for the physical world.
+
+---
+
 ## 🚀 Multi-Agent Frameworks & Platforms
+
+### **LangGraph** 🔥
+**Link:** https://github.com/langchain-ai/langgraph  
+**License:** MIT  
+**GitHub Stars:** 15,000+  
+**Description:** LangChain's framework for building stateful, multi-actor applications with LLMs.  
+**Key Features:**
+- Cycles and controllability for agent runtimes
+- Built-in persistence and human-in-the-loop
+- Streaming support for real-time applications
+- Production-ready with LangSmith integration
+**Best For:** Complex, stateful agent workflows
 
 ### **CrewAI**
 **Link:** https://github.com/joaomdmoura/crewAI  
@@ -620,6 +718,41 @@ CrewAI             ███ +310 stars (32K+ total)
 **License:** Open Source  
 **Description:** AI coding assistant.
 
+### **Aider** 🔥
+**Link:** https://github.com/paul-gauthier/aider  
+**License:** Apache 2.0  
+**GitHub Stars:** 25,000+  
+**Description:** AI pair programming in your terminal with git integration.  
+**Key Features:**
+- Works with GPT-4, Claude, and local models
+- Automatic git commits with meaningful messages
+- Edits multiple files simultaneously
+- Works with existing codebases
+**Best For:** Terminal-based developers, git-centric workflows
+
+### **Sweep AI**
+**Link:** https://sweep.dev  
+**License:** Commercial (Free for open source)  
+**Description:** AI junior developer that turns GitHub issues into pull requests.  
+**Key Features:**
+- Automatically fixes bugs from issue descriptions
+- Writes unit tests
+- Refactors code
+- GitHub Actions integration
+**Best For:** Open source maintainers, issue automation
+
+### **Tabnine**
+**Link:** https://tabnine.com  
+**License:** Commercial (Freemium)  
+**Pricing:** Free / $12/month Pro / Enterprise  
+**Description:** AI code completion trained on your codebase.  
+**Key Features:**
+- Whole-line and full-function completions
+- Runs locally or in cloud
+- Supports 80+ languages
+- Enterprise-grade security
+**Best For:** Enterprise teams, privacy-conscious developers
+
 ---
 
 ## 🌐 Web Automation Agents
@@ -634,6 +767,75 @@ CrewAI             ███ +310 stars (32K+ total)
 **License:** MIT  
 **GitHub Stars:** 31,000+  
 **Description:** Autonomous AI agents in your browser.
+
+---
+
+## 🎙️ Voice & Conversational Agents
+
+### **Vapi.ai** 🔥
+**Link:** https://vapi.ai  
+**License:** Commercial  
+**Pricing:** Pay-per-minute  
+**Description:** Voice AI platform for building conversational agents with phone and web support.  
+**Key Features:**
+- Sub-500ms latency voice responses
+- Phone system integration (inbound/outbound)
+- Custom voice cloning
+- Real-time conversation analytics
+**Best For:** Customer service, sales calls, appointment booking
+
+### **Bland.ai**
+**Link:** https://bland.ai  
+**License:** Commercial  
+**Pricing:** $0.09-0.12/minute  
+**Description:** AI phone calling platform for automated outreach and support.  
+**Key Features:**
+- Human-like phone conversations
+- CRM integrations
+- Call analytics and transcription
+- Multi-language support
+**Best For:** Sales outreach, appointment reminders, surveys
+
+### **Retell AI**
+**Link:** https://retellai.com  
+**License:** Commercial  
+**Description:** Conversational voice AI for customer service automation.  
+**Key Features:**
+- Natural conversation flow
+- Interruption handling
+- Sentiment analysis
+- Live agent handoff
+
+### **Air.ai**
+**Link:** https://air.ai  
+**License:** Commercial  
+**Description:** Autonomous AI agents that conduct full-length phone conversations.  
+**Key Features:**
+- 10-40 minute conversation capability
+- Memory across calls
+- Infinite availability
+- Multi-task handling
+
+### **Synthflow**
+**Link:** https://synthflow.ai  
+**License:** Commercial  
+**Description:** No-code voice AI agent builder.  
+**Key Features:**
+- Visual workflow builder
+- Pre-built templates
+- Integration marketplace
+- White-label options
+
+### **ElevenLabs Voice Agents**
+**Link:** https://elevenlabs.io  
+**License:** Commercial  
+**Description:** AI voice cloning and conversational agents with ultra-realistic voices.  
+**Key Features:**
+- Voice cloning from 1-minute samples
+- 29+ languages
+- Emotional range control
+- Real-time voice generation
+**Best For:** Content creation, customer service, accessibility
 
 ---
 
@@ -660,6 +862,78 @@ CrewAI             ███ +310 stars (32K+ total)
 **Link:** https://huggingface.co  
 **License:** Open Source  
 **Description:** Dense 32B open-source reasoning model built on Qwen2.5-32B.
+
+---
+
+## 🤖 Autonomous Task Management Agents
+
+### **OpenClaw** 🔥 **TRENDING**
+**Link:** https://openclawai.me  
+**GitHub:** https://github.com/openclaw/openclaw  
+**License:** Open Source  
+**Description:** Self-hosted AI agent layer that operates on top of Claude/ChatGPT for autonomous task execution.  
+**Key Features:**
+- Autonomous email management (triage, reply, summarize)
+- Trading and portfolio management (⚠️ Use with extreme caution)
+- Multi-platform messaging (WhatsApp, Telegram, Discord, Slack, iMessage)
+- Calendar management and GitHub monitoring
+- Smart home device control
+- Web browsing and system command execution
+**Best For:** Power users who want autonomous task automation  
+**⚠️ Security Warning:** Inherits user permissions - risk of prompt injection, token leaks, and unpredictable behavior. Use with strict permission controls.
+
+### **Moltbook**
+**Link:** https://moltbook.com  
+**Launched:** January 28, 2026  
+**License:** Proprietary  
+**Description:** Social platform exclusively for AI bots to post, comment, and upvote.  
+**Connection:** Associated with OpenClaw ecosystem  
+**Purpose:** AI-to-AI interaction and content generation
+
+### **AutoGPT**
+**Link:** https://github.com/Significant-Gravitas/AutoGPT  
+**License:** MIT  
+**GitHub Stars:** 170,000+  
+**Description:** One of the first autonomous AI agents that can complete tasks with minimal human intervention.  
+**Key Features:**
+- Internet access for information gathering
+- Long-term and short-term memory management
+- File storage and summarization
+- Extensible plugin system
+**Status:** Pioneering project, now evolved into AutoGPT Platform
+
+### **AgentGPT**
+**Link:** https://github.com/reworkd/AgentGPT  
+**License:** MIT  
+**GitHub Stars:** 31,000+  
+**Description:** Browser-based autonomous AI agents that can be deployed to accomplish goals.  
+**Key Features:**
+- Web-based interface
+- Goal-oriented task completion
+- Chain of thought reasoning
+- No local installation required
+
+### **SuperAGI**
+**Link:** https://github.com/TransformerOptimus/SuperAGI  
+**License:** MIT  
+**GitHub Stars:** 15,000+  
+**Description:** Open-source autonomous AI agent framework with GUI.  
+**Key Features:**
+- Multiple concurrent agents
+- Performance telemetry
+- Optimized token usage
+- Agent memory and looping detection
+**Best For:** Developers building custom autonomous agents
+
+### **ix**
+**Link:** https://github.com/kreneskyp/ix  
+**License:** MIT  
+**Description:** Autonomous GPT-4 agent platform with chains, tools, and memory.  
+**Key Features:**
+- Visual chain editor
+- Autonomous task delegation
+- Integrated development environment
+- Multi-agent collaboration
 
 ---
 
@@ -779,6 +1053,33 @@ CrewAI             ███ +310 stars (32K+ total)
 - Campaign setup time reduced by 87%
 - Issue resolution by 70%
 **Launched:** January 9, 2026
+
+---
+
+## 🎮 Gaming & Entertainment Agents
+
+### **Inworld AI**
+**Link:** https://inworld.ai  
+**License:** Commercial  
+**Description:** Engine for sentient NPCs with distinct personalities and contextual awareness.  
+**Key Features:**
+- Dynamic dialogue generation without scripts
+- Emotional intelligence and memory
+- Integration with Unity/Unreal Engine
+
+### **Convai**
+**Link:** https://convai.com  
+**License:** Commercial  
+**Description:** Conversational AI for virtual worlds.  
+**Features:**
+- Voice-to-voice interaction <-> Action execution
+- NPCs that can "do" things in game worlds
+
+### **Altera (Project Sid)**
+**Link:** https://altera.al  
+**License:** Early Access  
+**Description:** Building "digital humans" that play games like humans.  
+**Highlight:** First agent civilization in Minecraft (1000+ autonomous agents).
 
 ---
 
@@ -1189,6 +1490,30 @@ CrewAI             ███ +310 stars (32K+ total)
 
 ---
 
+## 🧪 Science & Discovery Agents
+
+### **DeepMind AlphaFold 3 Agent**
+**Link:** https://deepmind.google/technologies/alphafold  
+**License:** Non-commercial (Free for academic research)  
+**Description:** AI agent for predicting structure and interactions of all life's molecules.  
+**Impact:** Accelerating drug discovery and biological understanding.
+
+### **Cradle**
+**Link:** https://cradle.bio  
+**License:** Commercial  
+**Description:** GenAI for protein design and engineering.  
+**Use Case:** Designing improved enzymes and therapeutic proteins.
+
+### **Automated Lab Agents (A-Lab)**
+**Context:** Berkeley/LBNL  
+**Description:** Autonomous materials synthesis workflow.  
+**Features:**
+- AI plans synthesis recipes
+- Robots execute experiments
+- AI analyzes results and iterates (Active Learning)
+
+---
+
 ## 🌍 Personal Productivity & Life Management Agents
 
 ### **Motion**
@@ -1419,6 +1744,26 @@ CrewAI             ███ +310 stars (32K+ total)
 
 ---
 
+## 🏛️ Government & Public Sector Agents
+
+### **Sovereign AI Initiatives**
+**Focus:** National-level AI infrastructure and models.  
+**Examples:**
+- **GovGPT (Various Nations):** Secure, localized models for citizen services.
+- **Singapore AI Government:** Smart Nation initiatives using agents for municipal services.
+
+### **Public Safety & Emergency Response Agents**
+**Description:** Logistics and resource allocation agents.  
+**Use Cases:**
+- Predictive resource deployment for fire/EMS.
+- Real-time coordination during disaster response.
+
+### **Policy & Regulatory Agents**
+**Function:** Compliance checking and drafting assistance.  
+**Trend:** Use of "Regulatory Sandboxes" (EU AI Act) to test agent behaviors safely.
+
+---
+
 ## 🏢 Industry-Specific Agents
 
 ### **Legal**
@@ -1611,9 +1956,9 @@ Want to add a new AI agent or tool? Please ensure it meets these criteria:
 
 ## ⚖️ Disclaimer
 
-This is a community-curated list. Information is accurate as of **January 23, 2026** but may change rapidly. Always verify details on official websites before making decisions. Some agents may have usage restrictions or compliance requirements.
+This is a community-curated list. Information is accurate as of **February 8, 2026** but may change rapidly. Always verify details on official websites before making decisions. Some agents may have usage restrictions or compliance requirements.
 
 ---
 
-**Last Updated:** January 23, 2026  
+**Last Updated:** February 8, 2026  
 **Next Update:** Check back weekly for new additions!
