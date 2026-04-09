@@ -92,128 +92,128 @@ Creative Content                 ███████████████�
 
 ### 🤖 Foundation Models
 
-- **[Claude 4 Opus & Sonnet 4.6](https://claude.ai)** `🔥 NEW · Feb 2026` — Anthropic's frontier generation with 1M-token context, parallel sub-agent spawning, SWE-bench leadership (80.9%+), and deeply integrated Claude Code support.
-- **[GPT-5.4 Family](https://openai.com)** `🔥 NEW · Mar 2026` — OpenAI's latest frontier with adaptive "thinking" modes (GPT-5.4 Thinking / Pro / mini / nano). GPT-4o officially deprecated April 2026.
-- **[Gemini 3.1 Pro](https://gemini.google.com)** `🆕 NEW · Early 2026` — Google DeepMind's current flagship, superseding Gemini 2.5 Pro. Powers Project Mariner, Vertex AI Agent Builder, and Google Workspace agents.
+- **[Claude 4 Opus & Sonnet 4.6](https://claude.ai)** `🔥 Feb 2026` — 1M-token context, parallel sub-agents, SWE-bench #1 (80.9%+).
+- **[GPT-5.4 Family](https://openai.com)** `🔥 Mar 2026` — Adaptive thinking modes (Thinking/Pro/mini/nano); GPT-4o deprecated.
+- **[Gemini 3.1 Pro](https://gemini.google.com)** `🆕 Early 2026` — Google's flagship multimodal model, superseding Gemini 2.5 Pro.
 
 ### 🛠️ Developer & Coding
 
-- **[Claude Agent SDK](https://docs.anthropic.com)** `🆕 MIT · Q1 2026` — Anthropic's accuracy-first agentic SDK with built-in sandboxing and deep MCP support. Best for safety-conscious pipelines.
-- **[GitHub Copilot Agentic Code Review](https://github.com/features/copilot)** `🆕 Mar 2026` — GA in VS Code & JetBrains. Gathers full project context, suggests PR changes autonomously, and auto-fixes via active coding agents.
-- **[Twill](https://twill.ai)** `🆕 Q1 2026` — Autonomous cloud engineering agent handling end-to-end PR-to-PR workflows: problem scoping → implementation → testing → merge.
-- **[Checkmarx One Assist](https://checkmarx.com)** `🆕 Enterprise` — Security guardrails and policy-as-code enforcement for AI coding agents. Real-time SAST/DAST on generated code. Integrates with Cursor, Copilot, Claude Code, and Cline.
+- **[Claude Agent SDK](https://docs.anthropic.com)** `🆕 MIT · Q1 2026` — Accuracy-first agentic SDK with sandboxing and deep MCP support.
+- **[GitHub Copilot Agentic Code Review](https://github.com/features/copilot)** `🆕 Mar 2026` — Agentic PR review GA in VS Code & JetBrains; auto-fixes issues.
+- **[Twill](https://twill.ai)** `🆕 Q1 2026` — Autonomous PR-to-PR engineering agent: scoping → implementation → merge.
+- **[Checkmarx One Assist](https://checkmarx.com)** `🆕 Enterprise` — Real-time SAST/DAST security guardrails for AI coding agents.
 
 ### 🧠 Frameworks & Infrastructure
 
-- **[LlamaIndex Workflows](https://llamaindex.ai)** `🆕 MIT · Q1 2026` — Formalized agentic workflow engine from LlamaIndex, purpose-built for RAG-heavy and document-centric multi-step orchestration.
-- **[Microsoft AutoGen 2.0](https://github.com/microsoft/autogen)** `🆕 Apache 2.0` — Completely rebuilt multi-agent framework. Excels at conversation-driven collaboration with structured dialogue patterns.
-- **[Vertex AI Agent Builder](https://cloud.google.com/vertex-ai)** `🆕 GCP` — Google Cloud's enterprise orchestration platform integrating Gemini 3.1, Model Garden, search, and analytics for production multi-agent systems.
-- **[A2A Protocol v1.0](https://developers.google.com)** `🆕 Open Standard · Q1 2026` — Agent2Agent protocol reached v1.0. Standardized, secure inter-agent communication between agents from different vendors.
+- **[LlamaIndex Workflows](https://llamaindex.ai)** `🆕 MIT · Q1 2026` — Agentic workflow engine for RAG-heavy, document-centric pipelines.
+- **[Microsoft AutoGen 2.0](https://github.com/microsoft/autogen)** `🆕 Apache 2.0` — Rebuilt multi-agent framework with conversation-driven collaboration.
+- **[Vertex AI Agent Builder](https://cloud.google.com/vertex-ai)** `🆕 GCP` — Google Cloud enterprise orchestration integrating Gemini 3.1 and Model Garden.
+- **[A2A Protocol v1.0](https://developers.google.com)** `🆕 Open Standard · Q1 2026` — Standardized secure inter-agent communication; reached v1.0 in Q1 2026.
 
 ### 💰 Funded Startups
 
-- **[Granola](https://granola.so)** `$125M Series C` — Evolved from AI meeting notes into a full enterprise AI application layer. Agents surface insights and push actions across connected tools.
-- **[Sycamore](https://sycamore.ai)** `$65M Seed` — Enterprise AI agent platform automating complex internal workflows across legal, finance, and operations.
-- **[Steno](https://steno.com)** `$49M Series C` — Litigation AI agents for court reporting, document summarization, deposition prep, and real-time transcript analysis.
-- **[Delve AI](https://delve.ai)** `$32M Series A` — Compliance automation agents: monitors regulatory changes, maps to internal policies, generates audit-ready reports.
+- **[Granola](https://granola.so)** `$125M Series C` — Enterprise AI layer surfacing insights and pushing actions across tools.
+- **[Sycamore](https://sycamore.ai)** `$65M Seed` — Enterprise AI agent platform for legal, finance, and operations workflows.
+- **[Steno](https://steno.com)** `$49M Series C` — Litigation AI for court reporting, deposition prep, and transcripts.
+- **[Delve AI](https://delve.ai)** `$32M Series A` — Compliance agents monitoring regulations and generating audit-ready reports.
 
 ### 🤖 Physical AI
 
-- **[NVIDIA Alpamayo (VLA)](https://nvidia.com)** `🆕 Q1 2026` — Vision-Language-Action model bridging LLM-scale reasoning with physical robotics. Enables agents to perceive, plan, and act in the real world.
+- **[NVIDIA Alpamayo (VLA)](https://nvidia.com)** `🆕 Q1 2026` — Vision-Language-Action model bridging AI reasoning with physical robotics.
 
 ### 🗓️ Productivity
 
-- **[Reclaim.ai 3.0](https://reclaim.ai)** `🆕 Freemium` — Major upgrade adding fully autonomous "agent mode" that proactively reorganizes your entire week — not just scheduling, but priority decision-making.
-- **[Relay.app](https://relay.app)** `🆕 Commercial` — No-code AI agent workflow builder for business teams with human-in-the-loop approval steps.
-- **[v0 by Vercel](https://v0.dev)** `🆕 Commercial` — AI UI generation agent: natural language → production-ready React components and full-page layouts.
-- **[Bolt.new](https://bolt.new)** `🆕 Commercial` — Browser-based AI full-stack development agent. Generates, previews, and deploys entire applications from prompts.
+- **[Reclaim.ai 3.0](https://reclaim.ai)** `🆕 Freemium` — Autonomous calendar agent that proactively reorganizes your week.
+- **[Relay.app](https://relay.app)** `🆕 Commercial` — No-code AI workflow builder with human-in-the-loop approval steps.
+- **[v0 by Vercel](https://v0.dev)** `🆕 Commercial` — AI UI agent: natural language → production-ready React components.
+- **[Bolt.new](https://bolt.new)** `🆕 Commercial` — Browser-based AI agent that generates and deploys full-stack apps.
 
 ---
 
 ## 🌐 Browser & Computer Use Agents
 
-- **[Claude Cowork](https://claude.com)** `🔥 Proprietary` — File management and productivity agent for non-developers. Reads, edits, creates files; builds expense reports; coordinates sub-agents in parallel. Launched Jan 12, 2026.
-- **[OpenAI ChatGPT Agent Mode](https://openai.com)** `Proprietary` — Unified agent combining Operator + Deep Research with its own virtual computer. Powered by GPT-5.4 as of April 2026.
-- **[Google Project Mariner](https://labs.google)** `Proprietary` — Gemini 3.1-powered web navigation agent for autonomous browsing, form-filling, and multi-step web tasks.
-- **[Anthropic Claude Computer Use](https://claude.com)** `Proprietary` — Claude Opus 4.5 sees your screen and controls mouse/keyboard for fully autonomous desktop operation.
-- **[Windsurf Editor](https://codeium.com/windsurf)** `Freemium · 13k ⭐` — AI-native IDE with Cascade agent system and parallel agents. Moved to quota-based pricing in March 2026.
-- **[Cline](https://github.com/cline/cline)** `MIT · 55k ⭐` — Autonomous coding agent for VS Code that reads/writes files, runs terminal commands, and manages full feature workflows.
+- **[Claude Cowork](https://claude.com)** `🔥 Proprietary` — File management agent: reads, edits, organizes files, and coordinates sub-agents.
+- **[OpenAI ChatGPT Agent Mode](https://openai.com)** `Proprietary` — Unified Operator + Deep Research agent on its own virtual computer.
+- **[Google Project Mariner](https://labs.google)** `Proprietary` — Gemini 3.1 web navigation agent for autonomous browsing and form-filling.
+- **[Anthropic Claude Computer Use](https://claude.com)** `Proprietary` — Claude sees your screen and controls mouse/keyboard autonomously.
+- **[Windsurf Editor](https://codeium.com/windsurf)** `Freemium · 13k ⭐` — AI-native IDE with Cascade agent system; quota-based pricing since Mar 2026.
+- **[Cline](https://github.com/cline/cline)** `MIT · 55k ⭐` — Autonomous VS Code agent: reads/writes files and runs terminal commands.
 
 ---
 
 ## 🤖 Physical AI & Robotics Agents
 
-- **[Figure AI (Figure 02)](https://figure.ai)** `Commercial` — Humanoid robot agents with end-to-end neural networks for perception, autonomous manipulation, and speech-to-action reasoning. Deployed at BMW.
-- **[Covariant Brain](https://covariant.ai)** `Commercial` — Universal AI for robotic manipulation using Robotic Foundation Models (RFM-1). Often called "ChatGPT for robots."
-- **[Skild AI](https://skild.ai)** `Proprietary · $300M` — Building a shared "brain" for diverse robot embodiments — pursuing AGI for the physical world.
-- **[NVIDIA Alpamayo](https://nvidia.com)** `🆕 VLA Model` — Vision-Language-Action model enabling agents to perceive, plan, and act physically. See [Fresh Arrivals](#-fresh-arrivals--q1q2-2026).
+- **[Figure AI (Figure 02)](https://figure.ai)** `Commercial` — Humanoid robot agents for autonomous manipulation; deployed at BMW.
+- **[Covariant Brain](https://covariant.ai)** `Commercial` — Universal robotic manipulation AI using foundation models (RFM-1).
+- **[Skild AI](https://skild.ai)** `Proprietary · $300M` — Shared "brain" for diverse robot embodiments; pursuing physical AGI.
+- **[NVIDIA Alpamayo](https://nvidia.com)** `🆕 VLA Model` — Bridges AI reasoning with physical robotics action in the real world.
 
 ---
 
 ## 🎮 Gaming & Entertainment Agents
 
-- **[Inworld AI](https://inworld.ai)** `Commercial` — Engine for sentient NPCs with distinct personalities, emotional intelligence, persistent memory, and Unity/Unreal Engine integration.
-- **[Convai](https://convai.com)** `Commercial` — Conversational AI for virtual worlds — voice-to-voice interaction connected directly to in-game character actions.
-- **[Altera (Project Sid)](https://altera.al)** `Early Access` — Building "digital humans" that play games like humans. Achieved the first agent civilization in Minecraft with 1,000+ autonomous agents.
+- **[Inworld AI](https://inworld.ai)** `Commercial` — Sentient NPCs with personality, memory, and Unity/Unreal integration.
+- **[Convai](https://convai.com)** `Commercial` — Voice-to-voice AI for virtual worlds connected to in-game actions.
+- **[Altera (Project Sid)](https://altera.al)** `Early Access` — Digital humans that play games; first Minecraft agent civilization (1,000+ agents).
 
 ---
 
 ## 🚀 Multi-Agent Frameworks & Platforms
 
-- **[LangGraph](https://github.com/langchain-ai/langgraph)** `🔥 MIT · 17k ⭐` — Production standard for stateful agent workflows. Graph-based orchestration with cycles, persistence, human-in-the-loop, and LangSmith integration.
-- **[CrewAI](https://github.com/joaomdmoura/crewAI)** `MIT · 35k ⭐ · 1.5M dl/mo` — Role-based multi-agent framework where agents have distinct goals, backstories, and tools and collaborate to complete complex tasks.
-- **[Microsoft AutoGen 2.0](https://github.com/microsoft/autogen)** `🆕 Apache 2.0` — Completely rebuilt for conversation-driven multi-agent collaboration with structured dialogue patterns.
-- **[OpenAI Agents SDK](https://github.com/openai/agents-sdk)** `MIT · 14k ⭐` — Lightweight, provider-agnostic Python framework compatible with 100+ LLMs. Fastest path to a functional agentic prototype.
-- **[Claude Agent SDK](https://docs.anthropic.com)** `🆕 MIT` — Anthropic's accuracy-first SDK with built-in sandboxing and deep MCP support.
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** `🔥 MIT · 17k ⭐` — Production standard for stateful, graph-based agent workflows.
+- **[CrewAI](https://github.com/joaomdmoura/crewAI)** `MIT · 35k ⭐ · 1.5M dl/mo` — Role-based multi-agent framework with collaborative, goal-driven agents.
+- **[Microsoft AutoGen 2.0](https://github.com/microsoft/autogen)** `🆕 Apache 2.0` — Rebuilt multi-agent framework for conversation-driven collaboration.
+- **[OpenAI Agents SDK](https://github.com/openai/agents-sdk)** `MIT · 14k ⭐` — Lightweight Python framework compatible with 100+ LLMs.
+- **[Claude Agent SDK](https://docs.anthropic.com)** `🆕 MIT` — Accuracy-first agentic SDK with sandboxing and deep MCP support.
 - **[LlamaIndex Workflows](https://llamaindex.ai)** `🆕 MIT` — Agentic workflow engine for RAG-heavy and document-centric pipelines.
-- **[LangChain Agents](https://github.com/langchain-ai/langchain)** `MIT · 105k ⭐ · 30M dl/mo` — The foundational open-source framework for LLM-powered applications and agents.
-- **[Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel)** `MIT · 23k ⭐` — Enterprise-grade SDK for integrating LLMs and agent capabilities into existing applications.
-- **[Phidata](https://github.com/phidatahq/phidata)** `MIT · 9k ⭐` — Python-based framework transforming LLMs into structured, tool-using agents with built-in memory and knowledge.
-- **[Agent-S](https://github.com/simular-ai/Agent-S)** `MIT` — Open agentic framework that uses computers exactly as a human would — GUI interaction, file management, task automation.
-- **[Atomic Agents](https://github.com/BrainBlend-AI/atomic-agents)** `MIT` — Modular library for composing multi-agent systems with distributed, specialized agents.
+- **[LangChain Agents](https://github.com/langchain-ai/langchain)** `MIT · 105k ⭐ · 30M dl/mo` — Foundational open-source framework for LLM-powered agentic apps.
+- **[Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel)** `MIT · 23k ⭐` — Enterprise SDK for integrating LLMs into existing applications.
+- **[Phidata](https://github.com/phidatahq/phidata)** `MIT · 9k ⭐` — Transforms LLMs into tool-using agents with built-in memory.
+- **[Agent-S](https://github.com/simular-ai/Agent-S)** `MIT` — Agentic framework that uses computers as a human would.
+- **[Atomic Agents](https://github.com/BrainBlend-AI/atomic-agents)** `MIT` — Modular library for composing distributed multi-agent systems.
 
 ---
 
 ## 🛒 Agentic Commerce & Retail
 
-- **[Google Business Agent](https://business.google.com)** `Commercial` — AI customer service agent integrated with UCP. Live with Lowe's, Michael's, Poshmark, and Reebok.
-- **[Microsoft Copilot Checkout](https://microsoft.com/copilot)** `Commercial` — Conversational purchasing directly in Copilot without redirects. Partners: PayPal, Shopify, Stripe, Etsy.
-- **[Microsoft Brand Agents](https://microsoft.com/retail)** `Commercial` — AI shopping assistants for Shopify merchants trained on brand product catalogs. Deployable in hours.
-- **[Universal Commerce Protocol (UCP)](https://developers.google.com/shopping)** `Open Standard` — Google's open standard for AI agent commerce — seamless discovery, product lookup, and purchase. Partners: Shopify, Etsy, Wayfair, Target, Walmart.
+- **[Google Business Agent](https://business.google.com)** `Commercial` — UCP-integrated AI customer service; live with Lowe's, Poshmark, Reebok.
+- **[Microsoft Copilot Checkout](https://microsoft.com/copilot)** `Commercial` — Conversational purchasing in Copilot; partners PayPal, Shopify, Stripe, Etsy.
+- **[Microsoft Brand Agents](https://microsoft.com/retail)** `Commercial` — AI shopping assistants for Shopify merchants; deployable in hours.
+- **[Universal Commerce Protocol (UCP)](https://developers.google.com/shopping)** `Open Standard` — Google's open standard for AI agent commerce and autonomous purchasing.
 
 ---
 
 ## 💼 Business & Enterprise Agents
 
-- **[Meta Manus](https://meta.com)** `Proprietary · $2B acquisition` — Autonomous agent leader for market research, coding automation, and enterprise project coordination.
-- **[Thomson Reuters CoCounsel](https://legal.thomsonreuters.com/cocounsel)** `Commercial` — Agentic workflows for legal work — autonomous document review, research synthesis, and case analysis.
-- **[Salesforce Agentforce](https://salesforce.com/agentforce)** `Commercial` — Enterprise autonomous agent platform for CRM, sales workflows, and customer engagement.
-- **[Microsoft Copilot Vision](https://microsoft.com/copilot)** `Commercial` — AI assistant that visually scans the Windows desktop to understand context and automate tasks.
-- **[Oracle Miracle Agent](https://oracle.com)** `Commercial` — Embedded in Oracle Fusion Cloud for autonomous business process automation at enterprise scale.
-- **[Zapier Agent](https://zapier.com)** `Freemium` — No-code agent builder for SMBs to automate repetitive cross-app workflows without technical experience.
-- **[Azure AI Agent Service](https://azure.microsoft.com/ai)** `Commercial` — Microsoft's enterprise agent service integrated with Azure AI Foundry for scalable, compliant agentic deployments.
-- **[Glean](https://glean.com)** `🆕 Commercial` — Enterprise knowledge and search agent. Securely indexes Slack, Drive, Salesforce, Confluence, and enables agents to act on institutional knowledge.
-- **[Vertex AI Agent Builder](https://cloud.google.com/vertex-ai)** `🆕 GCP` — Google Cloud's enterprise agentic orchestration platform integrating Gemini 3.1, Model Garden, and analytics. See [Fresh Arrivals](#-fresh-arrivals--q1q2-2026).
+- **[Meta Manus](https://meta.com)** `Proprietary · $2B` — Autonomous agent for market research, coding, and enterprise coordination.
+- **[Thomson Reuters CoCounsel](https://legal.thomsonreuters.com/cocounsel)** `Commercial` — Agentic legal workflows: document review, research, and case analysis.
+- **[Salesforce Agentforce](https://salesforce.com/agentforce)** `Commercial` — Enterprise autonomous agent platform for CRM and sales workflows.
+- **[Microsoft Copilot Vision](https://microsoft.com/copilot)** `Commercial` — Visually scans the Windows desktop to understand context and automate tasks.
+- **[Oracle Miracle Agent](https://oracle.com)** `Commercial` — Autonomous business process automation embedded in Oracle Fusion Cloud.
+- **[Zapier Agent](https://zapier.com)** `Freemium` — No-code agent builder for automating cross-app workflows.
+- **[Azure AI Agent Service](https://azure.microsoft.com/ai)** `Commercial` — Enterprise agent service integrated with Azure AI Foundry.
+- **[Glean](https://glean.com)** `🆕 Commercial` — Enterprise search agent indexing Slack, Drive, Salesforce, and Confluence.
+- **[Vertex AI Agent Builder](https://cloud.google.com/vertex-ai)** `🆕 GCP` — Google Cloud enterprise orchestration platform for production multi-agent systems.
 
 ---
 
 ## 🔧 Development & Coding Agents
 
-- **[Roo Code](https://github.com/RooVetGit/Roo-Cline)** `🔥 Apache 2.0` — VS Code fork of Cline with enhanced repository indexing and multi-step reasoning. Community-praised for deep codebase understanding.
-- **[GitHub Copilot](https://github.com/features/copilot)** `🆕 Commercial · $39/mo` — AI pair programmer with agentic code review (GA March 2026). Gathers full project context, suggests PR changes, and auto-fixes issues.
-- **[Claude Code](https://claude.com/code)** `Proprietary · SWE-bench #1` — Command-line agentic coding tool acting as the driver, not just an assistant. Supports terminal, VS Code, JetBrains, and web IDEs.
-- **[Cursor AI](https://cursor.sh)** `Freemium · $20/mo` — AI-native IDE with deep codebase context, multi-file edits, and chat-driven agent capabilities.
-- **[Twill](https://twill.ai)** `🆕 Commercial` — Autonomous cloud engineering agent for end-to-end PR-to-PR workflows. See [Fresh Arrivals](#-fresh-arrivals--q1q2-2026).
-- **[Windsurf Editor](https://codeium.com/windsurf)** `Freemium` — AI-native IDE with the Cascade agent system. Moved to quota-based pricing in March 2026.
-- **[Aider](https://github.com/paul-gauthier/aider)** `🔥 Apache 2.0 · 30k ⭐` — AI pair programming in your terminal with automatic git commits, multi-file edits, and support for GPT-5, Claude 4, and local models.
-- **[Open Interpreter](https://github.com/KillianLucas/open-interpreter)** `MIT · 58k ⭐ · 3M dl/mo` — Natural language interface for computers — executes system commands, runs code, and manages files.
-- **[Continue](https://github.com/continuedev/continue)** `Apache 2.0 · 22k ⭐` — Open-source IDE extension for creating and sharing custom AI assistants across VS Code and JetBrains.
-- **[Goose](https://github.com/block/goose)** `Apache 2.0 · 10k ⭐` — Open-source AI agent framework from Block (Square) that runs entirely locally.
-- **[PR-Agent](https://github.com/Codium-ai/pr-agent)** `Apache 2.0 · 6k ⭐` — AI-powered pull request automation — code review, description generation, and improvement suggestions.
-- **[Devin](https://devin.ai)** `Proprietary` — AI software engineer that autonomously takes on entire engineering tasks end-to-end.
-- **[Sweep AI](https://sweep.dev)** `Commercial (OSS free)` — AI junior developer that turns GitHub issues into pull requests: auto-fixes bugs, writes unit tests, refactors code.
-- **[Tabnine](https://tabnine.com)** `Freemium · $12/mo Pro` — AI code completion trained on your codebase. Enterprise-grade with local or cloud deployment supporting 80+ languages.
-- **[Checkmarx One Assist](https://checkmarx.com)** `🆕 Enterprise` — Security guardrails and policy-as-code enforcement layered over AI coding agents. See [Fresh Arrivals](#-fresh-arrivals--q1q2-2026).
+- **[Roo Code](https://github.com/RooVetGit/Roo-Cline)** `🔥 Apache 2.0` — Cline fork with enhanced repo indexing and multi-step reasoning.
+- **[GitHub Copilot](https://github.com/features/copilot)** `🆕 Commercial · $39/mo` — AI pair programmer with agentic PR review GA in VS Code & JetBrains.
+- **[Claude Code](https://claude.com/code)** `Proprietary · SWE-bench #1` — Command-line agentic coding tool; acts as driver across terminal and IDEs.
+- **[Cursor AI](https://cursor.sh)** `Freemium · $20/mo` — AI-native IDE with deep codebase context and multi-file agent edits.
+- **[Twill](https://twill.ai)** `🆕 Commercial` — Autonomous PR-to-PR cloud engineering agent.
+- **[Windsurf Editor](https://codeium.com/windsurf)** `Freemium` — AI-native IDE with Cascade agent system and quota-based pricing.
+- **[Aider](https://github.com/paul-gauthier/aider)** `🔥 Apache 2.0 · 30k ⭐` — Terminal AI pair programmer with auto git commits and multi-file edits.
+- **[Open Interpreter](https://github.com/KillianLucas/open-interpreter)** `MIT · 58k ⭐ · 3M dl/mo` — Natural language interface to execute system commands, code, and files.
+- **[Continue](https://github.com/continuedev/continue)** `Apache 2.0 · 22k ⭐` — Open-source IDE extension for custom AI assistants in VS Code & JetBrains.
+- **[Goose](https://github.com/block/goose)** `Apache 2.0 · 10k ⭐` — Open-source local AI agent framework from Block (Square).
+- **[PR-Agent](https://github.com/Codium-ai/pr-agent)** `Apache 2.0 · 6k ⭐` — AI-powered pull request automation: review, descriptions, and suggestions.
+- **[Devin](https://devin.ai)** `Proprietary` — AI software engineer that autonomously completes engineering tasks.
+- **[Sweep AI](https://sweep.dev)** `Commercial (OSS free)` — Turns GitHub issues into pull requests; auto-fixes bugs and writes tests.
+- **[Tabnine](https://tabnine.com)** `Freemium · $12/mo Pro` — AI code completion trained on your codebase; supports 80+ languages.
+- **[Checkmarx One Assist](https://checkmarx.com)** `🆕 Enterprise` — Real-time security guardrails and policy enforcement for AI coding agents.
 
 ---
 
@@ -236,58 +236,58 @@ Creative Content                 ███████████████�
 
 ## 🎙️ Voice & Conversational Agents
 
-- **[Vapi.ai](https://vapi.ai)** `🔥 Pay-per-minute` — Voice AI platform with sub-500ms latency, inbound/outbound phone integration, custom voice cloning, and real-time analytics. Best for customer service and sales.
-- **[Bland.ai](https://bland.ai)** `$0.09–0.12/min` — AI phone calling platform for automated outreach — human-like conversations, CRM integrations, multi-language support.
-- **[Retell AI](https://retellai.com)** `Commercial` — Conversational voice AI for customer service with interruption handling, sentiment analysis, and live agent handoff.
-- **[Air.ai](https://air.ai)** `Commercial` — Autonomous AI agents conducting full-length phone conversations (10–40 min) with persistent memory across calls.
-- **[Synthflow](https://synthflow.ai)** `Commercial` — No-code voice AI agent builder with visual workflow editor, pre-built templates, and white-label options.
-- **[ElevenLabs Voice Agents](https://elevenlabs.io)** `Commercial` — Ultra-realistic AI voice cloning and conversational agents in 29+ languages. Industry standard for voice agent audio.
+- **[Vapi.ai](https://vapi.ai)** `🔥 Pay-per-minute` — Sub-500ms voice AI with phone integration and custom voice cloning.
+- **[Bland.ai](https://bland.ai)** `$0.09–0.12/min` — AI phone calling platform for automated outreach with CRM integration.
+- **[Retell AI](https://retellai.com)** `Commercial` — Conversational voice AI with interruption handling and live agent handoff.
+- **[Air.ai](https://air.ai)** `Commercial` — Autonomous 10–40 min phone conversations with memory across calls.
+- **[Synthflow](https://synthflow.ai)** `Commercial` — No-code voice AI agent builder with white-label options.
+- **[ElevenLabs Voice Agents](https://elevenlabs.io)** `Commercial` — Ultra-realistic voice cloning and agents in 29+ languages.
 
 ---
 
 ## 🤖 Autonomous Task Management Agents
 
-- **[OpenClaw](https://openclawai.me)** `🔥 Open Source` — Self-hosted AI agent layer on top of Claude/ChatGPT for autonomous email, multi-platform messaging, calendar, GitHub monitoring, and smart home control. ⚠️ Use strict permission controls.
-- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** `MIT · 170k ⭐` — The pioneering autonomous AI agent, now evolved into the AutoGPT Platform with improved reliability and a plugin ecosystem.
-- **[AgentGPT](https://github.com/reworkd/AgentGPT)** `MIT · 31k ⭐` — Browser-based autonomous agents for goal-oriented task completion — no local installation required.
-- **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** `MIT · 15k ⭐` — Open-source autonomous agent framework with GUI, multiple concurrent agents, performance telemetry, and loop detection.
-- **[ix](https://github.com/kreneskyp/ix)** `MIT` — Autonomous GPT-4 agent platform with visual chain editor, task delegation, and multi-agent collaboration.
+- **[OpenClaw](https://openclawai.me)** `🔥 Open Source` — Self-hosted agent for email, messaging, calendar, and smart home. ⚠️ Use strict permissions.
+- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** `MIT · 170k ⭐` — The pioneering autonomous AI agent; evolved into AutoGPT Platform.
+- **[AgentGPT](https://github.com/reworkd/AgentGPT)** `MIT · 31k ⭐` — Browser-based autonomous agents for goal-oriented tasks; no install needed.
+- **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** `MIT · 15k ⭐` — Open-source autonomous agent framework with GUI and concurrent agents.
+- **[ix](https://github.com/kreneskyp/ix)** `MIT` — Autonomous agent platform with visual chain editor and multi-agent support.
 
 ---
 
 ## 🎯 Specialized Use-Case Agents
 
-- **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** `MIT · 15k ⭐` — Autonomous agent for comprehensive online research — browses the web, synthesizes findings, produces structured reports.
-- **[Baby AGI](https://github.com/yoheinakajima/babyagi)** `MIT · 20k ⭐` — Task-driven autonomous agent that generates, prioritizes, and executes tasks in a self-directed continuous loop.
-- **[Automata](https://github.com/emrgnt-cmplxty/automata)** `Apache 2.0` — Self-programming AI system — an agent that writes and iteratively improves its own code.
-- **[Microsoft JARVIS](https://github.com/microsoft/JARVIS)** `MIT` — Task planning agent from Microsoft Research that routes subtasks to the best-suited specialized model.
-- **[Vanna AI](https://vanna.ai)** `MIT` — AI agent for natural language data analysis and SQL generation against any database.
+- **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** `MIT · 15k ⭐` — Autonomous web research agent producing structured reports.
+- **[Baby AGI](https://github.com/yoheinakajima/babyagi)** `MIT · 20k ⭐` — Task-driven agent that generates, prioritizes, and executes in a loop.
+- **[Automata](https://github.com/emrgnt-cmplxty/automata)** `Apache 2.0` — Self-programming agent that writes and improves its own code.
+- **[Microsoft JARVIS](https://github.com/microsoft/JARVIS)** `MIT` — Task planner routing subtasks to best-suited specialized models.
+- **[Vanna AI](https://vanna.ai)** `MIT` — Natural language to SQL agent for any database.
 
 ---
 
 ## 🧠 Intelligence & Research Agents
 
-- **[OpenAI Deep Research](https://openai.com)** `Proprietary` — Long-form research synthesis agent now unified into the ChatGPT ecosystem, powered by GPT-5.4.
-- **[Perplexity AI Agents](https://perplexity.ai)** `Proprietary` — Real-time AI research agents with live web access, source citations, and structured information synthesis.
-- **[NotebookLM Agents](https://notebooklm.google)** `Free` — Google's AI research assistant for deep analysis and synthesis over your own uploaded documents and sources.
+- **[OpenAI Deep Research](https://openai.com)** `Proprietary` — Long-form research synthesis agent powered by GPT-5.4.
+- **[Perplexity AI Agents](https://perplexity.ai)** `Proprietary` — Real-time research agents with live web access and source citations.
+- **[NotebookLM Agents](https://notebooklm.google)** `Free` — Google's AI research assistant for analysis over uploaded documents.
 
 ---
 
 ## 🛡️ Security & Monitoring Agents
 
-- **[Witness AI](https://witness.ai)** `🚨 Commercial · $58M` — The "confidence layer for enterprise AI." Monitors AI usage org-wide, detects shadow AI, blocks prompt injection, enforces compliance. AI security market projected $800B–$1.2T by 2031.
-- **[Exabeam Agent Behavior Analytics (ABA)](https://www.exabeam.com)** `Commercial` — Industry-first behavioral analytics for AI agents: real-time monitoring, forensic timelines, and compliance posture assessment.
-- **[Checkmarx One Assist](https://checkmarx.com)** `🆕 Enterprise` — Security guardrails and policy-as-code enforcement for AI coding agents. Real-time SAST/DAST on generated code.
-- **[Darktrace AI Analyst](https://darktrace.com)** `Commercial` — Autonomous cybersecurity investigation agent that detects, investigates, and responds to threats without human intervention.
-- **[CrowdStrike Falcon Agent](https://crowdstrike.com)** `Commercial` — AI-powered endpoint protection with autonomous threat detection, prevention, and response.
-- **[Palo Alto Networks Security](https://paloaltonetworks.com)** `Commercial` — Developing protection strategies for AI insider threats — identified as the #1 insider threat vector of 2026.
+- **[Witness AI](https://witness.ai)** `🚨 Commercial · $58M` — Enterprise AI monitor: detects shadow AI, blocks prompt injection, enforces compliance.
+- **[Exabeam Agent Behavior Analytics (ABA)](https://www.exabeam.com)** `Commercial` — Industry-first behavioral analytics for AI agents with forensic timelines.
+- **[Checkmarx One Assist](https://checkmarx.com)** `🆕 Enterprise` — Real-time SAST/DAST security guardrails for AI coding agents.
+- **[Darktrace AI Analyst](https://darktrace.com)** `Commercial` — Autonomous cybersecurity agent that detects and responds to threats.
+- **[CrowdStrike Falcon Agent](https://crowdstrike.com)** `Commercial` — AI-powered endpoint protection with autonomous threat response.
+- **[Palo Alto Networks Security](https://paloaltonetworks.com)** `Commercial` — AI insider threat protection; #1 threat vector of 2026.
 
 ---
 
 ## 📺 Advertising & Media Agents
 
-- **[Newton AI Agents](https://newton.ai)** `Commercial` — Handles buy-side advertising automation, including the first autonomous live sports ad buys in partnership with NBCUniversal.
-- **[PubMatic AgenticOS](https://pubmatic.com)** `Commercial` — NVIDIA-accelerated autonomous advertising OS powered by Claude AI. Reduces campaign setup time by 87% and issue resolution by 70%.
+- **[Newton AI Agents](https://newton.ai)** `Commercial` — Buy-side ad automation; first autonomous live sports ad buys.
+- **[PubMatic AgenticOS](https://pubmatic.com)** `Commercial` — NVIDIA-accelerated autonomous ad OS; 87% faster campaign setup.
 
 ---
 
@@ -310,9 +310,9 @@ Creative Content                 ███████████████�
 
 ## 🌐 Protocols & Standards
 
-- **[Model Context Protocol (MCP)](https://modelcontextprotocol.io)** `Open Standard · Anthropic` — Universal "USB-C for AI" connecting agents to tools, data sources, and APIs. Backed by OpenAI, Anthropic, Google, Microsoft, and AWS. De facto industry standard 2026.
-- **[Agent2Agent Protocol (A2A) v1.0](https://developers.google.com)** `🆕 Open Standard · Google` — Standardized inter-agent communication protocol reaching v1.0 in Q1 2026. Enables reliable, secure messaging between agents from different vendors.
-- **[Universal Commerce Protocol (UCP)](https://developers.google.com/shopping)** `Open Standard · Google` — Open standard for AI agent commerce — discovery, product lookup, and purchasing. Partners: Shopify, Etsy, Wayfair, Target, Walmart.
+- **[Model Context Protocol (MCP)](https://modelcontextprotocol.io)** `Open Standard · Anthropic` — Universal "USB-C for AI" connecting agents to tools and APIs; de facto 2026 standard.
+- **[Agent2Agent Protocol (A2A) v1.0](https://developers.google.com)** `🆕 Open Standard · Google` — Standardized inter-agent communication; reached v1.0 in Q1 2026.
+- **[Universal Commerce Protocol (UCP)](https://developers.google.com/shopping)** `Open Standard · Google` — Open standard for AI agent commerce; partners: Shopify, Wayfair, Walmart.
 - **[Agent Grid UI (AG-UI)](https://github.com)** `Open Standard` — Emerging standard for agent user interfaces and agentic workflow builders.
 - **[Linux Foundation Agentic AI Foundation](https://agentic.foundation)** `Open Consortium` — Industry consortium for AI agent standards, governance frameworks, and best practices.
 
@@ -320,7 +320,7 @@ Creative Content                 ███████████████�
 
 ## 🔧 Workflow Builders & Low-Code Platforms
 
-- **[n8n](https://n8n.io)** `🔥 Fair-code` — Leading open-source workflow automation and agent orchestration with a visual builder. The go-to platform for operationalizing AI agents alongside existing business tools.
+- **[n8n](https://n8n.io)** `🔥 Fair-code` — Open-source visual workflow builder; go-to for operationalizing AI agents.
 - **[Relay.app](https://relay.app)** `🆕 Commercial` — No-code AI agent workflow builder for business teams with human-in-the-loop approval checkpoints.
 - **[Google Antigravity](https://labs.google)** `Proprietary` — Visual agent workflow builder from Google Labs lowering technical barriers for agentic application development.
 - **[Replit Agent](https://replit.com)** `Freemium` — Build full-stack applications through natural language. Rapid MVP generation in the browser.
@@ -331,10 +331,10 @@ Creative Content                 ███████████████�
 
 ## 🎓 Education & Learning Agents
 
-- **[Microsoft Study & Learn Agent](https://microsoft.com/education)** `Commercial (Students free)` — AI-powered learning companion for students 13+ with adaptive exercises, flashcards, quizzes, and Microsoft 365 integration.
-- **[Khan Academy Khanmigo](https://khanmigo.ai)** `Freemium` — Socratic AI tutor powered by GPT. Guides learners through reasoning without giving direct answers.
-- **[Kira Learning](https://kiralearning.com)** `Commercial` — Comprehensive K-12 AI tutoring by Andrew Ng (Coursera). On-demand, personalized, with early intervention notifications.
-- **[Disco AI](https://disco.co)** `Commercial` — AI agents for learning program management: adaptive curriculum, engagement analytics, and lifelong learning coaching.
+- **[Microsoft Study & Learn Agent](https://microsoft.com/education)** `Commercial (Students free)` — AI learning companion with adaptive exercises and Microsoft 365 integration.
+- **[Khan Academy Khanmigo](https://khanmigo.ai)** `Freemium` — Socratic AI tutor guiding learners without giving direct answers.
+- **[Kira Learning](https://kiralearning.com)** `Commercial` — K-12 AI tutoring by Andrew Ng with early intervention notifications.
+- **[Disco AI](https://disco.co)** `Commercial` — AI agents for adaptive curriculum and lifelong learning management.
 
 > **Stats (2026):** 87% of institutions use AI tools · Students on AI platforms score 12.4% higher · Teachers save hours weekly via automated grading.
 
@@ -342,10 +342,10 @@ Creative Content                 ███████████████�
 
 ## 🏥 Healthcare & Medical Agents
 
-- **[AlethianAI Agentic Platform](https://alethianai.com)** `Commercial` — "Hireable" AI agents for clinical documentation and medical coding. 99.9% clean claim rate; reduces coding denials by 120%.
-- **[K Health AI Diagnosis](https://khealth.com)** `Commercial` — AI-powered primary care diagnosis with 24/7 remote physician support. Partners: Mass General Brigham, Mayo Clinic, Cedars-Sinai.
-- **[Epic/Cerner/Allscripts AI Documentation](https://epic.com)** `Commercial` — Ambient AI documentation from major EHR vendors — notes accepted by CMS for billing as of mid-2026.
-- **[UpToDate Expert AI](https://uptodate.com)** `Commercial · Wolters Kluwer` — Evidence-based GenAI in clinical decision support focused on speed, evidence quality, and clinician trust.
+- **[AlethianAI Agentic Platform](https://alethianai.com)** `Commercial` — Clinical documentation and medical coding agents; 99.9% clean claim rate.
+- **[K Health AI Diagnosis](https://khealth.com)** `Commercial` — AI primary care diagnosis; partners Mass General Brigham, Mayo Clinic.
+- **[Epic/Cerner/Allscripts AI Documentation](https://epic.com)** `Commercial` — Ambient EHR documentation; CMS-accepted AI notes as of mid-2026.
+- **[UpToDate Expert AI](https://uptodate.com)** `Commercial · Wolters Kluwer` — Evidence-based GenAI clinical decision support.
 
 > **Stats (2026):** ~400 FDA-approved AI algorithms for radiology · $45B healthcare AI market · 66% of doctors use AI tools in practice.
 
@@ -353,49 +353,49 @@ Creative Content                 ███████████████�
 
 ## 💬 Communication & Collaboration Agents
 
-- **[Fireflies.ai](https://fireflies.ai)** `Freemium` — AI meeting assistant that records, transcribes, summarizes, and extracts action items. Integrates with Zoom, Teams, and Meet.
-- **[Otter.ai](https://otter.ai)** `Freemium` — Real-time AI transcription with speaker identification, meeting summaries, and collaboration features.
-- **[Granola](https://granola.so)** `🆕 $125M Series C` — Evolved from meeting notes into a full enterprise AI application — agents surface insights and push follow-up actions across tools.
-- **[Superhuman AI](https://superhuman.com)** `Commercial · $30/mo` — AI-powered email client with AI-written drafts, smart inbox triage, and keyboard-first productivity.
-- **[Slack AI](https://slack.com/ai)** `Commercial add-on` — Channel summaries, thread summaries, AI-powered search answers, and message drafting natively in Slack.
-- **[Microsoft Teams Copilot](https://microsoft.com/teams)** `Commercial` — AI assistant for Teams: meeting recaps, action item tracking, chat summaries, and content generation.
-- **[Reclaim.ai](https://reclaim.ai)** `🆕 Freemium` — Agentic calendar management with fully autonomous "agent mode" that proactively reorganizes your week around changing priorities.
+- **[Fireflies.ai](https://fireflies.ai)** `Freemium` — AI meeting assistant: records, transcribes, and extracts action items.
+- **[Otter.ai](https://otter.ai)** `Freemium` — Real-time transcription with speaker identification and meeting summaries.
+- **[Granola](https://granola.so)** `🆕 $125M Series C` — Enterprise AI layer surfacing insights and pushing actions across tools.
+- **[Superhuman AI](https://superhuman.com)** `Commercial · $30/mo` — AI email client with smart inbox triage and AI-written drafts.
+- **[Slack AI](https://slack.com/ai)** `Commercial add-on` — Channel/thread summaries and AI search answers natively in Slack.
+- **[Microsoft Teams Copilot](https://microsoft.com/teams)** `Commercial` — Meeting recaps, action tracking, and content generation in Teams.
+- **[Reclaim.ai](https://reclaim.ai)** `🆕 Freemium` — Autonomous calendar agent that proactively reorganizes your week.
 
 ---
 
 ## 🔬 Research & Academic Agents
 
-- **[Elicit](https://elicit.com)** `Freemium` — AI research assistant for literature review — automated paper summarization, data extraction, and citation discovery.
-- **[Semantic Scholar](https://semanticscholar.org)** `Free` — AI-powered academic search engine with paper recommendations, citation analysis, and research trend tracking.
-- **[Consensus](https://consensus.app)** `Freemium` — AI search engine for research papers — evidence-based answers backed by scientific consensus detection and study quality indicators.
-- **[Research Rabbit](https://researchrabbit.ai)** `Free` — Citation network visualization and academic paper discovery with collection management and collaboration features.
-- **[Scite](https://scite.ai)** `Freemium` — Smart citations platform that shows whether papers support or contradict each other with reliability scores.
+- **[Elicit](https://elicit.com)** `Freemium` — AI literature review: paper summarization, data extraction, citation discovery.
+- **[Semantic Scholar](https://semanticscholar.org)** `Free` — AI academic search with paper recommendations and citation analysis.
+- **[Consensus](https://consensus.app)** `Freemium` — AI search for research papers with scientific consensus detection.
+- **[Research Rabbit](https://researchrabbit.ai)** `Free` — Citation network visualization and academic paper discovery.
+- **[Scite](https://scite.ai)** `Freemium` — Smart citations showing whether papers support or contradict each other.
 
 ---
 
 ## 🧪 Science & Discovery Agents
 
-- **[DeepMind AlphaFold 3](https://deepmind.google/technologies/alphafold)** `Non-commercial (academic free)` — AI agent predicting structure and interactions of all life's molecules — accelerating drug discovery and biological research.
-- **[Cradle](https://cradle.bio)** `Commercial` — GenAI for protein design and engineering — designing improved enzymes and therapeutic proteins.
-- **[Automated Lab Agents (A-Lab)](https://lbl.gov)** `Research (Berkeley/LBNL)` — Autonomous materials synthesis: AI plans experiments, robots execute, AI analyzes and iterates via active learning.
+- **[DeepMind AlphaFold 3](https://deepmind.google/technologies/alphafold)** `Non-commercial (academic free)` — Predicts structure and interactions of all life's molecules.
+- **[Cradle](https://cradle.bio)** `Commercial` — GenAI for protein design and enzyme engineering.
+- **[Automated Lab Agents (A-Lab)](https://lbl.gov)** `Research (Berkeley/LBNL)` — Autonomous materials synthesis with AI-driven active learning loops.
 
 ---
 
 ## 🌍 Personal Productivity & Life Management Agents
 
-- **[Motion](https://usemotion.com)** `Commercial · $34/mo` — AI-powered calendar and task manager with automatic daily planning, meeting scheduling, and task prioritization.
-- **[Notion AI](https://notion.so/ai)** `Add-on · $10/mo` — AI assistant in Notion — content generation, summarization, translation, and Q&A over your entire workspace.
-- **[Todoist AI](https://todoist.com)** `Freemium` — AI-enhanced task management with smart suggestions, natural language input, priority detection, and habit tracking.
+- **[Motion](https://usemotion.com)** `Commercial · $34/mo` — AI calendar and task manager with automatic daily planning.
+- **[Notion AI](https://notion.so/ai)** `Add-on · $10/mo` — AI assistant for content generation, summarization, and workspace Q&A.
+- **[Todoist AI](https://todoist.com)** `Freemium` — AI task management with smart suggestions and habit tracking.
 
 ---
 
 ## 💼 HR & Recruitment Agents
 
-- **[Eightfold AI](https://eightfold.ai)** `🔥 Commercial` — Agentic Talent Operating System with 1.6B+ career profiles, AI Interviewer, and autonomous recruiting agents.
-- **[HireVue](https://hirevue.com)** `Commercial · $15K–$50K/yr` — Video interviewing platform with AI-powered candidate assessment and bias reduction technologies.
-- **[Phenom X+ Agent Studio](https://phenom.com)** `Commercial` — Zero-configuration autonomous recruiting agents powered by X+ Ontologies for the full talent lifecycle.
-- **[Reccopilot](https://reccopilot.com)** `Commercial` — Full-cycle AI recruiting agent with voice/chat control, resume ranking, and automated offer management. Claims 80% reduction in review time.
-- **[Beam AI Recruiting Suite](https://beam.ai/solutions/hr-recruitment)** `Commercial` — Custom agents for every recruitment stage: outreach, screening, resume matching, scheduling, interview prep, and onboarding.
+- **[Eightfold AI](https://eightfold.ai)** `🔥 Commercial` — Agentic Talent OS with 1.6B+ profiles, AI Interviewer, and recruiting agents.
+- **[HireVue](https://hirevue.com)** `Commercial · $15K–$50K/yr` — Video interviewing with AI assessment and bias reduction.
+- **[Phenom X+ Agent Studio](https://phenom.com)** `Commercial` — Zero-config autonomous recruiting agents for the full talent lifecycle.
+- **[Reccopilot](https://reccopilot.com)** `Commercial` — Full-cycle AI recruiting agent; claims 80% reduction in resume review time.
+- **[Beam AI Recruiting Suite](https://beam.ai/solutions/hr-recruitment)** `Commercial` — Custom agents for every hiring stage: outreach to onboarding.
 
 > **Stats (2026):** AI use in HR climbed to 43% (up from 26% in 2024) · Josh Bersin predicts 30% reduction in core HR headcount · 100+ HR agents identified.
 
@@ -403,12 +403,12 @@ Creative Content                 ███████████████�
 
 ## ⚖️ Compliance & Governance Tools
 
-- **[Delve AI](https://delve.ai)** `🆕 $32M Series A` — Compliance automation agents: monitors regulatory changes, maps them to internal policies, generates audit-ready reports.
-- **[Witness AI](https://witness.ai)** `Commercial · $58M` — Enterprise AI governance platform monitoring usage, detecting shadow AI, and enforcing compliance across all AI tools.
-- **[OneTrust AI Governance](https://onetrust.com)** `Commercial` — Enterprise AI risk and governance: AI inventory, risk assessments, compliance monitoring, and policy management.
-- **[DataRobot AI Governance](https://datarobot.com/governance)** `Commercial` — MLOps governance: model monitoring, bias detection, audit trails, and regulatory reporting.
-- **[Fiddler AI Observability](https://fiddler.ai)** `Commercial` — AI observability platform: model performance tracking, explainability tools, drift detection, and compliance dashboards.
-- **[Arthur AI](https://arthur.ai)** `Commercial` — AI performance monitoring and explainability: real-time tracking, bias detection, and regulatory compliance.
+- **[Delve AI](https://delve.ai)** `🆕 $32M Series A` — Compliance agents monitoring regulations and generating audit-ready reports.
+- **[Witness AI](https://witness.ai)** `Commercial · $58M` — Enterprise AI governance: monitors usage, detects shadow AI, enforces compliance.
+- **[OneTrust AI Governance](https://onetrust.com)** `Commercial` — AI risk inventory, assessments, compliance monitoring, and policy management.
+- **[DataRobot AI Governance](https://datarobot.com/governance)** `Commercial` — MLOps governance with bias detection, audit trails, and regulatory reporting.
+- **[Fiddler AI Observability](https://fiddler.ai)** `Commercial` — AI observability: performance tracking, explainability, and drift detection.
+- **[Arthur AI](https://arthur.ai)** `Commercial` — AI performance monitoring with real-time bias detection and compliance.
 
 > **Regulatory 2026:** EU AI Act in force (August 2026) · NYC Local Law 144 (bias audits for hiring AI) · Linux Foundation Agentic AI Foundation open standards
 
@@ -416,9 +416,9 @@ Creative Content                 ███████████████�
 
 ## 🏛️ Government & Public Sector Agents
 
-- **[GovGPT (Various Nations)](https://gov.ai)** `Sovereign AI` — Secure, localized models for citizen services adapted to national regulatory environments.
-- **[Singapore Smart Nation AI](https://smartnation.gov.sg)** `Government` — Municipal service agents for traffic management, public services, and citizen engagement.
-- **[Public Safety Response Agents](https://gov.ai)** `Research` — Logistics and resource allocation agents for predictive fire/EMS deployment and disaster response coordination.
+- **[GovGPT (Various Nations)](https://gov.ai)** `Sovereign AI` — Secure localized models for citizen services and national compliance.
+- **[Singapore Smart Nation AI](https://smartnation.gov.sg)** `Government` — Municipal agents for traffic, public services, and citizen engagement.
+- **[Public Safety Response Agents](https://gov.ai)** `Research` — Predictive resource deployment for fire/EMS and disaster response.
 
 ---
 
