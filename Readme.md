@@ -12,8 +12,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-58a6ff?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-3fb950?style=flat-square&logo=github)](http://makeapullrequest.com)&nbsp;
 [![Last Updated](https://img.shields.io/badge/Updated-April%202026-f78166?style=flat-square&logo=googlecalendar&logoColor=white)](#)&nbsp;
-[![Tools Listed](https://img.shields.io/badge/Tools%20Listed-100%2B-a371f7?style=flat-square&logo=databricks&logoColor=white)](#)&nbsp;
-[![Categories](https://img.shields.io/badge/Categories-30%2B-ffa657?style=flat-square&logo=buffer&logoColor=white)](#)
+[![Tools Listed](https://img.shields.io/badge/Tools%20Listed-110%2B-a371f7?style=flat-square&logo=databricks&logoColor=white)](#)&nbsp;
+[![Categories](https://img.shields.io/badge/Categories-32%2B-ffa657?style=flat-square&logo=buffer&logoColor=white)](#)
 
 </div>
 
@@ -44,7 +44,7 @@
 
 | 📦 Total Tools | 🗂️ Categories | ⭐ Top Repo Stars | 💰 Top VC Round | 🔥 Trending |
 |:-:|:-:|:-:|:-:|:-:|
-| **100+** | **30+** | **170k (AutoGPT)** | **$300M (Skild AI)** | **Browser Agents** |
+| **110+** | **32+** | **170k (AutoGPT)** | **$300M (Skild AI)** | **Agentic Security** |
 
 </div>
 
@@ -107,6 +107,13 @@
 - [⚖️ Compliance & Governance Tools](#️-compliance--governance-tools)
 - [🏛️ Government & Public Sector](#️-government--public-sector-agents)
 - [🏢 Industry-Specific Agents](#-industry-specific-agents)
+- [💳 Agent Economy & Financial Infrastructure](#-agent-economy--financial-infrastructure)
+- [🧪 Agent Safety, Alignment & Red-Teaming](#-agent-safety-alignment--red-teaming)
+- [👁️ Agentic Experience (AX) & UI Frameworks](#️-agentic-experience-ax--ui-frameworks)
+- [🌿 Sustainability & Energy Optimization](#-sustainability--energy-optimization)
+- [🛰️ Aerospace, Satellite & Maritime](#️-aerospace-satellite--maritime-autonomy)
+- [🌾 Precision Agriculture & Environment](#-precision-agriculture--environmental-agents)
+- [🛡️ Defense & Intelligence Systems](#️-defense--intelligence-systems)
 - [📅 2025 Year in Review](#-2025-year-in-review)
 - [🔮 Predictions for 2026](#-predictions-for-2026)
 - [🤝 Contributing](#-contributing)
@@ -145,8 +152,8 @@ Browser / Computer Use Agents    ███████████████�
 Multi-Agent Frameworks           ████████████████████████████████████ 40%
 Coding / Development Agents      ██████████████████████████████████ 38% 🔥
 Agentic Commerce                 ████████████████████████████ 30%
-Security & Monitoring            ████████████████████████ 26% 📈
-Business Automation              ██████████████████████ 24% 🚨
+Agentic Security & Governance    ████████████████████████████████ 32% 🚨
+Business Automation              ██████████████████████ 24% 📈
 Research & Intelligence          ████████████████████ 22%
 Creative Content                 ██████████████████ 19%
 ```
@@ -162,11 +169,13 @@ Creative Content                 ███████████████�
 - **[Claude 4 Opus & Sonnet 4.6](https://claude.ai)** `🔥 Feb 2026` — 1M-token context, parallel sub-agents, SWE-bench #1 (80.9%+).
 - **[GPT-5.4 Family](https://openai.com)** `🔥 Mar 2026` — Adaptive thinking modes (Thinking/Pro/mini/nano); GPT-4o deprecated.
 - **[Gemini 3.1 Pro](https://gemini.google.com)** `🆕 Early 2026` — Google's flagship multimodal model, superseding Gemini 2.5 Pro.
+- **[Claude Managed Agents](https://anthropic.com)** `🆕 April 2026` — Hosted infrastructure for running long-horizon autonomous workflows at scale.
 
 ### 🛠️ Developer & Coding
 
 - **[Claude Agent SDK](https://docs.anthropic.com)** `🆕 MIT · Q1 2026` — Accuracy-first agentic SDK with sandboxing and deep MCP support.
 - **[GitHub Copilot Agentic Code Review](https://github.com/features/copilot)** `🆕 Mar 2026` — Agentic PR review GA in VS Code & JetBrains; auto-fixes issues.
+- **[AgentX by OpenAI](https://openai.com)** `🆕 MIT · 5k ⭐` — Autonomous coding agent for large-scale legacy migration; launched May 2026.
 - **[Twill](https://twill.ai)** `🆕 Q1 2026` — Autonomous PR-to-PR engineering agent: scoping → implementation → merge.
 - **[Checkmarx One Assist](https://checkmarx.com)** `🆕 Enterprise` — Real-time SAST/DAST security guardrails for AI coding agents.
 
@@ -180,6 +189,7 @@ Creative Content                 ███████████████�
 ### 💰 Funded Startups
 
 - **[Granola](https://granola.so)** `$125M Series C` — Enterprise AI layer surfacing insights and pushing actions across tools.
+- **[Norton AI Agent Protection](https://norton.com)** `🆕 April 2026` — Real-time security oversight and protection for autonomous agents on user devices.
 - **[Sycamore](https://sycamore.ai)** `$65M Seed` — Enterprise AI agent platform for legal, finance, and operations workflows.
 - **[Steno](https://steno.com)** `$49M Series C` — Litigation AI for court reporting, deposition prep, and transcripts.
 - **[Delve AI](https://delve.ai)** `$32M Series A` — Compliance agents monitoring regulations and generating audit-ready reports.
@@ -187,6 +197,7 @@ Creative Content                 ███████████████�
 ### 🤖 Physical AI
 
 - **[NVIDIA Alpamayo (VLA)](https://nvidia.com)** `🆕 Q1 2026` — Vision-Language-Action model bridging AI reasoning with physical robotics.
+- **[CAS Newton](https://cas.org)** `🆕 April 2026` — Agentic AI for scientific discovery grounded in 150+ years of curated science literature.
 
 ### 🗓️ Productivity
 
@@ -232,6 +243,7 @@ Creative Content                 ███████████████�
 - **[Microsoft AutoGen 2.0](https://github.com/microsoft/autogen)** `🆕 Apache 2.0` — Rebuilt multi-agent framework for conversation-driven collaboration.
 - **[OpenAI Agents SDK](https://github.com/openai/agents-sdk)** `MIT · 14k ⭐` — Lightweight Python framework compatible with 100+ LLMs.
 - **[Claude Agent SDK](https://docs.anthropic.com)** `🆕 MIT` — Accuracy-first agentic SDK with sandboxing and deep MCP support.
+- **[Claude Managed Agents](https://anthropic.com)** `🆕 Proprietary` — Hosted infrastructure for running long-horizon autonomous workflows.
 - **[LlamaIndex Workflows](https://llamaindex.ai)** `🆕 MIT` — Agentic workflow engine for RAG-heavy and document-centric pipelines.
 - **[LangChain Agents](https://github.com/langchain-ai/langchain)** `MIT · 105k ⭐ · 30M dl/mo` — Foundational open-source framework for LLM-powered agentic apps.
 - **[Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel)** `MIT · 23k ⭐` — Enterprise SDK for integrating LLMs into existing applications.
@@ -269,6 +281,7 @@ Creative Content                 ███████████████�
 - **[Roo Code](https://github.com/RooVetGit/Roo-Cline)** `🔥 Apache 2.0` — Cline fork with enhanced repo indexing and multi-step reasoning.
 - **[GitHub Copilot](https://github.com/features/copilot)** `🆕 Commercial · $39/mo` — AI pair programmer with agentic PR review GA in VS Code & JetBrains.
 - **[Claude Code](https://claude.com/code)** `Proprietary · SWE-bench #1` — Command-line agentic coding tool; acts as driver across terminal and IDEs.
+- **[AgentX by OpenAI](https://openai.com)** `🆕 MIT · 5k ⭐` — Autonomous coding agent for large-scale legacy migration.
 - **[Cursor AI](https://cursor.sh)** `Freemium · $20/mo` — AI-native IDE with deep codebase context and multi-file agent edits.
 - **[Twill](https://twill.ai)** `🆕 Commercial` — Autonomous PR-to-PR cloud engineering agent.
 - **[Windsurf Editor](https://codeium.com/windsurf)** `Freemium` — AI-native IDE with Cascade agent system and quota-based pricing.
@@ -343,6 +356,7 @@ Creative Content                 ███████████████�
 ## 🛡️ Security & Monitoring Agents
 
 - **[Witness AI](https://witness.ai)** `🚨 Commercial · $58M` — Enterprise AI monitor: detects shadow AI, blocks prompt injection, enforces compliance.
+- **[Norton AI Agent Protection](https://norton.com)** `🆕 Commercial` — Security oversight layer protecting local autonomous agents.
 - **[Exabeam Agent Behavior Analytics (ABA)](https://www.exabeam.com)** `Commercial` — Industry-first behavioral analytics for AI agents with forensic timelines.
 - **[Checkmarx One Assist](https://checkmarx.com)** `🆕 Enterprise` — Real-time SAST/DAST security guardrails for AI coding agents.
 - **[Darktrace AI Analyst](https://darktrace.com)** `Commercial` — Autonomous cybersecurity agent that detects and responds to threats.
@@ -443,6 +457,7 @@ Creative Content                 ███████████████�
 ## 🧪 Science & Discovery Agents
 
 - **[DeepMind AlphaFold 3](https://deepmind.google/technologies/alphafold)** `Non-commercial (academic free)` — Predicts structure and interactions of all life's molecules.
+- **[CAS Newton](https://cas.org)** `🆕 Commercial` — Scientific discovery agent grounded in 150+ years of curated data.
 - **[Cradle](https://cradle.bio)** `Commercial` — GenAI for protein design and enzyme engineering.
 - **[Automated Lab Agents (A-Lab)](https://lbl.gov)** `Research (Berkeley/LBNL)` — Autonomous materials synthesis with AI-driven active learning loops.
 
@@ -517,14 +532,87 @@ Creative Content                 ███████████████�
 - **[Newton](https://newton.ai):** Buy-side media automation — first autonomous live sports ad buys.
 - **[PubMatic AgenticOS](https://pubmatic.com):** Sell-side autonomous ad operations.
 
-### 🏭 Manufacturing
+### 🏭 Manufacturing & Logistics
 - **[Figure AI](https://figure.ai):** Humanoid robots in BMW manufacturing.
+- **[Claw AI Platform](https://lobo.tech):** `🆕` Export-oriented manufacturing agent platform (Supply Chain to CRM).
 - **[Covariant Brain](https://covariant.ai):** Universal robotic manipulation for logistics.
 - **[NVIDIA Alpamayo](https://nvidia.com):** `🆕` VLA model enabling physical AI reasoning.
 
 ### 🏠 Real Estate
 - **[Property Valuation AI](https://zillow.com):** AI-powered real estate appraisals and market analysis.
 - **[Document Processing Agents](https://docusign.com):** Contract and lease automation for real estate workflows.
+
+---
+
+## 💳 Agent Economy & Financial Infrastructure
+
+*Instruments and protocols enabling agents to transact, hold value, and manage resources independently.*
+
+- **[Skyfire](https://skyfire.xyz)** `Commercial` — Secure payment rails for AI: enables agents to hold wallets, pay for APIs, and manage autonomously.
+- **[AgentPay Protocol](https://github.com)** `Open Standard` — Emerging standard for machine-to-machine financial transactions.
+- **[Helicone](https://helicone.ai)** `Freemium` — LLM observability with token-level cost tracking and budget-based agent auto-throttling.
+- **[Hyperdust](https://hyperdust.io)** `Commercial` — Decentralized compute marketplace where agents bid for GPU resources in real-time.
+
+---
+
+## 🧪 Agent Safety, Alignment & Red-Teaming
+
+*Tools ensuring agent reliability, preventing "agentic retaliation," and enforcing ethical guardrails.*
+
+- **[LangWatch](https://langwatch.ai)** `Commercial` — Real-time safety guardrails and alignment monitoring for multi-agent workflows.
+- **[Giskard](https://giskard.ai)** `Open Source` — Testing framework specifically designed to red-team and debug agentic decision loops.
+- **[Agentic-Shield](https://github.com)** `Apache 2.0` — Runtime monitor that detects and blocks "jailbroken" agent instructions before execution.
+- **[WhyLabs LangKit](https://whylabs.ai)** `Commercial` — Observability and alignment tracking for agent swarms and long-horizon tasks.
+
+---
+
+## 👁️ Agentic Experience (AX) & UI Frameworks
+
+*Frameworks for building interfaces that humans use to collaborate with and monitor autonomous agents.*
+
+- **[Agent Grid UI (AG-UI)](https://github.com)** `Open Standard` — Standardized UI components for intent previews and agent plan visualization.
+- **[Human-in-the-Loop (HITL) SDKs](https://github.com)** `Various` — Growing ecosystem of "approval bridge" components for workflow builder platforms.
+- **[Vercel AI SDK 4.0](https://sdk.vercel.ai)** `MIT` — Enhanced support for "generative UI" where agents build their own interfaces on-the-fly.
+
+---
+
+## 🌿 Sustainability & Energy Optimization
+
+*Agents and infrastructure focused on green compute and autonomous energy grid management.*
+
+- **[Inference Energy Monitor](https://github.com)** `Open Source` — Real-time tracking of the "carbon cost per agent action" for massive-scale deployments.
+- **[GridAgent OS](https://gridagent.ai)** `Enterprise` — Autonomous grid rebalancing agent currently managing 12% of Nordic renewable energy trading.
+- **[GreenPuma](https://greenpuma.ai)** `Commercial` — Intelligent scheduler that moves agentic compute to data centers with the lowest current carbon intensity.
+
+---
+
+## 🛰️ Aerospace, Satellite & Maritime Autonomy
+
+*High-stakes agency in extreme environments where communication is high-latency or intermittent.*
+
+- **[NASA DSA (Distributed Spacecraft Autonomy)](https://nasa.gov)** `Research` — Distributed intelligence enabling satellite swarms to coordinate without ground control.
+- **[Sea Machines](https://sea-machines.com)** `Commercial` — Autonomous control systems for commercial maritime vessels and surface craft.
+- **[Orbital Edge AI](https://github.com)** `Research` — Small-footprint agentic models designed to run locally on cubesat hardware.
+
+---
+
+## 🌾 Precision Agriculture & Environmental Agents
+
+*Autonomous systems managing the global food supply and monitoring ecological health.*
+
+- **[Solix Ag Robotics](https://solinftec.com)** `Commercial` — Solar-powered autonomous platform for precision weeding and crop health management.
+- **[Polybee](https://polybee.co)** `Commercial` — Autonomous pollination agent drones using high-speed computer vision for indoor farming.
+- **[CarbonPath Agents](https://carbonpath.ai)** `Enterprise` — Autonomous sensor networks that verify carbon sequestration in soil for institutional credits.
+
+---
+
+## 🛡️ Defense & Intelligence Systems
+
+*Agentic defense protocols for situational awareness, logistics, and rapid decision support.*
+
+- **[Maven Smart System](https://defense.gov)** `Military` — Advanced situational awareness agent aggregating sensor data for decision-makers.
+- **[WarClaw AI](https://defense.gov)** `Restricted` — Tactical mission planning agent for real-time battlefield logistics and resource allocation.
+- **[Palantir AIP Agents](https://palantir.com)** `Commercial` — Enterprise-grade autonomous agents for complex supply chain and intelligence analysis.
 
 ---
 
