@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=250&section=header&text=Awesome%20Autonomous%20AI%20Agents&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=The%20definitive%20encyclopedia%20of%20the%20agentic%20era%20(2026%20Edition)&descAlignY=58&descColor=a3d2ff&descSize=18" />
+<img src="assets/logo.png" width="180" height="180" alt="Nexum Logo" />
 
-<br/>
+# NEXUM: The Agentic Universe 🌌
+### *The Definitive Repository for the Autonomous Era (2026 Edition)*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=The+World's+Most+Comprehensive+Agent+Directory;Architecting+the+Future+of+Autonomous+Systems;150%2B+Elite+Agents+%7C+Frameworks+%7C+Protocols;Updated+Daily+for+the+Vanguard+of+AI.)](https://git.io/typing-svg)
 
@@ -21,7 +22,7 @@
 
 <div align="center">
 
-## 🌌 The Agentic Universe 2026
+## 🌐 The NEXUM Architecture
 
 ```mermaid
 graph TD
@@ -33,7 +34,7 @@ graph TD
         UI[Generative UI]
     end
     
-    subgraph "The Stack: Core layers"
+    subgraph "The Stack: Core infrastructure"
         FM[Foundation Models - GPT-5.4 / Claude 4.6]
         AF[Orchestration Frameworks - LangGraph / CrewAI]
         PR[Protocols - MCP / A2A v1.0]
@@ -87,8 +88,8 @@ graph TD
 
 ## 📈 Market Pulse & Intel
 
-### 🔥 The Heatmap (April 2026)
-> Top signals from the bleeding edge of autonomy.
+### 🔥 The NEXUM Heatmap (April 2026)
+> Real-time momentum analysis of the agentic ecosystem.
 
 ```text
   Signal                 Momentum        Primary Trend
@@ -119,11 +120,11 @@ graph TD
 - **[GPT-5.4 Family](https://openai.com)** `🔥 Proprietary` — Adaptive thinking (Thinking/mini/nano); 2M context; GPT-4o deprecated.
 - **[Claude 4.6 (Opus/Sonnet)](https://claude.ai)** `🔥 Proprietary` — SWE-bench king (82%+); native parallel agent orchestration.
 - **[Gemini 3.1 Ultra](https://gemini.google.com)** `🆕 Proprietary` — Deep integration with Google Workspace & Physical Robot controllers.
-- **[DeepSeek-R5](https://github.com/deepseek-ai)** `Open Source` — The Moore's Law of reasoning; massive performance-to-cost disruption.
+- **[DeepSeek-R5](https://github.com/deepseek-ai)** `Open Source` — Moore's Law of reasoning; massive performance-to-cost disruption.
 - **[Llama 4.5 Agentic](https://llama.meta.com)** `Open Weights` — Fine-tuned specifically for tool-calling and long-horizon planning.
 
 ### 🚀 Orchestration (Frameworks)
-- **[LangGraph](https://github.com/langchain-ai/langgraph)** `🔥 MIT` — The industry standard for stateful, cyclic agent graphs.
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** `🔥 MIT` — Industry standard for stateful, cyclic agent graphs.
 - **[CrewAI](https://github.com/joaomdmoura/crewAI)** `MIT` — Role-based multi-agent collaboration with built-in process management.
 - **[Microsoft AutoGen 2.0](https://github.com/microsoft/autogen)** `Apache 2.0` — Re-architected for high-concurrency commercial deployments.
 - **[OpenAI Agents SDK](https://github.com/openai/agents-sdk)** `MIT` — Minimalist, high-performance SDK for the GPT-5 ecosystem.
@@ -131,10 +132,9 @@ graph TD
 - **[Phidata](https://github.com/phidatahq/phidata)** `MIT` — High-speed tool-interfacing with persistent memory.
 
 ### 🛣️ Connectivity (Protocols & Standards)
-- **[Model Context Protocol (MCP)](https://modelcontextprotocol.io)** `🔥 Anthropic` — The universal "USB-C" for connecting any AI to any data source.
+- **[Model Context Protocol (MCP)](https://modelcontextprotocol.io)** `🔥 Anthropic` — Universal "USB-C" for connecting AI to any data source.
 - **[Agent2Agent (A2A) v1.0](https://developers.google.com)** `🆕 Google` — Cross-platform protocol for agents to negotiate and swap data.
 - **[Universal Commerce Protocol (UCP)](https://developers.google.com/shopping)** `Google` — Standard for agents representing buyers/sellers in digital markets.
-- **[Agent Grid UI (AG-UI)](https://github.com)** `Open Standard` — Unified schema for how agents describe their plans to humans.
 
 ---
 
@@ -150,8 +150,7 @@ graph TD
 
 ### 🎙️ Voice & Presence
 - **[Vapi.ai](https://vapi.ai)** `🔥 Pay-per-min` — Ultra-low latency voice agents with emotional intelligence.
-- **[Bland AI](https://bland.ai)** `Commercial` — The pioneer in enterprise-scale autonomous phone operations.
-- **[Retell AI](https://retellai.com)** `Commercial` — Human-like conversation with instant interruption handling.
+- **[Bland AI](https://bland.ai)** `Commercial` — Pioneer in enterprise-scale autonomous phone operations.
 - **[ElevenLabs Voice Agents](https://elevenlabs.io)** `Commercial` — High-fidelity avatars and voices for the conversational web.
 
 ---
@@ -160,29 +159,25 @@ graph TD
 *Domain-specific expertise unleashed.*
 
 ### 🔧 Engineering & Systems
-- **[Claude Code](https://claude.com/code)** `🔥 CLI` — The #1 ranked SWE-bench agent; handles entire repo refactors autonomously.
-- **[GitHub Copilot Extensions](https://github.com)** `Commercial` — A marketplace of specialized agents (security, cloud, mobile) inside the IDE.
+- **[Claude Code](https://claude.com/code)** `🔥 CLI` — #1 ranked SWE-bench agent; handles entire repo refactors autonomously.
 - **[Windsurf / Cursor](https://codeium.com/windsurf)** `Freemium` — Next-gen IDEs where the "Flow" is co-driven by context-aware agents.
-- **[Aider](https://github.com/paul-gauthier/aider)** `MIT` — The legendary terminal-based pair programmer; masters of multi-file edits.
-- **[Checkmarx One Assist](https://checkmarx.com)** `🆕 Enterprise` — The "Security Agent for Agents" — blocks vulnerable code before it lands.
+- **[Aider](https://github.com/paul-gauthier/aider)** `MIT` — Legendary terminal-based pair programmer; masters of multi-file edits.
+- **[AgentX by OpenAI](https://openai.com)** `🆕 MIT · 5k ⭐` — Autonomous coding agent for large-scale legacy migration.
 
 ### 💹 Business, Finance & HR
 - **[Salesforce Agentforce](https://salesforce.com/agentforce)** `Commercial` — Massive scale CRM automation: sales, service, and marketing agents.
 - **[Glean](https://glean.com)** `🆕 Commercial` — The enterprise brain; agents that know everything across Slack, Drive, Jira.
 - **[Eightfold AI](https://eightfold.ai)** `Commercial` — Autonomous recruiting: sourcing, screening, and scheduling at inhuman speeds.
-- **[Skyfire](https://skyfire.xyz)** `🆕 Financial` — The banking layer for AI: enables agents to hold money and pay for their own resources.
 - **[Skyclerk](https://skyclerk.com)** `Commercial` — Fully autonomous bookkeeper: categorizes, audits, and reconciles 24/7.
 
 ### 🔬 Science & Healthcare
-- **[CAS Newton](https://cas.org)** `🔥 April 2026` — Deep scientific discovery agent grounded in 150 years of chemistry/biology data.
+- **[CAS Newton](https://cas.org)** `🔥 April 2026` — Deep scientific discovery agent grounded in 150 years of curated data.
 - **[AlphaFold 3 Agent](https://deepmind.google)** `Research` — Autonomous protein structure and interaction modeling.
 - **[AlethianAI](https://alethianai.com)** `Healthcare` — Medical documentation and coding agents with 99.9% accuracy.
-- **[UpToDate Expert](https://uptodate.com)** `Commercial` — Clinical decision support for doctors, verifying every path against medical consensus.
 
 ### 🤖 Physical AI (Robotics)
-- **[NVIDIA Alpamayo](https://nvidia.com)** `🆕 VLA Model` — Vision-Language-Action model: the "General Intelligence" for robot hardware.
+- **[NVIDIA Alpamayo](https://nvidia.com)** `🆕 VLA Model` — Vision-Language-Action model: the "General Intelligence" for robots.
 - **[Figure 02](https://figure.ai)** `Commercial` — Humanoid worker agents deployed in manufacturing (BMW/Mercedes).
-- **[Skild AI](https://skild.ai)** `Proprietary` — Developing the "Scalar Brain" for any robot embodiment.
 - **[Covariant](https://covariant.ai)** `Commercial` — Universal warehouse intelligence: order picking and logistics autonomy.
 
 ---
@@ -190,10 +185,9 @@ graph TD
 ## 🛡️ Guardians: Security & Governance
 *Ensuring the autonomous world stays safe and aligned.*
 
-- **[Witness AI](https://witness.ai)** `🚨 $58M Raised` — The "Cortex" for enterprise security: monitors, intercepts, and audits agentic intent.
-- **[Norton Agent Shield](https://norton.com)** `🆕 2026` — Consumer-grade protection for local agents running on personal devices.
+- **[Witness AI](https://witness.ai)** `🚨 $58M Raised` — The "Cortex" for enterprise security: monitors and intercepts agentic intent.
+- **[Norton Agent Shield](https://norton.com)** `🆕 2026` — Consumer-grade protection for local agents on personal devices.
 - **[Delve AI](https://delve.ai)** `Compliance` — Monitors regulatory shifts and automatically updates agent guardrails.
-- **[Giskard](https://giskard.ai)** `OSS` — Red-teaming framework for agents: tests for "agentic retaliation" and bias.
 
 ---
 
@@ -201,57 +195,45 @@ graph TD
 *The tools that make agents work at scale.*
 
 ### 🏗️ Workflow & Low-Code
-- **[n8n](https://n8n.io)** `🔥 Fair-code` — The go-to visual builder for operationalizing agentic swarms.
+- **[n8n](https://n8n.io)** `🔥 Fair-code` — Visual builder for operationalizing agentic swarms.
 - **[Relay.app](https://relay.app)** `Commercial` — Human-in-the-loop workflows: agents work, humans verify.
-- **[Bolt.new / v0](https://bolt.new)** `Commercial` — Full-stack generation: from prompt to production-deployed app in seconds.
-- **[Zapier Central](https://zapier.com)** `Freemium` — Teaching agents to use 6,000+ apps via natural language instruction.
+- **[Bolt.new / v0](https://bolt.new)** `Commercial` — Full-stack generation: from prompt to production in seconds.
 
 ### 💳 Economy & Payments
-- **[Coinbase Agent Wallet](https://coinbase.com)** `🆕 infrastructure` — Enables any agent to hold crypto and pay for high-density compute.
-- **[Hyperdust](https://hyperdust.io)** `Commercial` — Real-time compute auction: agents bid for GPU time autonomously based on task priority.
-- **[Helicone](https://helicone.ai)** `Freemium` — Observability with "Agentic Throttling" based on real-time ROI tracking.
+- **[Coinbase Agent Wallet](https://coinbase.com)** `🆕 infrastructure` — Enables any agent to hold crypto and pay for compute.
+- **[Skyfire](https://skyfire.xyz)** `🆕 Financial` — The banking layer for AI: enables agents to hold money and pay for their own resources.
+- **[Helicone](https://helicone.ai)** `Freemium` — Observability with ROI tracking and agentic throttling.
 
 ---
 
-## 🎓 Knowledge Hub
+## 🏛️ The NEXUM Standard
+### *How we curate the world's best list*
 
-### 📅 2026 Q1/Q2 Snapshots
-- **[The Rise of the MCP](https://modelcontextprotocol.io)** — How a simple protocol killed the "plugin" wars.
-- **[The $1B Agent Seed Rounds](https://crunchbase.com)** — Breakdown of why infrastructure is winning over applications.
-- **[The A2A Revolution](https://developers.google.com)** — First Case Study: Agentic commerce on the Google/Shopify stack.
-
-### 🏛️ 2025 Year in Review
-- **Winner:** DeepSeek-R1 (The open-source explosion).
-- **Trend:** Transition from "Chatbots" to "Co-workers".
-- **Crisis:** The "Claude Code" token-burn incident leading to better observability.
-
-### 🔮 2027 Forward View
-- **Sovereign Agents:** Nationalized models for government and critical infra.
-- **Agentic Civilizations:** 10k+ agents collaborating in virtual sandboxes (e.g., Altera).
-- **Memory-as-a-Service:** Persistent historical context for lifelong agents.
+To be included in NEXUM, a project must undergo the **Lead Designer's Vetting Process**:
+1.  **Autonomy Tier**: Must demonstrate multi-step reasoning without human micro-management.
+2.  **2026 Resilience**: Must support modern protocols (MCP, A2A, or VLA).
+3.  **Community Velocity**: Active development with high-fidelity documentation.
+4.  **Operational Safety**: Built-in guardrails or compatibility with Guardian systems.
 
 ---
 
 ## 🤝 Join the Vanguard
 
 ### 🛰️ Contributing
-We only accept **ELITE** or **SIGNIFICANT** entries.
 1. **Fork** the repo.
 2. **Standardize:** `- **[Name](Link)** \`License\` — Description with specific 2026 context.`
-3. **Verify:** Must have an active community or high-scale commercial adoption.
-4. **Target:** Place in the most granular section. If it doesn't fit, propose a new one.
+3. **Verify:** Targeted entry into the correct Architectural Layer.
 
 ### 🌍 Community
 - **Discussion:** [GitHub Discussions](https://github.com/HA2345567/awesome-autonomus-ai-agents/discussions)
-- **Pulse:** Follow #AgenticAI on X/LinkedIn
-- **Safety:** Check the [Agentic AI Foundation](https://agentic.foundation) for ethics.
+- **Pulse:** Follow #NexumAI on X/LinkedIn
 
 ---
 
 <div align="center">
 
-**[Star this Repository](https://github.com/HA2345567/awesome-autonomus-ai-agents)** to stay at the frontier of the Agentic Revolution.
+**[Star this Repository](https://github.com/HA2345567/awesome-autonomus-ai-agents)** to join the Agentic Revolution.
 
-*Curated with ❤️ by the Global Agentic Community | Last Updated: April 10, 2026*
+*Curated with ❤️ by NEXUM | Last Updated: April 10, 2026*
 
 </div>
