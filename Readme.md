@@ -216,6 +216,7 @@ graph TD
 - **[AlethianAI](https://alethianai.com)** `Healthcare` — Medical documentation and coding agents with 99.9% accuracy.
 
 ### 📊 Data Analytics & Mathematics
+- **[AI for Database](https://aifordatabase.com)** `🔥 Freemium` — Connects to any database (PostgreSQL, MySQL, MongoDB) and lets you query it in plain English. No SQL needed. Build self-refreshing dashboards and trigger automated workflows from database changes.
 - **[Julius AI](https://julius.ai)** `🔥 Freemium` — The premier data science agent. Autonomously connects to massive data warehouses, runs Python/R environments, and outputs interactive dashboards.
 - **[Google Data Commons Agent](https://datacommons.org)** `🆕 Open Source` — Navigates petabytes of public data to autonomously generate comprehensive statistical reports and visual insights.
 - **[PandasAI](https://github.com/Sinaptik-AI/pandas-ai)** `MIT` — Conversational interface standard for dataframes, allowing agents to manipulate tabular data without human SQL input.
