@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="180" height="180" alt="Nexum Logo" />
+
 
 # NEXUM: The Agentic Universe 🌌
 ### *The Definitive Repository for the Autonomous Era (2026 Edition)*
@@ -12,11 +12,26 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-58a6ff?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-3fb950?style=flat-square&logo=github)](http://makeapullrequest.com)&nbsp;
-[![Last Updated](https://img.shields.io/badge/Updated-May%202026-f78166?style=flat-square&logo=googlecalendar&logoColor=white)](#)&nbsp;
+[![Last Updated](https://img.shields.io/badge/Updated-June%202026-f78166?style=flat-square&logo=googlecalendar&logoColor=white)](#)&nbsp;
 [![Ecosystem Growth](https://img.shields.io/badge/Growth-1.2k%25_YoY-a371f7?style=flat-square&logo=chart-line&logoColor=white)](#)&nbsp;
 [![Status](https://img.shields.io/badge/Status-World%20Class-ffa657?style=flat-square&logo=stars&logoColor=white)](#)
 
 </div>
+
+---
+
+## 📖 Table of Contents
+
+| # | Section | What's Inside |
+|:---:|:---|:---|
+| 1 | [📈 Market Pulse & Intel](#-market-pulse--intel) | Heatmap, GitHub Titans, Q2 trends |
+| 2 | [🚀 The Agentic Stack](#-the-agentic-stack) | Frontier models, orchestration, protocols, on-device |
+| 3 | [🌐 The Agentic Experience (AX)](#-the-agentic-experience-ax) | Browser/computer use, voice & presence |
+| 4 | [💼 Vertical & Industry Agents](#-vertical--industry-agents) | Engineering, CX, enterprise ops, finance, science, data, gaming, robotics, law, education, creative, ecology |
+| 5 | [🛡️ Guardians: Security & Governance](#️-guardians-security--governance) | Security gateways, red-teaming, compliance |
+| 6 | [🛠️ Agent Operations (Ops)](#️-agent-operations-ops) | Workflow, low-code, agent economy & payments |
+| 7 | [🏛️ The NEXUM Standard](#️-the-nexum-standard) | Curation methodology |
+| 8 | [🤝 Join the Vanguard](#-join-the-vanguard) | Contributing, community |
 
 ---
 
@@ -81,25 +96,9 @@ graph TD
 
 ---
 
-<div align="center">
-
-## 🧭 Expedition Compass
-
-| [🚀 The Stack](#-the-agentic-stack) | [🌐 Experience](#-the-agentic-experience-ax) | [💼 Verticals](#-vertical-industry-agents) | [🛡️ Guardians](#-guardians-security--governance) |
-|:---:|:---:|:---:|:---:|
-| Models, Frameworks, Protocols | Browser, Voice, Computer Use | Coding, Legal, Edu, Art, Space, Bots | Security, Compliance, Alignment |
-
-| [🛠️ Operations](#-agent-operations-ops) | [📈 Market Pulse](#-market-pulse--intel) | [🎓 Knowledge](#-knowledge-hub) | [🤝 Community](#-join-the-vanguard) |
-|:---:|:---:|:---:|:---:|
-| Workflow, Economy, Payments | Star Rankings, Q1/Q2 Trends | 2025 Review, 2027 Outlook | Contributing, Updates |
-
-</div>
-
----
-
 ## 📈 Market Pulse & Intel
 
-### 🔥 The NEXUM Heatmap (May 2026)
+### 🔥 The NEXUM Heatmap (June 2026)
 > Real-time momentum analysis of the agentic ecosystem.
 
 ```text
@@ -133,18 +132,18 @@ graph TD
 *The infrastructure layer powering the autonomous world.*
 
 ### 🧠 Intelligence (Frontier Models)
-- **[GPT-5.4 Family](https://openai.com)** `🔥 Proprietary` — Adaptive thinking (Thinking/mini/nano); 2M context; GPT-4o deprecated.
-- **[Claude 4.6 (Opus/Sonnet)](https://claude.ai)** `🔥 Proprietary` — SWE-bench king (85%+); native parallel agent orchestration. Now includes built-in A2A v1.0 negotiation support.
-- **[Gemini 3.1 Ultra](https://gemini.google.com)** `Proprietary` — Deep integration with Google Workspace. Now serves as the primary intelligence layer for mass-deployed 2026 VLA robot controllers.
-- **[DeepSeek-R5](https://github.com/deepseek-ai)** `Open Source` — Moore's Law of reasoning; massive performance-to-cost disruption.
+- **[GPT-5.4 Family](https://openai.com/index/introducing-gpt-5-4/)** `🔥 Proprietary` — OpenAI's March 2026 frontier reasoning family for professional work, coding, computer use, and long-horizon agent workflows.
+- **[Claude Opus 4.8 / Sonnet 4.6](https://www.anthropic.com/claude/opus)** `🔥 Proprietary` — Anthropic's current Claude agentic model line, strong in coding, long-running tasks, computer use, and professional knowledge work.
+- **[Gemini 3 Pro](https://ai.google.dev/models/gemini)** `Proprietary` — Google's current frontier Gemini model for multimodal understanding, agentic coding, tool use, and long-context reasoning.
+- **[DeepSeek V4 / V3.2](https://api-docs.deepseek.com/quick_start/pricing/)** `Open Weights / API` — DeepSeek's current reasoning and coding model line, with V4 API models and V3.2 open-weight releases.
 - **[Qwen 3.0 Max](https://github.com/QwenLM/Qwen)** `🆕 Open Weights` — Breaks previous SWE-bench records for open weights. Natively supports MCP and 1M context for long-horizon agentic reasoning.
-- **[Llama 4.5 Agentic](https://llama.meta.com)** `Open Weights` — Fine-tuned specifically for tool-calling and long-horizon planning. Achieves near-parity with GPT-5.4 on 2026 autonomous multi-step reasoning benchmarks.
+- **[Llama 4.5 Agentic](https://llama.meta.com)** `Open Weights` — Open-weight model family positioned for tool-calling, local deployment, and long-horizon agent workflows.
 
 ### 🚀 Orchestration (Frameworks)
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** `🔥 MIT` — Industry standard for stateful, cyclic agent graphs.
 - **[CrewAI](https://github.com/joaomdmoura/crewAI)** `🔥 MIT` — Role-based multi-agent collaboration framework. Now includes native telemetric observability and optimized A2A v1.0 swarming.
 - **[Microsoft AutoGen 2.0](https://github.com/microsoft/autogen)** `Apache 2.0` — Re-architected for high-concurrency commercial deployments.
-- **[Swarm v2.0](https://github.com/openai/swarm)** `🆕 MIT` — The new industry standard for lightweight, stateless multi-agent orchestration, fully replacing the deprecated OpenAI Agents SDK.
+- **[OpenAI Agents SDK](https://platform.openai.com/docs/guides/agents-sdk/)** `🆕 OpenAI` — Production agent SDK for tool use, handoffs, tracing, guardrails, and sandboxed long-running agent workflows; replaces the experimental Swarm project.
 - **[Claude Agent SDK](https://docs.anthropic.com)** `MIT` — Focused on accuracy, sandboxing, and MCP native integration.
 - **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** `MIT` — Versatile framework for building multimodal agents with advanced memory and reasoning capabilities.
 - **[MetaGPT](https://github.com/geekan/MetaGPT)** `🆕 MIT` — Multi-agent framework that simulates software company roles (PM, engineer) for autonomous development.
@@ -194,9 +193,8 @@ graph TD
 - **[GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace)** `🆕 Freemium` — Autonomous issue-to-PR agent embedded in GitHub; opened Claude and Codex model access to all paid plan tiers.
 - **[Augment Code](https://augmentcode.com)** `🆕 Commercial` — Built for very large codebases with a 200k-token Context Engine; Code Review Agent achieved highest accuracy on public benchmarks.
 - **[OpenCode](https://github.com/sst/opencode)** `🆕 MIT · 147k ⭐` — Open-source terminal coding agent with 6.5M monthly devs; offline operation with local models.
-- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** `🆕 Apache 2.0` — Google's open-source terminal agent backed by Gemini 3.1 Pro; free tier and 1M-token context window.
+- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** `🆕 Apache 2.0` — Google's open-source terminal agent for Gemini-powered coding, repository analysis, and command-line workflows.
 - **[Aider](https://github.com/paul-gauthier/aider)** `MIT` — Legendary terminal-based pair programmer; masters of multi-file edits.
-- **[AgentX by OpenAI](https://openai.com)** `MIT · 12k ⭐` — Autonomous coding agent specializing in legacy migration. Expanded to support full-stack 2026 framework refactoring.
 - **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** `🆕 MIT` — Community-driven autonomous AI software engineer capable of executing complex, multi-file codebase operations via A2A protocols.
 - **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** `🆕 MIT` — Open-source agent environment that resolves GitHub issues autonomously, featuring native support for the 2026 MCP specification.
 
@@ -204,22 +202,48 @@ graph TD
 - **[Salesforce Agentforce](https://salesforce.com/agentforce)** `Commercial` — Massive scale CRM automation: sales, service, and marketing agents.
 - **[Workday Sana](https://workday.com)** `🔥 Commercial` — Enterprise AI agent suite that automates HR and finance tasks across payroll and workforce planning; integrated directly into Microsoft 365 Copilot.
 - **[Claude Cowork](https://claude.ai)** `🔥 Anthropic` — Anthropic's desktop agentic platform with plug-ins for investment banking, equity research, private equity, and wealth management.
+- **[SAP Joule Studio 2.0](https://sap.com)** `🆕 Commercial` — Enterprise agent layer for finance, procurement, supply chain, HCM, and CX workflows across SAP business systems.
+- **[Microsoft Agent 365](https://microsoft.com)** `🆕 Commercial` — Identity-first enterprise agent control plane for deploying, governing, and monitoring business agents across Microsoft 365 environments.
 - **[Oracle AI Agent Studio](https://oracle.com)** `🆕 Commercial` — Full development platform for building agentic applications on top of Oracle Fusion Cloud HCM, SCM, and CX.
 - **[Glean](https://glean.com)** `🆕 Commercial` — The enterprise brain; agents that know everything across Slack, Drive, Jira.
 - **[Eightfold AI](https://eightfold.ai)** `Commercial` — Autonomous recruiting: sourcing, screening, and scheduling at inhuman speeds.
 - **[Skyclerk](https://skyclerk.com)** `Commercial` — Fully autonomous bookkeeper: categorizes, audits, and reconciles 24/7.
+
+### 🎧 Customer Experience & Support
+- **[Intercom Fin](https://www.intercom.com/fin)** `🔥 Commercial` — AI support agent focused on resolving customer conversations across support workflows without human handoff when possible.
+- **[Zendesk AI Agents](https://www.zendesk.com/service/ai/ai-agents/)** `🔥 Commercial` — Autonomous customer-service agents for messaging, email, voice, and help-center workflows.
+- **[Ada AI Agent](https://www.ada.cx)** `Commercial` — AI-native customer-service automation with planning and task-specific subagents for enterprise CX teams.
+- **[Sierra](https://sierra.ai)** `🔥 Commercial` — Custom enterprise customer-experience agents with supervisor-agent patterns and context-rich brand workflows.
+- **[Decagon](https://decagon.ai)** `🆕 Commercial` — Customer-experience agent for voice, chat, and email with testing, observability, and iteration loops for reliability.
+- **[Maven AGI](https://www.mavenagi.com)** `🆕 Commercial` — Enterprise CX agent platform for support across voice, chat, email, and internal tools.
+
+### 🧑‍💼 Work Management & Enterprise Ops
+- **[ServiceNow AI Agent Studio / Orchestrator](https://www.servicenow.com)** `🔥 Commercial` — Agent builder and orchestrator for IT, customer service, HR, CRM, and enterprise workflow automation.
+- **[Atlassian Rovo Agents](https://www.atlassian.com/rovo)** `🆕 Commercial` — Configurable AI teammates for Jira, Confluence, and connected third-party work data.
+- **[Asana AI Teammates](https://asana.com/product/ai/ai-teammates)** `🆕 Commercial` — Collaborative agents for planning, coordination, follow-up, and workflow execution inside Asana.
+- **[ClickUp Brain Agents](https://clickup.com/brain)** `Commercial` — Contextual work agents inside tasks, chat, docs, and project workflows.
+- **[monday.com AI Agents](https://monday.com)** `🆕 Commercial` — Native and external AI agents that operate inside monday.com work boards and business workflows.
 
 ### 🔬 Science & Healthcare
 - **[CAS Newton](https://cas.org)** `🔥 April 2026` — Deep scientific discovery agent grounded in 150 years of curated data.
 - **[NVIDIA BioNeMo Proteina-Complexa](https://nvidia.com/bionemo)** `🆕 Research` — Protein drug discovery model built on BioNeMo platform; trained on a new open dataset of millions of AI-predicted protein complexes.
 - **[AlphaFold 3 Agent](https://deepmind.google)** `Research` — Autonomous protein structure and interaction modeling.
 - **[AlethianAI](https://alethianai.com)** `Healthcare` — Medical documentation and coding agents with 99.9% accuracy.
+- **[Abridge](https://www.abridge.com)** `🔥 Healthcare` — Clinical conversation agent that generates context-aware notes, coding support, and revenue-cycle documentation inside health-system workflows.
+- **[Nabla](https://www.nabla.com)** `Commercial` — Ambient clinical assistant that structures encounters into clinical notes across specialties, settings, and languages.
+- **[Ambience Healthcare](https://www.ambiencehealthcare.com)** `Commercial` — Healthcare AI agent platform for clinical documentation, coding, and compliance workflows.
+- **[Hippocratic AI](https://www.hippocraticai.com)** `🆕 Healthcare Agents` — Patient-facing, non-diagnostic healthcare agent platform with a healthcare AI agent marketplace.
 
 ### 📊 Data Analytics & Mathematics
 - **[AI for Database](https://aifordatabase.com)** `🔥 Freemium` — Connects to any database (PostgreSQL, MySQL, MongoDB) and lets you query it in plain English. No SQL needed. Build self-refreshing dashboards and trigger automated workflows from database changes.
 - **[Julius AI](https://julius.ai)** `🔥 Freemium` — The premier data science agent. Autonomously connects to massive data warehouses, runs Python/R environments, and outputs interactive dashboards.
 - **[Google Data Commons Agent](https://datacommons.org)** `🆕 Open Source` — Navigates petabytes of public data to autonomously generate comprehensive statistical reports and visual insights.
 - **[PandasAI](https://github.com/Sinaptik-AI/pandas-ai)** `MIT` — Conversational interface standard for dataframes, allowing agents to manipulate tabular data without human SQL input.
+- **[Snowflake Cortex Agents](https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents)** `🆕 Commercial` — Enterprise data agents that combine structured analytics, enterprise search, and LLM tooling inside Snowflake.
+- **[Databricks Genie](https://docs.databricks.com/en/genie/)** `🔥 Commercial` — Governed data agent experience grounded in Unity Catalog, Genie Spaces, dashboards, and Databricks workspace data.
+- **[Microsoft Fabric Data Agents](https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent)** `🆕 Commercial` — Conversational data agents for OneLake, lakehouses, warehouses, Power BI semantic models, KQL databases, and Microsoft Graph.
+- **[Tableau Agent](https://www.tableau.com/products/tableau-agent)** `Commercial` — Analytics agent for data preparation, exploration, visualization, and natural-language insight workflows.
+- **[Hex AI Agents](https://hex.tech/product/ai/)** `Commercial` — Notebook and analytics agents that write queries, build charts, generate data apps, and chain complex analyses.
 
 ### 🎮 Virtual Worlds & Gaming
 - **[Altera](https://altera.al)** `🔥 Commercial` — Digital humans that live in game environments (e.g., Minecraft); they form societies, build economies, and demonstrate continuous learning.
@@ -317,6 +341,6 @@ To be included in NEXUM, a project must undergo the **Lead Designer's Vetting Pr
 
 **[Star this Repository](https://github.com/HA2345567/awesome-autonomus-ai-agents)** to join the Agentic Revolution.
 
-*Curated with ❤️ by NEXUM | Last Updated: May 17, 2026*
+*Curated with ❤️ by NEXUM | Last Updated: June 9, 2026*
 
 </div>
