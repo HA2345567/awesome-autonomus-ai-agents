@@ -10,8 +10,10 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-58a6ff?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-3fb950?style=flat-square&logo=github)](http://makeapullrequest.com)&nbsp;
-[![Last Updated](https://img.shields.io/badge/Updated-July%202026-f78166?style=flat-square&logo=googlecalendar&logoColor=white)](#)&nbsp;
+[![Last Updated](https://img.shields.io/badge/Updated-Q3%202026-f78166?style=flat-square&logo=googlecalendar&logoColor=white)](#)&nbsp;
 [![Status](https://img.shields.io/badge/Status-World%20Class-ffa657?style=flat-square&logo=stars&logoColor=white)](#)
+
+[**Explore Stack**](#-the-agentic-stack) • [**What's New**](#-whats-new-right-now-q3-2026-at-a-glance) • [**Commerce Protocol**](#-agentic-commerce--payments-protocols) • [**OWASP Security**](#️-guardians-security--governance) • [**Contribute**](#-join-the-vanguard)
 
 </div>
 
@@ -19,13 +21,14 @@
 
 ## 🆕 What's New Right Now (Q3 2026 at a glance)
 
-> The fastest-moving corner of the list — read this section first if you last checked in before summer.
+> [!IMPORTANT]
+> **The fastest-moving corner of the ecosystem** — read this section first if you last checked in before summer.
 
-- **Model layer reshuffled.** Anthropic shipped **Claude Opus 4.8** and **Claude Sonnet 5** as the current flagship/mid-tier pair, alongside **Claude Haiku 4.5**. Above Opus sits a new **Mythos tier**: **Claude Mythos 5** and **Claude Fable 5** launched June 9, 2026, were briefly suspended June 12–July 1 for export-control compliance, and are now restored. OpenAI, Google, and the open-weight camp all moved too — see [Intelligence](#-intelligence-frontier-models) below.
-- **Orchestration consolidated.** Microsoft folded **AutoGen** and **Semantic Kernel** into the unified **Microsoft Agent Framework (MAF) 1.0**, GA since April 2026. **Google ADK 2.0** moved to a graph-based execution engine. **PydanticAI V2** shipped a "harness-first" redesign. **LangGraph 1.0**, **CrewAI 1.14**, and the new **Claude Agent SDK** all now ship native MCP + A2A support.
-- **The coding-agent wars have a new shape.** **Google Antigravity 2.0** (built on the Windsurf acqui-hire) and **Cursor 3 / Composer 2.5** are now serious rivals to **Claude Code** and **OpenAI Codex CLI** — while the original **Windsurf** IDE retired and relaunched as **Devin Desktop**.
-- **Agentic commerce is real infrastructure now**, not a pitch deck. Google's **AP2**, Coinbase's **x402** (now under the Linux Foundation's x402 Foundation), OpenAI's **ACP**, and the newer **MPP** rail all shipped production integrations in H1 2026 — see the brand-new [Agentic Commerce & Payments Protocols](#-agentic-commerce--payments-protocols) section.
-- **Security got a standard.** **OWASP's Top 10 for Agentic Applications (ASI Top 10)** — covering risks like Agent Goal Hijack and Memory/Context Poisoning — is now the reference framework cited across the Guardians layer.
+- 🧠 **Model layer reshuffled:** Anthropic shipped **Claude Opus 4.8** and **Claude Sonnet 5** as the current flagship/mid-tier pair, alongside **Claude Haiku 4.5**. Above Opus sits a new **Mythos tier**: **Claude Mythos 5** and **Claude Fable 5** launched June 9, 2026, were briefly suspended June 12–July 1 for export-control compliance, and are now restored. OpenAI, Google, and open-weight models all advanced rapidly — see [Intelligence](#-intelligence-frontier-models) below.
+- 🚀 **Orchestration consolidated:** Microsoft folded **AutoGen** and **Semantic Kernel** into the unified **Microsoft Agent Framework (MAF) 1.0**, GA since April 2026. **Google ADK 2.0** moved to a graph-based execution engine. **PydanticAI V2** shipped a "harness-first" redesign. **LangGraph 1.0**, **CrewAI 1.14**, and the new **Claude Agent SDK** all now ship native MCP + A2A support.
+- 💻 **The coding-agent wars shifted:** **Google Antigravity 2.0** (built on the Windsurf acqui-hire) and **Cursor 3 / Composer 2.5** are now serious rivals to **Claude Code** and **OpenAI Codex CLI** — while the original **Windsurf** IDE retired and relaunched as **Devin Desktop**.
+- 💳 **Agentic commerce is production infrastructure:** Google's **AP2**, Coinbase's **x402** (now under the Linux Foundation's x402 Foundation), OpenAI's **ACP**, and the newer **MPP** rail all shipped production integrations in H1 2026 — see the brand-new [Agentic Commerce & Payments Protocols](#-agentic-commerce--payments-protocols) section.
+- 🛡️ **Security gained a unified standard:** **OWASP's Top 10 for Agentic Applications (ASI Top 10)** — covering risks like Agent Goal Hijack and Memory/Context Poisoning — is now the reference security framework cited across the Guardians layer.
 
 ---
 
@@ -33,16 +36,16 @@
 
 | # | Section | What's Inside |
 |:---:|:---|:---|
-| 1 | [📈 Market Pulse & Intel](#-market-pulse--intel) | Heatmap, GitHub Titans, Q3 trends |
-| 2 | [🚀 The Agentic Stack](#-the-agentic-stack) | Frontier models, orchestration, micro-agents, agent sandboxes, agent memory, protocols, on-device |
-| 3 | [🌐 The Agentic Experience (AX)](#-the-agentic-experience-ax) | Browser/computer use, vision models, voice & presence |
-| 4 | [💼 Vertical & Industry Agents](#-vertical--industry-agents) | Engineering, deep research, CX, enterprise ops, finance, science, data, gaming, robotics, law, education, creative, ecology |
-| 5 | [📊 Agent Evaluation, Tracing & Observability](#-agent-evaluation-tracing--observability) | Benchmarks, leaderboards, OpenTelemetry, unit testing & evaluation suites |
-| 6 | [🛡️ Guardians: Security & Governance](#️-guardians-security--governance) | Security gateways, guardrails, red-teaming, OWASP ASI Top 10 |
-| 7 | [💰 Agentic Commerce & Payments Protocols](#-agentic-commerce--payments-protocols) | 🆕 AP2, x402, ACP, MPP, agent wallets |
-| 8 | [🛠️ Agent Operations & Economy](#️-agent-operations--economy) | Workflow, low-code, billing & metering |
-| 9 | [🏛️ The NEXUM Standard](#️-the-nexum-standard) | Curation methodology |
-| 10 | [🤝 Join the Vanguard](#-join-the-vanguard) | Contributing, community |
+| 1 | [📈 Market Pulse & Intel](#-market-pulse--intel) | Ecosystem heatmaps, GitHub star titans, Q3 trends |
+| 2 | [🚀 The Agentic Stack](#-the-agentic-stack) | Frontier models, orchestration, micro-agents, sandboxes, memory, protocols, edge runtimes |
+| 3 | [🌐 The Agentic Experience (AX)](#-the-agentic-experience-ax) | Browser/computer use, GUI vision models, voice & spatial presence |
+| 4 | [💼 Vertical & Industry Agents](#-vertical--industry-agents) | Engineering, deep research, CX, enterprise ops, finance, science, data, robotics, legal |
+| 5 | [📊 Agent Evaluation, Tracing & Observability](#-agent-evaluation-tracing--observability) | SWE-bench, Terminal-Bench 2.1, OpenTelemetry, unit testing & evaluation suites |
+| 6 | [🛡️ Guardians: Security & Governance](#️-guardians-security--governance) | Security gateways, guardrails, red-teaming, OWASP ASI Top 10 framework |
+| 7 | [💰 Agentic Commerce & Payments Protocols](#-agentic-commerce--payments-protocols) | 🆕 AP2, x402, ACP, MPP settlement, agent wallet infrastructure |
+| 8 | [🛠️ Agent Operations & Economy](#-agent-operations--economy) | Workflow automation, low-code builders, sub-cent request billing & metering |
+| 9 | [🏛️ The NEXUM Standard](#️-the-nexum-standard) | Curation methodology & vetting requirements |
+| 10 | [🤝 Join the Vanguard](#-join-the-vanguard) | Contribution guidelines, community discussions |
 
 ---
 
@@ -153,7 +156,7 @@ graph TD
 ### 🏆 The Titans (By GitHub Stars)
 ```text
   AutoGPT           ██████████████████████████████████████████████████ 185k+
-  OpenCode           █████████████████████████████████████████████████ 180k+ 🆕
+  OpenCode          █████████████████████████████████████████████████ 180k+ 🆕
   LangChain         ██████████████████████████████████████████████    120k+
   Dify              ████████████████████████████████████████          108k+
   n8n               █████████████████████████████████████             102k+
@@ -174,25 +177,25 @@ graph TD
 
 ### 🧠 Intelligence (Frontier Models)
 - **[GPT-5.4 / GPT-5.5 Family](https://openai.com/index/introducing-gpt-5-4/)** `🔥 Proprietary` — OpenAI's frontier reasoning family for professional work, multi-modal coding, computer use, and long-horizon agent execution; GPT-5.5 currently tops the public Terminal-Bench 2.1 leaderboard via Codex CLI.
-- **[Claude Opus 4.8 / Sonnet 5 / Haiku 4.5](https://www.anthropic.com/claude)** `🔥 Proprietary` — Anthropic's current flagship agentic line: Opus 4.8 for maximum reasoning depth, the newly released Sonnet 5 for fast agentic day-to-day work, and Haiku 4.5 for low-latency tasks.
-- **[Claude Mythos 5 / Claude Fable 5](https://www.anthropic.com/news/fable-mythos-access)** `🆕 Proprietary` — Anthropic's new above-Opus "Mythos" tier, first released June 9, 2026; Fable 5 shares the same underlying model with added safety measures for bio/cyber/LLM-R&D domains. Briefly suspended June 12–July 1, 2026 for U.S. export-control compliance and now restored.
-- **[Gemini 3.1 / 3.5 Pro & Flash](https://ai.google.dev/models/gemini)** `Proprietary` — Google's frontier multimodal model family with 2M+ context, native tool execution, agentic coding, and the fast, cheap Gemini 3.5 Flash tier now powering Antigravity 2.0.
+- **[Claude Opus 4.8 / Sonnet 5 / Haiku 4.5](https://www.anthropic.com/claude)** `🔥 Proprietary` — Anthropic's current flagship agentic line: Opus 4.8 for maximum reasoning depth, Sonnet 5 for fast agentic day-to-day work, and Haiku 4.5 for low-latency tasks.
+- **[Claude Mythos 5 / Claude Fable 5](https://www.anthropic.com/news/fable-mythos-access)** `🆕 Proprietary` — Anthropic's new above-Opus "Mythos" tier, first released June 9, 2026; Fable 5 shares the same underlying model with added safety measures for bio/cyber/LLM-R&D domains. Restored July 1, 2026 following export-control compliance review.
+- **[Gemini 3.1 / 3.5 Pro & Flash](https://ai.google.dev/models/gemini)** `Proprietary` — Google's frontier multimodal model family with 2M+ context, native tool execution, agentic coding, and the fast, low-cost Gemini 3.5 Flash tier powering Antigravity 2.0.
 - **[DeepSeek V4 / V3.2](https://api-docs.deepseek.com/quick_start/pricing/)** `Open Weights / API` — DeepSeek's open reasoning and coding model line, offering cost-efficient frontier intelligence and native agentic function calling.
 - **[Qwen 3.0 Max](https://github.com/QwenLM/Qwen)** `Open Weights` — Alibaba's open-weight model family with native MCP integration, 1M context, and top open-source SWE-bench scores.
 - **[Llama 4.5 Agentic](https://llama.meta.com)** `Open Weights` — Meta's open-weight foundation model family optimized for local agent deployment, tool execution, and multi-agent coordination.
-- **[Kimi K2.5](https://github.com/MoonshotAI)** `🆕 Open Weights` — Moonshot AI's open-source base model, now the foundation under Cursor's in-house Composer 2.5 agent after heavy RL post-training.
+- **[Kimi K2.5](https://github.com/MoonshotAI)** `🆕 Open Weights` — Moonshot AI's open-source base model, serving as the foundation under Cursor's in-house Composer 2.5 agent after heavy RL post-training.
 
 ### 🚀 Orchestration (Frameworks)
-- **[Microsoft Agent Framework (MAF) 1.0](https://github.com/microsoft/agent-framework)** `🆕 🔥 MIT` — Microsoft's official successor to AutoGen and Semantic Kernel, reaching GA on April 2–3, 2026 in both Python and .NET, with declarative YAML config, native MCP, and A2A via adapter.
-- **[LangGraph 1.0](https://github.com/langchain-ai/langgraph)** `🔥 MIT` — The enterprise standard for stateful, cyclic multi-agent graphs, now with MCP tools as first-class streaming graph nodes.
-- **[Google Agent Development Kit (ADK) 2.0](https://github.com/google/adk)** `🆕 Apache 2.0` — Google's code-first agent toolkit, rebuilt around a graph-based execution engine at I/O 2026; deep Gemini/Vertex AI/Cloud Run integration plus a local dev UI.
-- **[Claude Agent SDK](https://pypi.org/project/claude-agent-sdk/)** `🆕 Anthropic · MIT` — Anthropic's official SDK for building custom agents on the Claude Code harness, with MCP as its primary, first-class tool contract.
+- **[Microsoft Agent Framework (MAF) 1.0](https://github.com/microsoft/agent-framework)** `🆕 🔥 MIT` — Microsoft's official successor to AutoGen and Semantic Kernel, reaching GA in April 2026 across Python and .NET with declarative YAML config, native MCP, and A2A integration.
+- **[LangGraph 1.0](https://github.com/langchain-ai/langgraph)** `🔥 MIT` — The enterprise standard for stateful, cyclic multi-agent graphs, featuring MCP tools as first-class streaming graph nodes.
+- **[Google Agent Development Kit (ADK) 2.0](https://github.com/google/adk)** `🆕 Apache 2.0` — Google's code-first agent toolkit, rebuilt around a graph-based execution engine at Google I/O 2026 with deep Gemini and Cloud Run integration.
+- **[Claude Agent SDK](https://pypi.org/project/claude-agent-sdk/)** `🆕 Anthropic · MIT` — Anthropic's official SDK for building custom agents on the Claude Code harness, using MCP as its primary tool contract.
 - **[CrewAI 1.14](https://github.com/joaomdmoura/crewAI)** `🔥 MIT` — Role-based multi-agent collaboration framework with built-in telemetry, enterprise flows, and native MCP/A2A swarming support.
-- **[PydanticAI V2](https://github.com/pydantic/pydantic-ai)** `🆕 🔥 MIT` — Type-safe Python agent framework, now with a "harness-first" redesign (June 2026) bundling tools, hooks, instructions, and model settings into a single composable "capability" primitive.
-- **[Mastra](https://github.com/mastra-ai/mastra)** `🆕 Apache 2.0` — TypeScript-native agent framework increasingly cited alongside LangGraph and ADK as a top-10 2026 pick for full-stack JS/TS teams.
-- **[LlamaIndex Workflows 1.0](https://github.com/run-llama/llama_index)** `Apache 2.0` — Event-driven workflow engine from LlamaIndex for RAG-heavy and data-centric multi-agent pipelines, now shipping native MCP support.
-- **[AG2](https://github.com/ag2ai/ag2)** `🆕 Apache 2.0` — Community-driven fork of the original AutoGen v0.2, maintained by former Microsoft AutoGen creators after AutoGen entered maintenance mode in late 2025.
-- **[Camel-AI](https://github.com/camel-ai/camel)** `MIT` — The pioneer multi-agent framework exploring communicational agent behavior and cooperative task execution.
+- **[PydanticAI V2](https://github.com/pydantic/pydantic-ai)** `🆕 🔥 MIT` — Type-safe Python agent framework with a "harness-first" redesign bundling tools, hooks, instructions, and model settings into composable capability primitives.
+- **[Mastra](https://github.com/mastra-ai/mastra)** `🆕 Apache 2.0` — TypeScript-native agent framework tailored for full-stack JavaScript and Node.js teams.
+- **[LlamaIndex Workflows 1.0](https://github.com/run-llama/llama_index)** `Apache 2.0` — Event-driven workflow engine from LlamaIndex for RAG-heavy and data-centric multi-agent pipelines with native MCP support.
+- **[AG2](https://github.com/ag2ai/ag2)** `🆕 Apache 2.0` — Community-driven continuation of original AutoGen v0.2, maintained by former creators.
+- **[Camel-AI](https://github.com/camel-ai/camel)** `MIT` — Pioneer multi-agent framework exploring communicational agent behavior and cooperative task execution.
 - **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** `MIT` — High-performance framework for lightweight, multimodal agents with vector memory and fast reasoning loops.
 
 ### ⚡ Micro-Agents & Lightweight SDKs
@@ -215,10 +218,10 @@ graph TD
 - **[Cognee](https://github.com/topobyte/cognee)** `Apache 2.0` — Memory management and graph-RAG pipeline for LLMs and agents, organizing unstructured context into searchable knowledge graphs.
 
 ### 🛣️ Connectivity (Protocols & Standards)
-- **[Model Context Protocol (MCP)](https://modelcontextprotocol.io)** `🔥 Anthropic` — The universal open standard ("USB-C for AI") connecting agents to external data sources, tools, and environments; now the primary tool contract for the Claude Agent SDK and Microsoft Agent Framework.
-- **[Agent2Agent (A2A) v1.0](https://developers.google.com)** `🔥 Google` — Open protocol enabling heterogeneous AI agents to negotiate tasks and exchange data; backed by 150+ organizations as of April 2026, with production SDKs in Python, JS, Java, Go, and .NET.
+- **[Model Context Protocol (MCP)](https://modelcontextprotocol.io)** `🔥 Anthropic` — The universal open standard ("USB-C for AI") connecting agents to external data sources, tools, and environments; primary tool contract for Claude Agent SDK and MAF 1.0.
+- **[Agent2Agent (A2A) v1.0](https://developers.google.com)** `🔥 Google` — Open protocol enabling heterogeneous AI agents to negotiate tasks and exchange data; backed by 150+ organizations with production SDKs in Python, JS, Java, Go, and .NET.
 - **[Agent Network Protocol (ANP)](https://agent-network-protocol.com)** `Open Standard` — Decentralized communication standard for P2P inter-agent messaging and discovery.
-- **[Universal Commerce Protocol (UCP)](https://developers.google.com/shopping)** `Google` — Protocol for autonomous buy-and-sell agents to execute commercial transactions across digital storefronts — see full payments breakdown below.
+- **[Universal Commerce Protocol (UCP)](https://developers.google.com/shopping)** `Google` — Protocol for autonomous buy-and-sell agents to execute commercial transactions across digital storefronts.
 
 ### 📱 Local & Edge (On-Device Agents)
 - **[Ollama](https://github.com/ollama/ollama)** `🔥 MIT` — The premier local engine for running quantized agent models offline on consumer hardware with zero data leakage.
@@ -235,7 +238,7 @@ graph TD
 - **[Stagehand](https://github.com/browserbase/stagehand)** `🔥 MIT` — Browserbase's AI-first browser automation SDK built on Playwright with natural language actions, extraction, and observation.
 - **[Skyvern](https://github.com/Skyvern-AI/skyvern)** `🔥 Apache 2.0` — Open-source vision + LLM browser automation agent capable of navigating complex websites without brittle CSS selectors.
 - **[UI-Tars](https://github.com/bytedance/ui-tars)** `Open Source` — ByteDance's GUI agent model trained for direct vision-based computer and web interaction across Windows, macOS, and mobile.
-- **[Claude Computer Use / Claude in Chrome](https://claude.com)** `🔥 Proprietary` — Direct visual screen perception and mouse/keyboard action execution, now shipping as a dedicated browsing agent extension.
+- **[Claude Computer Use / Claude in Chrome](https://claude.com)** `🔥 Proprietary` — Direct visual screen perception and mouse/keyboard action execution, available as a dedicated browser agent extension.
 - **[OpenAI Operator](https://openai.com)** `Proprietary` — Autonomous browser agent capable of executing complex web tasks like travel booking, shopping, and research.
 - **[Cline / Roo Code](https://github.com/cline/cline)** `MIT` — VS Code extension agent featuring full autonomous terminal, file edit, and browser preview loops.
 - **[Open Interpreter](https://github.com/KillianLucas/open-interpreter)** `MIT` — Natural language command-line agent executing code locally across Python, JS, Shell, and native OS apps.
@@ -252,19 +255,19 @@ graph TD
 *Domain-specific expertise unleashed.*
 
 ### 🔧 Engineering & Systems
-- **[Claude Code](https://claude.com/code)** `🔥 CLI` — Anthropic's terminal-native agent; deepest reasoning ceiling in the category (69.2% SWE-bench Pro with Opus 4.8), with parallel subagents and background/cloud sessions.
-- **[Google Antigravity 2.0](https://antigravity.google)** `🆕 🔥 Freemium` — Google's parallel-agent IDE, grown out of its Windsurf licensing deal; split Editor View / Manager Surface for spawning and observing many agents at once, now on Gemini 3.5 Flash.
-- **[Cursor 3 (Composer 2.5)](https://cursor.com)** `🆕 🔥 Freemium` — Editor-centric AI IDE; in-house Composer 2.5 model (built on Kimi K2.5) scores ~79.8% SWE-Bench Multilingual at roughly a tenth of frontier-model cost, plus a parallel "Build in Parallel" agents window.
-- **[OpenAI Codex CLI](https://openai.com/codex)** `🆕 Freemium` — OpenAI's standalone cloud/CLI coding agent, currently #1 on the public Terminal-Bench 2.1 leaderboard with GPT-5.5, with desktop apps for macOS and Windows.
-- **[Devin Desktop (formerly Windsurf)](https://cognition.ai)** `🆕 Commercial` — Cognition's relaunch of the retired Windsurf IDE, bundling the Devin cloud agent and Devin Terminal CLI directly into the editor for fully autonomous parallel-VM runs.
-- **[Kiro](https://kiro.dev)** `Commercial` — Spec-driven development IDE with event-driven hooks, still the category leader for teams that want formal specs before code generation.
-- **[OpenCode](https://github.com/sst/opencode)** `🔥 MIT · 180k+ ⭐` — SST's open-source, model-agnostic terminal coding agent; now the most-starred open-source coding agent, built for local offline workflows.
-- **[Trae](https://www.trae.ai/)** `Freemium` — ByteDance's adaptive AI-native IDE that integrates context-aware coding agents into workspace workflows.
-- **[Google Jules](https://jules.google)** `🆕 Freemium` — Google's async, GitHub-issue-to-PR coding agent, positioned as a free-tier competitor to Devin's cloud delegation model.
+- **[Claude Code](https://claude.com/code)** `🔥 CLI` — Anthropic's terminal-native agent; highest reasoning ceiling in the category (69.2% SWE-bench Pro with Opus 4.8), featuring parallel subagents and background sessions.
+- **[Google Antigravity 2.0](https://antigravity.google)** `🆕 🔥 Freemium` — Google's parallel-agent IDE built on the Windsurf acqui-hire; features split Editor View / Manager Surface for spawning and supervising multiple agents, powered by Gemini 3.5 Flash.
+- **[Cursor 3 (Composer 2.5)](https://cursor.com)** `🆕 🔥 Freemium` — AI-native code editor powered by Composer 2.5 (built on Kimi K2.5), scoring ~79.8% SWE-Bench Multilingual at lower compute costs with parallel worktree execution.
+- **[OpenAI Codex CLI](https://openai.com/codex)** `🆕 Freemium` — OpenAI's standalone cloud/CLI coding agent, #1 on the public Terminal-Bench 2.1 leaderboard with GPT-5.5.
+- **[Devin Desktop (formerly Windsurf)](https://cognition.ai)** `🆕 Commercial` — Cognition's relaunch of the Windsurf IDE, integrating the Devin cloud agent and Devin Terminal CLI for autonomous micro-VM runs.
+- **[Kiro](https://kiro.dev)** `Commercial` — Spec-driven development IDE with event-driven hooks for structured spec-first code generation.
+- **[OpenCode](https://github.com/sst/opencode)** `🔥 MIT · 180k+ ⭐` — SST's open-source, model-agnostic terminal coding agent; the most-starred open-source terminal coding agent for local offline workflows.
+- **[Trae](https://www.trae.ai/)** `Freemium` — ByteDance's adaptive AI-native IDE integrating context-aware coding agents into workspace workflows.
+- **[Google Jules](https://jules.google)** `🆕 Freemium` — Google's asynchronous GitHub-issue-to-PR coding agent.
 - **[Replit Agent 4](https://replit.com)** `Freemium` — Autonomous cloud IDE agent that plans, builds, tests, and deploys full-stack applications with parallel branch merging.
-- **[GitHub Copilot (Cloud Agent)](https://github.com/features/copilot)** `Commercial` — GitHub-native issue-to-PR automation, now with usage-based flex billing and a cloud agent mode alongside classic autocomplete.
-- **[Aider](https://github.com/paul-gauthier/aider)** `MIT` — Command-line pair programmer with git integration and git commit message generation.
-- **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** `MIT` — Princeton's open agent framework designed to solve GitHub issues autonomously using custom LM interfaces.
+- **[GitHub Copilot (Cloud Agent)](https://github.com/features/copilot)** `Commercial` — GitHub-native issue-to-PR automation with flexible billing and cloud agent delegation.
+- **[Aider](https://github.com/paul-gauthier/aider)** `MIT` — Command-line pair programmer with git integration and automated commit formatting.
+- **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** `MIT` — Princeton's open agent framework designed to solve GitHub issues autonomously.
 - **[OpenHands (formerly OpenDevin)](https://github.com/All-Hands-AI/OpenHands)** `MIT` — Open-source community project building autonomous software development agents.
 - **[JetBrains Junie](https://www.jetbrains.com/junie/)** `Commercial` — Embedded agent for IntelliJ, PyCharm, and WebStorm with native MCP and codebase grounding.
 
@@ -276,7 +279,7 @@ graph TD
 
 ### 💹 Business, Finance & HR
 - **[Salesforce Agentforce](https://salesforce.com/agentforce)** `Commercial` — Autonomous enterprise agent suite across CRM, sales pipeline, service triage, and marketing workflows.
-- **[Claude Cowork](https://claude.ai)** `🆕 Anthropic` — Desktop agentic platform for knowledge work — reconciling spend, building trackers from contract folders, and assembling decks from transcripts and pipeline data across files, email, and connected apps.
+- **[Claude Cowork](https://claude.ai)** `🆕 Anthropic` — Desktop agentic platform for knowledge work — reconciling spend, building trackers from contract folders, and assembling decks from transcripts across connected apps.
 - **[Workday Sana](https://workday.com)** `Commercial` — Enterprise AI agent suite automating HR, payroll, procurement, and financial operations.
 - **[SAP Joule Studio 2.0](https://sap.com)** `Commercial` — Enterprise agent layer for supply chain, HCM, and ERP business processes across SAP environments.
 - **[Microsoft Agent 365](https://microsoft.com)** `Commercial` — Control plane for building, deploying, and governing business agents inside Microsoft 365 environments.
@@ -326,19 +329,6 @@ graph TD
 - **[Robin AI](https://robinai.co.uk)** `Commercial` — Contract negotiation agent automatically evaluating standard agreement terms and drafting revisions.
 - **[LexisNexis Lexis+ AI Agent](https://lexisnexis.com)** `Commercial` — Legal research agent generating verified briefs grounded in primary legal authorities.
 
-### 🎓 Education & Tutoring
-- **[Khanmigo Horizon](https://khanacademy.org)** `Non-Profit` — Proactive AI tutor agent monitoring learning friction, customizing lesson plans, and guiding Socratic problem-solving.
-- **[Synthesis Tutor Swarm](https://synthesis.com)** `Commercial` — Multi-agent educational environment facilitating student debates and adaptive math/science challenges.
-
-### 🎨 Creative Arts, Media & Entertainment
-- **[Sora Director Studio](https://openai.com/sora)** `Proprietary` — Agentic filmmaking studio automating shot generation, virtual actor casting, and scene sequencing.
-- **[Udio Composer Agent](https://udio.com)** `Commercial` — Interactive music composition agent generating multi-stem audio arrangements based on natural language direction.
-- **[Runway Gen-4 Auto-Editor](https://runwayml.com)** `Commercial` — Agentic video editing assistant identifying best takes and splicing raw footage into finished edits.
-
-### 🌍 Earth, Ecology & Space
-- **[Planet Labs Eco-Agent](https://planet.com)** `Commercial` — Autonomous satellite swarm orchestration for environmental monitoring, wildfire detection, and deforestation tracking.
-- **[NASA AutoRover Protocol](https://nasa.gov)** `Open Source` — VLA-driven autonomous navigation protocol for space exploration rovers conducting untethered planetary surveys.
-
 ---
 
 ## 📊 Agent Evaluation, Tracing & Observability
@@ -357,7 +347,7 @@ graph TD
 - **[Langfuse](https://langfuse.com)** `🔥 Open Source · MIT` — Open-source observability and evaluation platform for AI agents, featuring detailed trace visualizations, cost tracking, and prompt management.
 - **[Arize Phoenix](https://phoenix.arize.com)** `🔥 Open Source` — AI observability platform built on OpenTelemetry for tracing agent execution loops, evaluation metrics, and tool execution call stacks.
 - **[AgentOps](https://www.agentops.ai)** `🔥 Freemium` — Purpose-built observability platform for multi-agent systems, tracking agent session replays, LLM costs, tool failures, and recursion loops.
-- **[DeepEval / DeepTeam](https://github.com/confident-ai/deepeval)** `Apache 2.0` — Open-source LLM & agent unit testing and red-teaming framework, now with OWASP ASI Top 10 test coverage.
+- **[DeepEval / DeepTeam](https://github.com/confident-ai/deepeval)** `Apache 2.0` — Open-source LLM & agent unit testing and red-teaming framework, featuring OWASP ASI Top 10 test coverage.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** `MIT` — CLI & library for evaluating agent prompts, tool calls, agentic security vulnerabilities, and automated red-teaming.
 - **[Braintrust](https://www.braintrust.dev/)** `Commercial` — Enterprise evaluation stack for automated agent testing, prompt playground experiments, and CI/CD quality gates.
 - **[Comet Opik](https://www.comet.com/site/products/opik/)** `Open Source` — End-to-end LLM evaluation and agent tracing platform supporting custom metrics, automated evaluation, and real-time monitoring.
@@ -368,7 +358,8 @@ graph TD
 ## 🛡️ Guardians: Security & Governance
 *Ensuring the autonomous world stays safe, aligned, and compliant.*
 
-> **🆕 The reference framework:** the [OWASP Top 10 for Agentic Applications (ASI Top 10)](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/), published December 2025 with 100+ contributing organizations, is now the shared industry baseline. It centers on two principles — **Least-Agency** (grant only the autonomy a task requires) and **Strong Observability** (mandatory logging of goal state, tool-use patterns, and decision pathways) — and names ten risk categories from Agent Goal Hijack (ASI01) to Rogue Agents (ASI10). Most tools below now map their coverage directly to this list.
+> [!NOTE]
+> **The reference security standard:** The [OWASP Top 10 for Agentic Applications (ASI Top 10)](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/), published with 100+ contributing organizations, is the shared industry baseline. It enforces **Least-Agency** (granting only necessary autonomy) and **Strong Observability** (mandatory audit logging of goal state and tool paths), classifying 10 risk domains from Agent Goal Hijack (ASI01) to Rogue Agents (ASI10).
 
 - **Witness AI** `Commercial` — Enterprise security control plane monitoring and intercepting agentic intent, preventing unauthorized system actions.
 - **[Cisco Splunk AI SOC Agents](https://cisco.com/splunk)** `Commercial` — Specialized security operations agents automating alert triage, incident investigation, and threat mitigation with OWASP ASI Top 10 coverage.
@@ -379,31 +370,33 @@ graph TD
 - **[Lakera Guard](https://www.lakera.ai)** `Commercial` — High-speed enterprise guardrail intercepting prompt injections, jailbreaks, and sensitive data leakage in real-time.
 - **[NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)** `Apache 2.0` — NVIDIA's open-source toolkit for adding programmable safety, security, and topical rails to agentic LLMs.
 - **[Guardrails AI](https://www.guardrailsai.com/)** `Apache 2.0` — Validation framework ensuring agent outputs conform to strict structural, safety, and semantic constraints.
-- **[NeuralTrust](https://neuraltrust.ai)** `🆕 Commercial` — Agentic-security platform built directly around the OWASP ASI Top 10 (Goal Hijack, Tool Misuse, Identity & Privilege Abuse, Supply Chain Compromise, Memory Poisoning, and more).
+- **[NeuralTrust](https://neuraltrust.ai)** `🆕 Commercial` — Agentic-security platform built directly around the OWASP ASI Top 10 (Goal Hijack, Tool Misuse, Privilege Abuse, Memory Poisoning).
 
 ---
 
 ## 💰 Agentic Commerce & Payments Protocols
-### *🆕 New for 2026: how autonomous agents actually pay for things*
+*🆕 Production rails enabling autonomous agents to execute financial transactions.*
 
-> The layer that turns agents from "assistants that suggest" into "agents that transact." Analysts estimate agentic commerce could influence $3–5 trillion in global commerce by 2030 — this section separates the communication, authorization, and settlement layers so they're easy to tell apart.
+> [!TIP]
+> **The transacting agent economy:** Analysts project agentic commerce will influence $3–5 trillion in transactions by 2030. This section separates authorization, communication, and settlement protocols.
 
-- **[Agent Payments Protocol (AP2)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)** `🔥 Google` — An authorization/trust framework, not a payment rail: it uses tamper-resistant, cryptographically signed "mandates" to prove a user actually authorized an agent-led purchase. Launched September 2025 with 60+ collaborators including Amex, Coinbase, Mastercard, PayPal, and Salesforce.
-- **[x402 Protocol](https://github.com/coinbase/x402)** `🔥 Coinbase / x402 Foundation` — Open payment protocol reviving the HTTP 402 status code for instant stablecoin (USDC) micropayments between agents and APIs — no accounts, sessions, or API keys required. V2 (Dec 2025) added wallet-based identity and multi-chain support; Stripe integrated x402 on Base in February 2026, and the Linux Foundation-backed x402 Foundation now co-governs the standard with Cloudflare.
-- **[A2A x402 Extension](https://developers.google.com)** `🆕 Google` — Bridges Google's A2A communication protocol directly to x402 settlement, letting an agent discover a service over A2A, authorize payment via AP2, and settle via x402 in one flow.
-- **[Agentic Commerce Protocol (ACP)](https://openai.com)** `🆕 OpenAI` — Powers ChatGPT Instant Checkout (launched Feb 2026); OpenAI pivoted toward an app-based model in March 2026, but ACP itself remains an open standard with Stripe, Shopify, Salesforce, and PayPal support.
-- **[Multi-Party Payments (MPP)](https://stripe.com)** `🆕 Consortium` — Newer settlement rail that reached mainnet on March 18, 2026 with 100+ integrated services at launch and confirmed partnerships spanning Stripe, Visa, Lightspark, Mastercard, Anthropic, OpenAI, and Shopify.
-- **[Amazon Bedrock AgentCore Payments](https://aws.amazon.com/bedrock/agentcore/)** `🆕 AWS` — Previewed May 2026; lets Bedrock agents handle x402 negotiation, wallet authentication, stablecoin payment, and proof delivery with built-in spending limits and observability.
-- **[Coinbase Agent Wallet](https://coinbase.com)** `Infrastructure` — Crypto wallet infrastructure empowering autonomous agents to hold funds, transfer value, and purchase cloud compute via on-chain smart contracts.
-- **[Crossmint](https://www.crossmint.com)** `Commercial` — Agent wallet platform supporting all major rails at once — autonomous x402 payments, user-approved AP2-style mandates, and conversational checkout — with programmable spending guardrails.
-- **[Skyfire](https://skyfire.xyz)** `Financial` — Banking and payment network enabling AI agents to hold balances and transact across merchant endpoints.
+- **[Agent Payments Protocol (AP2)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)** `🔥 Google` — An authorization and trust framework using cryptographically signed "mandates" to prove human user authorization for agent purchases. Backed by 60+ partners including Amex, Coinbase, Mastercard, PayPal, and Salesforce.
+- **[x402 Protocol](https://github.com/coinbase/x402)** `🔥 Coinbase / x402 Foundation` — Open protocol reviving HTTP 402 for instant stablecoin (USDC) micropayments between agents and APIs without accounts or API keys. Co-governed by the Linux Foundation and Cloudflare.
+- **[A2A x402 Extension](https://developers.google.com)** `🆕 Google` — Bridges Google's A2A protocol to x402 settlement, enabling agents to discover services, authorize via AP2, and settle via x402 in a single flow.
+- **[Agentic Commerce Protocol (ACP)](https://openai.com)** `🆕 OpenAI` — Powers ChatGPT Instant Checkout as an open protocol supported by Stripe, Shopify, Salesforce, and PayPal.
+- **[Multi-Party Payments (MPP)](https://stripe.com)** `🆕 Consortium` — Settlement rail supporting multi-party transaction splits across Stripe, Visa, Mastercard, Anthropic, OpenAI, and Shopify.
+- **[Amazon Bedrock AgentCore Payments](https://aws.amazon.com/bedrock/agentcore/)** `🆕 AWS` — Managed AWS capability enabling Bedrock agents to negotiate x402 payments, authenticate wallets, and enforce spending caps.
+- **[Coinbase Agent Wallet](https://coinbase.com)** `Infrastructure` — On-chain wallet infrastructure empowering agents to hold crypto, pay for compute, and settle smart contracts.
+- **[Crossmint](https://www.crossmint.com)** `Commercial` — Enterprise agent wallet platform unified across x402, AP2 mandates, and conversational checkout with programmable guardrails.
+- **[Skyfire](https://skyfire.xyz)** `Financial` — Banking and payment network enabling AI agents to hold balances and pay merchant endpoints.
 
-> ⚠️ **Known risk area:** agentic payment rails are new enough that security research is still catching up — a July 2026 academic analysis identified free-riding and authorization-propagation vulnerabilities specific to x402-style flows. Treat agent wallet permissions with the same Least-Agency discipline recommended by the OWASP ASI Top 10 above.
+> [!WARNING]
+> **Security Precaution:** Agentic payment rails require strict governance. Always enforce the principle of Least-Agency and configure strict spending caps on agent wallet credentials.
 
 ---
 
 ## 🛠️ Agent Operations & Economy
-*The tools and metering rails powering agents at scale.*
+*Workflow tools, orchestration platforms, and sub-cent request metering.*
 
 ### 🏗️ Workflow & Low-Code
 - **[n8n](https://n8n.io)** `🔥 Fair-code · 102k ⭐` — Leading self-hosted workflow automation platform with native MCP tools, A2A protocols, and visual multi-agent builders.
@@ -413,7 +406,7 @@ graph TD
 - **[Bolt.new / v0](https://bolt.new)** `Commercial` — Full-stack web application generation environments driven by autonomous code agents.
 
 ### 💳 Metering & Billing
-- **[Stripe Agent Billing](https://stripe.com/agents)** `🔥 Commercial` — API infrastructure enabling AI agents to bill for compute usage, manage subscriptions, and process micro-transactions autonomously; now interoperable with ACP, x402, and MPP.
+- **[Stripe Agent Billing](https://stripe.com/agents)** `🔥 Commercial` — API infrastructure enabling AI agents to bill for compute usage, manage subscriptions, and process micro-transactions; interoperable with ACP, x402, and MPP.
 - **[Helicone](https://helicone.ai)** `Freemium` — LLM observability and cost management platform providing usage throttling, API rate-limiting, and cost allocation per agent session.
 - **[Nevermined](https://nevermined.ai)** `🆕 Commercial` — Purpose-built billing platform for sub-cent, per-request agent metering built on top of x402-style settlement.
 
