@@ -19,16 +19,19 @@
 
 ---
 
-## 🆕 What's New Right Now (Q3 2026 at a glance)
+## 🆕 What's New Right Now (Q3 2026 Digest)
 
 > [!IMPORTANT]
-> **The fastest-moving corner of the ecosystem** — read this section first if you last checked in before summer.
+> **The fastest-moving corner of the ecosystem** — curated Q3 2026 pulse across models, coding, protocols, and security.
 
-- 🧠 **Model layer reshuffled:** Anthropic shipped **Claude Opus 4.8** and **Claude Sonnet 5** as the current flagship/mid-tier pair, alongside **Claude Haiku 4.5**. Above Opus sits a new **Mythos tier**: **Claude Mythos 5** and **Claude Fable 5** launched June 9, 2026, were briefly suspended June 12–July 1 for export-control compliance, and are now restored. OpenAI, Google, and open-weight models all advanced rapidly — see [Intelligence](#-intelligence-frontier-models) below.
-- 🚀 **Orchestration consolidated:** Microsoft folded **AutoGen** and **Semantic Kernel** into the unified **Microsoft Agent Framework (MAF) 1.0**, GA since April 2026. **Google ADK 2.0** moved to a graph-based execution engine. **PydanticAI V2** shipped a "harness-first" redesign. **LangGraph 1.0**, **CrewAI 1.14**, and the new **Claude Agent SDK** all now ship native MCP + A2A support.
-- 💻 **The coding-agent wars shifted:** **Google Antigravity 2.0** (built on the Windsurf acqui-hire) and **Cursor 3 / Composer 2.5** are now serious rivals to **Claude Code** and **OpenAI Codex CLI** — while the original **Windsurf** IDE retired and relaunched as **Devin Desktop**.
-- 💳 **Agentic commerce is production infrastructure:** Google's **AP2**, Coinbase's **x402** (now under the Linux Foundation's x402 Foundation), OpenAI's **ACP**, and the newer **MPP** rail all shipped production integrations in H1 2026 — see the brand-new [Agentic Commerce & Payments Protocols](#-agentic-commerce--payments-protocols) section.
-- 🛡️ **Security gained a unified standard:** **OWASP's Top 10 for Agentic Applications (ASI Top 10)** — covering risks like Agent Goal Hijack and Memory/Context Poisoning — is now the reference security framework cited across the Guardians layer.
+| Domain | Headline Breakthrough | Key Developments (Q3 2026) | Direct Link |
+| :--- | :--- | :--- | :--- |
+| 🧠 **Models & Frontier** | **Anthropic Mythos & Mistral Agentic** | Claude Opus 4.8 / Sonnet 5, Mythos 5 & Fable 5 restored after compliance review; Mistral NeMo Agentic 2 launched with native MCP calling. | [Intelligence](#-intelligence-frontier-models) |
+| 🚀 **Orchestration** | **Microsoft MAF 1.0 & ADK 2.0** | AutoGen & Semantic Kernel unified into Microsoft Agent Framework (MAF 1.0); Google ADK 2.0 graph engine; PydanticAI V2 harness redesign. | [Orchestration](#-orchestration-frameworks) |
+| 💻 **Coding Agents** | **Antigravity 2.0 vs. Codex CLI** | Google Antigravity 2.0 (parallel agents) & Cursor 3 rival Claude Code & OpenAI Codex CLI (#1 Terminal-Bench 2.1); Devin Desktop relaunched. | [Engineering](#-engineering--systems) |
+| 💳 **Commerce Rails** | **AP2, x402 & ACP Production** | Google AP2 mandates, Coinbase x402 (Linux Foundation), OpenAI ACP & Stripe MPP processing real-world micro-transactions. | [Commerce Protocols](#-agentic-commerce--payments-protocols) |
+| 🛡️ **Security Standard** | **OWASP ASI Top 10 Enforced** | Universal risk baseline addressing Goal Hijack & Context Poisoning adopted across enterprise agent security gateways. | [Guardians](#️-guardians-security--governance) |
+| 🛣️ **Protocols & Interop** | **MCP-A2A Bridge v1.2** | Unified Anthropic MCP tool contexts & Google A2A inter-agent negotiation protocols for seamless cross-framework handoffs. | [Connectivity](#-connectivity-protocols--standards) |
 
 ---
 
@@ -184,6 +187,7 @@ graph TD
 - **[Qwen 3.0 Max](https://github.com/QwenLM/Qwen)** `Open Weights` — Alibaba's open-weight model family with native MCP integration, 1M context, and top open-source SWE-bench scores.
 - **[Llama 4.5 Agentic](https://llama.meta.com)** `Open Weights` — Meta's open-weight foundation model family optimized for local agent deployment, tool execution, and multi-agent coordination.
 - **[Kimi K2.5](https://github.com/MoonshotAI)** `🆕 Open Weights` — Moonshot AI's open-source base model, serving as the foundation under Cursor's in-house Composer 2.5 agent after heavy RL post-training.
+- **[Mistral NeMo Agentic 2 / Large 3](https://mistral.ai/)** `🆕 Open Weights` — Mistral AI's agent-optimized open model series engineered for high-throughput tool calling, structured outputs, and complex MCP action execution.
 
 ### 🚀 Orchestration (Frameworks)
 - **[Microsoft Agent Framework (MAF) 1.0](https://github.com/microsoft/agent-framework)** `🆕 🔥 MIT` — Microsoft's official successor to AutoGen and Semantic Kernel, reaching GA in April 2026 across Python and .NET with declarative YAML config, native MCP, and A2A integration.
@@ -197,6 +201,7 @@ graph TD
 - **[AG2](https://github.com/ag2ai/ag2)** `🆕 Apache 2.0` — Community-driven continuation of original AutoGen v0.2, maintained by former creators.
 - **[Camel-AI](https://github.com/camel-ai/camel)** `MIT` — Pioneer multi-agent framework exploring communicational agent behavior and cooperative task execution.
 - **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** `MIT` — High-performance framework for lightweight, multimodal agents with vector memory and fast reasoning loops.
+- **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** `🔥 Apache 2.0` — Open-source developer-first autonomous AI agent framework designed to build, manage, and run autonomous agents with GUI dashboard management and multi-vector memory.
 
 ### ⚡ Micro-Agents & Lightweight SDKs
 - **[Smolagents](https://github.com/huggingface/smolagents)** `🔥 Apache 2.0 · 44k ⭐` — Hugging Face's ultra-lightweight library for code-first agents where actions are clean Python code blocks.
@@ -222,6 +227,8 @@ graph TD
 - **[Agent2Agent (A2A) v1.0](https://developers.google.com)** `🔥 Google` — Open protocol enabling heterogeneous AI agents to negotiate tasks and exchange data; backed by 150+ organizations with production SDKs in Python, JS, Java, Go, and .NET.
 - **[Agent Network Protocol (ANP)](https://agent-network-protocol.com)** `Open Standard` — Decentralized communication standard for P2P inter-agent messaging and discovery.
 - **[Universal Commerce Protocol (UCP)](https://developers.google.com/shopping)** `Google` — Protocol for autonomous buy-and-sell agents to execute commercial transactions across digital storefronts.
+- **[MCP-A2A Interoperability Bridge v1.2](https://modelcontextprotocol.io)** `🆕 Open Standard` — Unified bridge protocol enabling Anthropic MCP tool contexts and Google A2A inter-agent negotiation to seamlessly hand off tasks across agent networks.
+- **[OpenAI AgentKit](https://github.com/openai/agent-kit)** `🆕 Open Source` — Cryptographic action authorization and wallet interface standard allowing agents to securely interact with third-party Web APIs and on-chain systems.
 
 ### 📱 Local & Edge (On-Device Agents)
 - **[Ollama](https://github.com/ollama/ollama)** `🔥 MIT` — The premier local engine for running quantized agent models offline on consumer hardware with zero data leakage.
@@ -242,6 +249,7 @@ graph TD
 - **[OpenAI Operator](https://openai.com)** `Proprietary` — Autonomous browser agent capable of executing complex web tasks like travel booking, shopping, and research.
 - **[Cline / Roo Code](https://github.com/cline/cline)** `MIT` — VS Code extension agent featuring full autonomous terminal, file edit, and browser preview loops.
 - **[Open Interpreter](https://github.com/KillianLucas/open-interpreter)** `MIT` — Natural language command-line agent executing code locally across Python, JS, Shell, and native OS apps.
+- **[LaVague](https://github.com/lavague-ai/LaVague)** `🔥 Apache 2.0` — Large Action Model (LAM) framework generating executable browser automation code directly from visual web pages and natural language goals.
 
 ### 🎙️ Voice & Presence
 - **[Vapi.ai](https://vapi.ai)** `🔥 Commercial` — Developer platform for building sub-100ms ultra-low latency conversational voice agents with emotional nuance.
@@ -270,6 +278,13 @@ graph TD
 - **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** `MIT` — Princeton's open agent framework designed to solve GitHub issues autonomously.
 - **[OpenHands (formerly OpenDevin)](https://github.com/All-Hands-AI/OpenHands)** `MIT` — Open-source community project building autonomous software development agents.
 - **[JetBrains Junie](https://www.jetbrains.com/junie/)** `Commercial` — Embedded agent for IntelliJ, PyCharm, and WebStorm with native MCP and codebase grounding.
+- **[Amazon Q Developer Agent](https://aws.amazon.com/q/developer/)** `🆕 Commercial` — AWS's enterprise engineering agent capable of executing multi-repository feature implementations, dependency upgrades, and cloud security remediations in isolated sandboxes.
+- **[Plandex](https://github.com/plandex-ai/plandex)** `🔥 AGPL-3.0` — Open-source, terminal-native AI coding engine designed for complex, multi-file code tasks with tree-based planning and long-horizon execution.
+- **[AutoCodeRover](https://github.com/nus-apr/auto-code-rover)** `Apache 2.0` — Automated software engineering agent using AST and program structure analysis to navigate codebases and resolve complex GitHub issues.
+
+### ☁️ DevOps, SRE & Cloud Infrastructure
+- **[Kubiya](https://www.kubiya.ai)** `Commercial` — Conversational DevOps and infrastructure automation agent executing operations across Kubernetes, Terraform, and cloud platforms.
+- **[Rootly AI SRE Agent](https://rootly.com)** `Commercial` — Autonomous SRE and incident response agent automating incident triage, status page communications, and post-mortem generation.
 
 ### 🔍 Deep Research & Intelligence
 - **[Perplexity Deep Research](https://www.perplexity.ai/)** `🔥 Proprietary` — Autonomous multi-step research agent executing dozens of web queries, citations, and analytical synthesis to produce exhaustive reports.
@@ -328,6 +343,15 @@ graph TD
 - **[Harvey AI](https://harvey.ai)** `Commercial` — Legal reasoning agent platform for law firms and corporate legal teams, automating contract analysis, redlining, and research.
 - **[Robin AI](https://robinai.co.uk)** `Commercial` — Contract negotiation agent automatically evaluating standard agreement terms and drafting revisions.
 - **[LexisNexis Lexis+ AI Agent](https://lexisnexis.com)** `Commercial` — Legal research agent generating verified briefs grounded in primary legal authorities.
+
+### 🎨 Creative Media & Design
+- **[Figma AI / Genius Agent](https://figma.com)** `Commercial` — Collaborative UI/UX design agent generating, editing, and componentizing dynamic design systems inside Figma.
+- **[Runway Gen-3 / Sora Media Agent](https://runwayml.com)** `Commercial` — Multimodal creative video agent automating multi-shot storyboarding, character consistency, and spatial editing.
+- **[Uizard AI / Galatea Agent](https://uizard.io)** `Freemium` — Autonomous UI design agent transforming wireframe sketches and natural language prompts into interactive app prototypes.
+
+### 🎓 Education & Adaptive Learning
+- **[Khanmigo](https://www.khanacademy.org/khanmigo)** `Freemium` — Khan Academy's interactive AI tutoring agent providing Socratic step-by-step guidance across STEM, computer science, and humanities.
+- **[Synthesia Persona](https://www.synthesia.io)** `Commercial` — Interactive avatar tutoring agents for automated corporate training, language learning, and adaptive curriculum delivery.
 
 ---
 
@@ -404,6 +428,7 @@ graph TD
 - **[Langflow](https://langflow.org)** `MIT` — Visual drag-and-drop agent framework with native LangChain, MCP, and multi-agent graph capabilities.
 - **[Lindy](https://lindy.ai)** `Commercial` — No-code agent builder automating personal and business task workflows across email, calendar, CRM, and communication apps.
 - **[Bolt.new / v0](https://bolt.new)** `Commercial` — Full-stack web application generation environments driven by autonomous code agents.
+- **[OpenWebUI Agent Hub](https://github.com/open-webui/open-webui)** `🔥 MIT` — Self-hosted web interface enabling multi-agent orchestration, web browsing tools, RAG memory pipelines, and model-agnostic agent delegation.
 
 ### 💳 Metering & Billing
 - **[Stripe Agent Billing](https://stripe.com/agents)** `🔥 Commercial` — API infrastructure enabling AI agents to bill for compute usage, manage subscriptions, and process micro-transactions; interoperable with ACP, x402, and MPP.
