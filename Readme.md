@@ -255,6 +255,7 @@ graph TD
 - **[Vapi.ai](https://vapi.ai)** `🔥 Commercial` — Developer platform for building sub-100ms ultra-low latency conversational voice agents with emotional nuance.
 - **[Cartesia Sonic](https://cartesia.ai)** `Commercial` — Sub-80ms voice generation API designed for real-time streaming agentic voice conversations.
 - **[Bland AI](https://bland.ai)** `Commercial` — Enterprise platform for building and scaling autonomous phone-call agent swarms for sales and operations.
+- **[Workforce Wave](https://www.workforcewave.com/)** `Commercial` — AI voice receptionist that answers business calls 24/7, books appointments, and captures after-hours leads for small businesses.
 - **[ElevenLabs + IBM watsonx Orchestrate](https://elevenlabs.io/enterprise)** `Commercial` — Enterprise voice integration bringing ElevenLabs high-fidelity voice synthesis into IBM's agentic workflow platform across 70+ languages.
 
 ---
