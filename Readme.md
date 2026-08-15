@@ -234,6 +234,7 @@ graph TD
 - **[Ollama](https://github.com/ollama/ollama)** `🔥 MIT` — The premier local engine for running quantized agent models offline on consumer hardware with zero data leakage.
 - **[Apple CoreML Agent Engine](https://developer.apple.com)** `Proprietary` — On-device framework allowing agents to access local file systems, native apps, and Apple Silicon neural engines securely.
 - **[Jan](https://github.com/janhq/jan)** `AGPL-3.0` — Open-source local desktop AI assistant supporting local tool execution, extension plugins, and offline model runtimes.
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** `MIT` — Open-source desktop workspace that coordinates coding agents in parallel or sequence and supports local OpenAI-compatible model endpoints.
 
 ---
 
