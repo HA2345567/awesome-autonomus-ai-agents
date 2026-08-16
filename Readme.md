@@ -283,6 +283,7 @@ graph TD
 - **[Amazon Q Developer Agent](https://aws.amazon.com/q/developer/)** `🆕 Commercial` — AWS's enterprise engineering agent capable of executing multi-repository feature implementations, dependency upgrades, and cloud security remediations in isolated sandboxes.
 - **[Plandex](https://github.com/plandex-ai/plandex)** `🔥 AGPL-3.0` — Open-source, terminal-native AI coding engine designed for complex, multi-file code tasks with tree-based planning and long-horizon execution.
 - **[AutoCodeRover](https://github.com/nus-apr/auto-code-rover)** `Apache 2.0` — Automated software engineering agent using AST and program structure analysis to navigate codebases and resolve complex GitHub issues.
+- **[Agent QA](https://github.com/vostride/agent-qa)** `Source Available · FSL-1.1-ALv2` — QA agent that authors, executes, and self-repairs natural-language web and mobile regression tests with persistent test memory, a dashboard, CLI, MCP server, and agent skills.
 
 ### ☁️ DevOps, SRE & Cloud Infrastructure
 - **[Kubiya](https://www.kubiya.ai)** `Commercial` — Conversational DevOps and infrastructure automation agent executing operations across Kubernetes, Terraform, and cloud platforms.
