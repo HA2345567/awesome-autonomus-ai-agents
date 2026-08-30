@@ -1,27 +1,27 @@
 <div align="center">
 
 # NEXUM : The Agentic Universe
-### *The Definitive Open-Source Directory & Architectural Standard for Autonomous AI (2026 Edition)*
+### *The Definitive Open-Source Directory & Architectural Standard for Autonomous AI Systems (2026 Edition)*
 
 <p align="center">
-  <b>Architecting the Autonomous Frontier • 380+ Curated Agents, Orchestration Frameworks, Runtimes, Protocols & Patterns</b>
+  <b>Architecting the Autonomous Frontier • 380+ Curated Agents, Orchestration Frameworks, Sandboxes, Protocols & Design Patterns</b>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=The+World's+Most+Authoritative+Agent+Directory;Architecting+the+Future+of+Autonomous+Systems;380%2B+Elite+Agents+%7C+Frameworks+%7C+Protocols;Curated+%26+Verified+for+Q3+2026.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0969DA&center=true&vCenter=true&width=840&lines=The+World's+Most+Authoritative+Agentic+AI+Directory;Architecting+the+Future+of+Autonomous+Distributed+Systems;380%2B+Elite+Agents+%7C+Frameworks+%7C+MCP+Protocols;Vetted%2C+Benchmarked+%26+Verified+for+Q3+2026.)](https://git.io/typing-svg)
 
 <br/>
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;
-[![License: MIT](https://img.shields.io/badge/License-MIT-0969da.svg?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)&nbsp;
-[![Status](https://img.shields.io/badge/Edition-Q3%202026-2da44e.svg?style=flat-square&logo=gitbook&logoColor=white)](#01-whats-new-right-now-q3-2026-digest)&nbsp;
-[![Directory Size](https://img.shields.io/badge/Catalog-380%2B%20Verified%20Tools-8250df.svg?style=flat-square&logo=databricks&logoColor=white)](#03-the-agentic-stack)&nbsp;
+[![Edition](https://img.shields.io/badge/Edition-Q3%202026%20GA-2da44e.svg?style=flat-square&logo=gitbook&logoColor=white)](#01-whats-new-right-now-q3-2026-digest)&nbsp;
+[![Catalog Size](https://img.shields.io/badge/Catalog-380%2B%20Verified%20Tools-8250df.svg?style=flat-square&logo=databricks&logoColor=white)](#03-the-agentic-stack)&nbsp;
 [![Security Standard](https://img.shields.io/badge/Security-OWASP%20ASI%20Top%2010-cf222e.svg?style=flat-square&logo=owasp&logoColor=white)](#08-guardians-security--governance)&nbsp;
+[![License: MIT](https://img.shields.io/badge/License-MIT-0969da.svg?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-1f883d.svg?style=flat-square&logo=github&logoColor=white)](http://makeapullrequest.com)&nbsp;
 [![Discussions](https://img.shields.io/badge/Community-Discussions-6f42c1.svg?style=flat-square&logo=githubdiscussions&logoColor=white)](https://github.com/HA2345567/awesome-autonomus-ai-agents/discussions)
 
 <br/>
 
-[**Explore Stack**](#03-the-agentic-stack) &nbsp;•&nbsp; [**What's New**](#01-whats-new-right-now-q3-2026-digest) &nbsp;•&nbsp; [**Design Patterns**](#04-agent-reasoning--design-patterns) &nbsp;•&nbsp; [**MCP Servers**](#38-production-mcp-servers--registry) &nbsp;•&nbsp; [**Architecture**](#02-the-nexum-architecture) &nbsp;•&nbsp; [**Vertical Agents**](#06-vertical--industry-agents) &nbsp;•&nbsp; [**Cyber & Defense**](#614-cybersecurity--threat-intelligence) &nbsp;•&nbsp; [**Commerce Rails**](#09-agentic-commerce--payments-protocols) &nbsp;•&nbsp; [**Research Papers**](#11-seminal-research-papers--literature) &nbsp;•&nbsp; [**Contribute**](#14-join-the-vanguard)
+[**What's New**](#01-whats-new-right-now-q3-2026-digest) &nbsp;•&nbsp; [**Architecture**](#02-the-nexum-architecture) &nbsp;•&nbsp; [**The Stack**](#03-the-agentic-stack) &nbsp;•&nbsp; [**Design Patterns**](#04-agent-reasoning--design-patterns) &nbsp;•&nbsp; [**MCP Registry**](#38-production-mcp-servers--registry) &nbsp;•&nbsp; [**Vertical Agents**](#06-vertical--industry-agents) &nbsp;•&nbsp; [**Guardians & Safety**](#08-guardians-security--governance) &nbsp;•&nbsp; [**Commerce Rails**](#09-agentic-commerce--payments-protocols) &nbsp;•&nbsp; [**Contribute**](#14-join-the-vanguard)
 
 </div>
 
@@ -30,22 +30,22 @@
 ## 01. What's New Right Now (Q3 2026 Digest)
 
 > [!IMPORTANT]
-> **Ecosystem Velocity Report** — Curated breakthrough signals across frontier reasoning, parallel code agents, autonomous sales & cyber defense, commerce rails, and safety governance.
+> **Ecosystem Velocity Report** — High-priority breakthrough signals across frontier hybrid reasoning, parallel coding IDEs, autonomous sales & cyber defense swarms, and agentic settlement standards.
 
 - **Models & Frontier Reasoning** `Claude 3.7 Sonnet` `Anthropic Mythos 5` `OpenAI o3/o4-mini` `xAI Grok 3.5` `DeepSeek V4/R1`  
-  Claude 3.7 Sonnet introduces hybrid reasoning with dynamic thinking budgets; Anthropic restores Mythos 5 & Fable 5 following export compliance; OpenAI o3/o4-mini & GPT-5.5 frontier suites deployed; xAI ships Grok 3.5 live-agent reasoning; DeepSeek V4 & R1 scale open-weight agent distillation.  
+  Claude 3.7 Sonnet establishes the hybrid standard with dynamically allocated thinking budgets; Anthropic restores Mythos 5 & Fable 5 following compliance reviews; OpenAI o3/o4-mini & GPT-5.5 frontier suites deployed; xAI ships Grok 3.5 live search reasoning; DeepSeek V4 & R1 scale open distillation.  
   → *Explore: [Frontier Models](#31-intelligence-frontier-models)*
 
 - **Orchestration & Swarms** `Microsoft MAF 1.0` `Google ADK 2.0` `Swarms Enterprise` `PydanticAI V2`  
-  AutoGen & Semantic Kernel unified into Microsoft Agent Framework (MAF 1.0); Google ADK 2.0 graph engine released at Google I/O; Swarms framework powers distributed hierarchical teams; PydanticAI V2 establishes harness-first composable primitives.  
+  AutoGen & Semantic Kernel unified into Microsoft Agent Framework (MAF 1.0); Google ADK 2.0 graph engine released at Google I/O; Swarms framework powers concurrent multi-agent teams; PydanticAI V2 establishes harness-first composable primitives.  
   → *Explore: [Orchestration Frameworks](#32-orchestration-frameworks)*
 
 - **Parallel Coding Agents & IDEs** `Google Antigravity 2.0` `OpenAI Codex CLI` `Cursor 3` `Claude Code` `Void`  
-  Google Antigravity 2.0 ships split Editor/Manager parallel workflows; OpenAI Codex CLI (#1 Terminal-Bench 2.1) and Claude Code dominate CLI terminals; Devin Desktop and Cursor 3 Composer 2.5 introduce multi-worktree execution; Void emerges as leading open-source IDE alternative.  
+  Google Antigravity 2.0 ships split Editor/Manager parallel workflows; OpenAI Codex CLI (#1 Terminal-Bench 2.1) and Claude Code dominate CLI terminals; Devin Desktop and Cursor 3 Composer 2.5 introduce multi-worktree execution; Void emerges as the premier open-source Cursor alternative.  
   → *Explore: [Engineering Agents](#61-engineering--systems)*
 
-- **New Frontier Sectors** `Autonomous Sales & GTM` `Cyber Defense` `Defense & Intelligence` `Energy & Climate`  
-  AI SDR swarms (11x, Artisan, Claygent) automate hyper-targeted revenue funnels; Google Big Sleep / Project Naptime pioneers automated zero-day discovery; Palantir AIP and Anduril Lattice deploy autonomous mission intelligence; Gridmatic and Pachama automate energy markets and carbon tracking.  
+- **Autonomous Frontier Sectors** `Cybersecurity & Red-Teaming` `Supply Chain` `Sales & GTM Swarms`  
+  Google Big Sleep / Project Naptime pioneers automated zero-day triage; 11x Alice and Artisan Ava deploy autonomous revenue swarms; Project 44 and Flexport automate predictive freight routing.  
   → *Explore: [Vertical Sectors](#06-vertical--industry-agents)*
 
 - **Commerce & Settlement Rails** `Google AP2` `Coinbase x402` `OpenAI ACP` `Stripe MPP`  
@@ -56,15 +56,11 @@
   OWASP Top 10 for Agentic Applications (ASI Top 10) adopted as global enterprise baseline addressing Goal Hijacking (ASI01) and Context Poisoning (ASI04) alongside Microsoft PyRIT automated red-teaming.  
   → *Explore: [Guardians & Safety](#08-guardians-security--governance)*
 
-- **Connectivity & Protocols** `MCP-A2A Bridge v1.2` `AG-UI Protocol` `Universal Standards`  
-  Anthropic Model Context Protocol (MCP) and Google Agent2Agent (A2A) bridge cross-framework agent negotiation; AG-UI formalizes dynamic agent canvas streaming.  
-  → *Explore: [Protocols & Standards](#36-connectivity-protocols--standards)*
-
 ---
 
 ## 02. The NEXUM Architecture
 
-The NEXUM framework categorizes the autonomous universe into 8 tightly coupled layers — from human-in-the-loop interaction surfaces down to execution sandboxes and settlement rails.
+The NEXUM framework categorizes the autonomous universe into **8 tightly coupled architectural layers** — from human-in-the-loop interaction surfaces down to sandboxed micro-VM runtimes and autonomous financial settlement rails.
 
 <div align="center">
 
@@ -168,20 +164,20 @@ graph TD
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
-| Section | Architecture Domain | Detailed Contents |
+| Section | Architecture Domain | Detailed Breakdown |
 | :--- | :--- | :--- |
 | **[01. What's New](#01-whats-new-right-now-q3-2026-digest)** | Digest | Q3 2026 breakthroughs across frontier reasoning, models, tools, and protocols |
 | **[02. Architecture](#02-the-nexum-architecture)** | Blueprint | 8-layer structural blueprint of the autonomous ecosystem |
-| **[03. The Agentic Stack](#03-the-agentic-stack)** | Core Infra | [Frontier Models](#31-intelligence-frontier-models) • [Orchestration](#32-orchestration-frameworks) • [Micro-Agents](#33-micro-agents--lightweight-sdks) • [Sandboxes](#34-agent-sandboxes--execution-runtimes) • [Memory](#35-agent-memory--context-layer) • [Protocols](#36-connectivity-protocols--standards) • [Local & Edge](#37-local--edge-on-device-agents) • [MCP Servers](#38-production-mcp-servers--registry) |
+| **[03. The Agentic Stack](#03-the-agentic-stack)** | Core Infrastructure | [Frontier Models](#31-intelligence-frontier-models) • [Orchestration](#32-orchestration-frameworks) • [Micro-Agents](#33-micro-agents--lightweight-sdks) • [Sandboxes](#34-agent-sandboxes--execution-runtimes) • [Memory](#35-agent-memory--context-layer) • [Protocols](#36-connectivity-protocols--standards) • [Local & Edge](#37-local--edge-on-device-agents) • [MCP Servers](#38-production-mcp-servers--registry) |
 | **[04. Design Patterns](#04-agent-reasoning--design-patterns)** | Architecture | [ReAct](#41-react-reasoning--acting) • [Plan-and-Solve](#42-plan-and-solve--tree-of-thoughts) • [Reflexion](#43-reflexion--verbal-reinforcement) • [Hierarchical Swarms](#44-hierarchical-supervisor-swarms) • [Dynamic Routing](#45-dynamic-intent-routing--self-assembly) • [HITL Gateways](#46-human-in-the-loop-hitl-gateways) |
 | **[05. Agentic Experience (AX)](#05-the-agentic-experience-ax)** | Interaction | [Browser & GUI Computer Use](#51-vision--control-browser--computer--gui-use) • [Voice & Streaming Presence](#52-voice--presence) • [Dynamic Canvases](#53-dynamic-canvases-artifacts--agent-user-interfaces) |
-| **[06. Vertical & Industry Agents](#06-vertical--industry-agents)** | Applied AI | [Engineering](#61-engineering--systems) • [DevOps/SRE](#62-devops-sre--cloud-infrastructure) • [Deep Research](#63-deep-research--intelligence) • [Business/Finance](#64-business-finance--hr) • [CX Support](#65-customer-experience--support) • [Enterprise Ops](#66-work-management--enterprise-ops) • [Science/Healthcare](#67-science-biotech--materials) • [Data Analytics](#68-data-analytics--mathematics) • [Gaming](#69-virtual-worlds--gaming) • [Robotics](#610-physical-ai-robotics) • [Legal](#611-law-legal--compliance) • [Design](#612-creative-media--design) • [Education](#613-education--adaptive-learning) • [Cybersecurity](#614-cybersecurity--threat-intelligence) • [Supply Chain](#615-supply-chain--autonomous-logistics) • **[Sales & GTM](#616-sales-go-to-market-gtm--revenue-swarms)** • **[Defense & Intelligence](#617-defense-aerospace--national-security)** • **[Energy & Climate](#618-energy-utilities--climate-tech)** • **[Insurance & Underwriting](#619-insurance--risk-underwriting)** |
+| **[06. Vertical & Industry Agents](#06-vertical--industry-agents)** | Applied AI | [Engineering](#61-engineering--systems) • [DevOps/SRE](#62-devops-sre--cloud-infrastructure) • [Deep Research](#63-deep-research--intelligence) • [Business/Finance](#64-business-finance--hr) • [CX Support](#65-customer-experience--support) • [Enterprise Ops](#66-work-management--enterprise-ops) • [Science/Healthcare](#67-science-biotech--materials) • [Data Analytics](#68-data-analytics--mathematics) • [Gaming](#69-virtual-worlds--gaming) • [Robotics](#610-physical-ai-robotics) • [Legal](#611-law-legal--compliance) • [Design](#612-creative-media--design) • [Education](#613-education--adaptive-learning) • [Cybersecurity](#614-cybersecurity--threat-intelligence) • [Supply Chain](#615-supply-chain--autonomous-logistics) • [Sales & GTM](#616-sales-go-to-market-gtm--revenue-swarms) • [Defense & Intelligence](#617-defense-aerospace--national-security) • [Energy & Climate](#618-energy-utilities--climate-tech) • [Insurance & Underwriting](#619-insurance--risk-underwriting) |
 | **[07. Evaluation & Observability](#07-agent-evaluation-tracing--observability)** | Telemetry | [Benchmarks & Leaderboards](#71-benchmarks--leaderboards) • [Datasets & Trajectory Corpora](#72-datasets-golden-traces--trajectory-corpora) • [Tracing & Telemetry Suites](#73-tracing-telemetry--evaluation-suites) |
 | **[08. Guardians & Governance](#08-guardians-security--governance)** | Safety | [Security Gateways & Guardrails](#81-security-gateways--guardrails) • [OWASP ASI Top 10 Risk Matrix](#82-owasp-top-10-for-agentic-applications-asi-top-10) • [Automated Red-Teaming](#83-automated-red-teaming--adversarial-probing) |
 | **[09. Agentic Commerce](#09-agentic-commerce--payments-protocols)** | Monetization | [Commerce Protocols & Wallets](#91-commerce-protocols--wallets) • [Payment Protocol Matrix](#92-agentic-payments-protocol-matrix) |
-| **[10. Operations & Economy](#10-agent-operations--economy)** | Ops & Billing | [Workflow & Low-Code Engines](#101-workflow--low-code) • [Metering & Sub-Cent Billing](#102-metering--billing) |
+| **[10. Operations & Economy](#10-agent-operations--economy)** | Operations & Billing | [Workflow & Low-Code Engines](#101-workflow--low-code) • [Metering & Sub-Cent Billing](#102-metering--billing) |
 | **[11. Research Papers & Literature](#11-seminal-research-papers--literature)** | Foundations | Essential reading list of seminal agent papers (2022–2026) |
 | **[12. Multi-Language Framework Matrix](#12-multi-language-agent-framework-matrix)** | Programming | Python, TypeScript, Go, Rust, C#, Java SDK index |
 | **[13. The NEXUM Standard](#13-the-nexum-standard)** | Methodology | Lead Designer Vetting Process & Inclusion Criteria |
@@ -770,7 +766,7 @@ We welcome contributions from the open-source community to keep NEXUM the premie
 
 If you find NEXUM valuable, please consider **starring the repository** and sharing it with your network!
 
-[![Star on GitHub](https://img.shields.io/badge/Star%20Repo-★%20NEXUM-yellow.svg?style=for-the-badge&logo=github)](https://github.com/HA2345567/awesome-autonomus-ai-agents)
+[![Star on GitHub](https://img.shields.io/badge/Star%20Repo-★%20NEXUM-0969da.svg?style=flat-square&logo=github)](https://github.com/HA2345567/awesome-autonomus-ai-agents)
 
 <br/>
 
