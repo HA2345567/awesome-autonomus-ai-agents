@@ -4,24 +4,24 @@
 ### *The Definitive Open-Source Directory & Architectural Standard for Autonomous AI (2026 Edition)*
 
 <p align="center">
-  <b>Architecting the Autonomous Frontier • 320+ Curated Agents, Orchestration Frameworks, Runtimes, Protocols & Patterns</b>
+  <b>Architecting the Autonomous Frontier • 380+ Curated Agents, Orchestration Frameworks, Runtimes, Protocols & Patterns</b>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=The+World's+Most+Authoritative+Agent+Directory;Architecting+the+Future+of+Autonomous+Systems;320%2B+Elite+Agents+%7C+Frameworks+%7C+Protocols;Curated+%26+Verified+for+Q3+2026.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=The+World's+Most+Authoritative+Agent+Directory;Architecting+the+Future+of+Autonomous+Systems;380%2B+Elite+Agents+%7C+Frameworks+%7C+Protocols;Curated+%26+Verified+for+Q3+2026.)](https://git.io/typing-svg)
 
 <br/>
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-0969da.svg?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)&nbsp;
 [![Status](https://img.shields.io/badge/Edition-Q3%202026-2da44e.svg?style=flat-square&logo=gitbook&logoColor=white)](#01-whats-new-right-now-q3-2026-digest)&nbsp;
-[![Directory Size](https://img.shields.io/badge/Catalog-320%2B%20Verified%20Tools-8250df.svg?style=flat-square&logo=databricks&logoColor=white)](#03-the-agentic-stack)&nbsp;
+[![Directory Size](https://img.shields.io/badge/Catalog-380%2B%20Verified%20Tools-8250df.svg?style=flat-square&logo=databricks&logoColor=white)](#03-the-agentic-stack)&nbsp;
 [![Security Standard](https://img.shields.io/badge/Security-OWASP%20ASI%20Top%2010-cf222e.svg?style=flat-square&logo=owasp&logoColor=white)](#08-guardians-security--governance)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-1f883d.svg?style=flat-square&logo=github&logoColor=white)](http://makeapullrequest.com)&nbsp;
 [![Discussions](https://img.shields.io/badge/Community-Discussions-6f42c1.svg?style=flat-square&logo=githubdiscussions&logoColor=white)](https://github.com/HA2345567/awesome-autonomus-ai-agents/discussions)
 
 <br/>
 
-[**Explore Stack**](#03-the-agentic-stack) &nbsp;•&nbsp; [**What's New**](#01-whats-new-right-now-q3-2026-digest) &nbsp;•&nbsp; [**Design Patterns**](#04-agent-reasoning--design-patterns) &nbsp;•&nbsp; [**MCP Servers**](#38-production-mcp-servers--registry) &nbsp;•&nbsp; [**Architecture**](#02-the-nexum-architecture) &nbsp;•&nbsp; [**Vertical Agents**](#06-vertical--industry-agents) &nbsp;•&nbsp; [**Commerce Rails**](#09-agentic-commerce--payments-protocols) &nbsp;•&nbsp; [**Research Papers**](#11-seminal-research-papers--literature) &nbsp;•&nbsp; [**Contribute**](#14-join-the-vanguard)
+[**Explore Stack**](#03-the-agentic-stack) &nbsp;•&nbsp; [**What's New**](#01-whats-new-right-now-q3-2026-digest) &nbsp;•&nbsp; [**Design Patterns**](#04-agent-reasoning--design-patterns) &nbsp;•&nbsp; [**MCP Servers**](#38-production-mcp-servers--registry) &nbsp;•&nbsp; [**Architecture**](#02-the-nexum-architecture) &nbsp;•&nbsp; [**Vertical Agents**](#06-vertical--industry-agents) &nbsp;•&nbsp; [**Cyber & Defense**](#614-cybersecurity--threat-intelligence) &nbsp;•&nbsp; [**Commerce Rails**](#09-agentic-commerce--payments-protocols) &nbsp;•&nbsp; [**Research Papers**](#11-seminal-research-papers--literature) &nbsp;•&nbsp; [**Contribute**](#14-join-the-vanguard)
 
 </div>
 
@@ -30,30 +30,34 @@
 ## 01. What's New Right Now (Q3 2026 Digest)
 
 > [!IMPORTANT]
-> **Ecosystem Velocity Report** — Curated breakthrough signals across frontier reasoning, parallel code agents, commerce rails, and safety governance.
+> **Ecosystem Velocity Report** — Curated breakthrough signals across frontier reasoning, parallel code agents, autonomous sales & cyber defense, commerce rails, and safety governance.
 
-- **Models & Frontier Reasoning** `Anthropic Mythos` `Mistral Agentic` `OpenAI o3/o4`  
-  Claude Opus 4.8 / Sonnet 5, Mythos 5 & Fable 5 restored after compliance review; Mistral NeMo Agentic 2 launched with native MCP calling; OpenAI o3/o4-mini frontier reasoning suites deployed.  
+- **Models & Frontier Reasoning** `Claude 3.7 Sonnet` `Anthropic Mythos 5` `OpenAI o3/o4-mini` `xAI Grok 3.5` `DeepSeek V4/R1`  
+  Claude 3.7 Sonnet introduces hybrid reasoning with dynamic thinking budgets; Anthropic restores Mythos 5 & Fable 5 following export compliance; OpenAI o3/o4-mini & GPT-5.5 frontier suites deployed; xAI ships Grok 3.5 live-agent reasoning; DeepSeek V4 & R1 scale open-weight agent distillation.  
   → *Explore: [Frontier Models](#31-intelligence-frontier-models)*
 
-- **Orchestration & Swarms** `Microsoft MAF 1.0` `Google ADK 2.0` `PydanticAI V2`  
-  AutoGen & Semantic Kernel unified into Microsoft Agent Framework (MAF 1.0); Google ADK 2.0 graph engine; PydanticAI V2 harness redesign with composable capability primitives.  
+- **Orchestration & Swarms** `Microsoft MAF 1.0` `Google ADK 2.0` `Swarms Enterprise` `PydanticAI V2`  
+  AutoGen & Semantic Kernel unified into Microsoft Agent Framework (MAF 1.0); Google ADK 2.0 graph engine released at Google I/O; Swarms framework powers distributed hierarchical teams; PydanticAI V2 establishes harness-first composable primitives.  
   → *Explore: [Orchestration Frameworks](#32-orchestration-frameworks)*
 
-- **Parallel Coding Agents** `Antigravity 2.0` `Codex CLI` `Cursor 3`  
-  Google Antigravity 2.0 (parallel agents) & Cursor 3 rival Claude Code & OpenAI Codex CLI (#1 Terminal-Bench 2.1); Devin Desktop relaunched; Agent QA self-repairing regression tests.  
+- **Parallel Coding Agents & IDEs** `Google Antigravity 2.0` `OpenAI Codex CLI` `Cursor 3` `Claude Code` `Void`  
+  Google Antigravity 2.0 ships split Editor/Manager parallel workflows; OpenAI Codex CLI (#1 Terminal-Bench 2.1) and Claude Code dominate CLI terminals; Devin Desktop and Cursor 3 Composer 2.5 introduce multi-worktree execution; Void emerges as leading open-source IDE alternative.  
   → *Explore: [Engineering Agents](#61-engineering--systems)*
 
-- **Commerce & Settlement Rails** `Google AP2` `Coinbase x402` `OpenAI ACP`  
-  Google AP2 mandates, Coinbase x402 (Linux Foundation), OpenAI ACP & Stripe MPP processing real-world autonomous micro-transactions with cryptographically signed user mandates.  
+- **New Frontier Sectors** `Autonomous Sales & GTM` `Cyber Defense` `Defense & Intelligence` `Energy & Climate`  
+  AI SDR swarms (11x, Artisan, Claygent) automate hyper-targeted revenue funnels; Google Big Sleep / Project Naptime pioneers automated zero-day discovery; Palantir AIP and Anduril Lattice deploy autonomous mission intelligence; Gridmatic and Pachama automate energy markets and carbon tracking.  
+  → *Explore: [Vertical Sectors](#06-vertical--industry-agents)*
+
+- **Commerce & Settlement Rails** `Google AP2` `Coinbase x402` `OpenAI ACP` `Stripe MPP`  
+  Google AP2 cryptographic mandates standard, Linux Foundation x402 micropayments protocol, OpenAI ACP, and Stripe MPP process real-world autonomous micro-transactions with zero API keys.  
   → *Explore: [Commerce Protocols](#09-agentic-commerce--payments-protocols)*
 
-- **Security & Governance Standards** `OWASP ASI Top 10` `Least-Agency Baseline`  
-  Universal risk baseline addressing Goal Hijack (ASI01) & Context Poisoning (ASI04) adopted across enterprise agent security gateways and runtime guardrails.  
+- **Security & Governance Standards** `OWASP ASI Top 10` `Least-Agency Baseline` `PyRIT`  
+  OWASP Top 10 for Agentic Applications (ASI Top 10) adopted as global enterprise baseline addressing Goal Hijacking (ASI01) and Context Poisoning (ASI04) alongside Microsoft PyRIT automated red-teaming.  
   → *Explore: [Guardians & Safety](#08-guardians-security--governance)*
 
-- **Connectivity & Protocols** `MCP-A2A Bridge v1.2` `Universal Standards`  
-  Unified Anthropic MCP tool contexts & Google A2A inter-agent negotiation protocols for seamless cross-framework handoffs across 150+ partner organizations.  
+- **Connectivity & Protocols** `MCP-A2A Bridge v1.2` `AG-UI Protocol` `Universal Standards`  
+  Anthropic Model Context Protocol (MCP) and Google Agent2Agent (A2A) bridge cross-framework agent negotiation; AG-UI formalizes dynamic agent canvas streaming.  
   → *Explore: [Protocols & Standards](#36-connectivity-protocols--standards)*
 
 ---
@@ -71,47 +75,55 @@ graph TD
     subgraph AX ["Layer 1: Agentic Experience (AX)"]
         BU["Browser & GUI Computer Use"]
         VO["Sub-80ms Real-Time Voice"]
-        UI["Dynamic Agentic Canvases"]
+        UI["Dynamic Agentic Canvases & Artifacts"]
     end
     
     subgraph STACK ["Layer 2: Core Infrastructure"]
-        FM["Frontier Reasoning Models (Claude / GPT / Gemini / DeepSeek)"]
-        AF["Orchestration & Swarm Engines (MAF / LangGraph / ADK / CrewAI)"]
-        MA["Micro-Agents & Lightweight SDKs (Smolagents / PydanticAI)"]
-        SAND["Sandboxes & Micro-VM Runtimes (E2B / Daytona / Modal)"]
-        MEM["Temporal Memory & Knowledge Graphs (Mem0 / Letta / Graphiti)"]
-        PR["Universal Protocols (MCP / A2A v1.0 / UCP)"]
-        MCP["Production MCP Servers (Postgres / GitHub / Playwright)"]
+        FM["Frontier Reasoning Models (Claude 3.7 / GPT-5 / Gemini 3.5 / DeepSeek / Grok)"]
+        AF["Orchestration & Swarm Engines (MAF / LangGraph / ADK / CrewAI / Swarms)"]
+        MA["Micro-Agents & Lightweight SDKs (Smolagents / PydanticAI / Rig)"]
+        SAND["Sandboxes & Micro-VM Runtimes (E2B / Daytona / Modal / Fly.io)"]
+        MEM["Temporal Memory & Knowledge Graphs (Mem0 / Letta / Graphiti / HippoRAG)"]
+        PR["Universal Protocols (MCP / A2A v1.0 / UCP / AG-UI)"]
+        MCP["Production MCP Servers (Postgres / GitHub / Playwright / Kubernetes)"]
     end
 
     subgraph PATTERNS ["Layer 3: Reasoning & Design Patterns"]
         REACT["ReAct & Reflection Loops"]
         PLAN["Plan-and-Solve & Tree of Thoughts"]
         SWARM["Hierarchical Supervisor & Worker Swarms"]
+        ROUT["Dynamic Intent Routing & Self-Assembly"]
         HITL["Human-in-the-Loop Verification Gateways"]
     end
     
     subgraph VERT ["Layer 4: Vertical & Industry Agents"]
         DEV["Software Engineering & IDEs"]
+        CYBER["Cybersecurity & Autonomous Defense"]
+        SALES["Sales, GTM & Revenue Swarms"]
         RES["Deep Research & Synthesis"]
         OPS["DevOps, SRE & Cloud"]
         BIZ["Finance & Operations"]
         CX["Customer Support Swarms"]
-        SCI["Science & Healthcare Discovery"]
+        SUPPLY["Supply Chain & Logistics"]
+        DEFENSE["Defense, Aerospace & Security"]
+        ENERGY["Energy, Utilities & Climate"]
+        INSUR["Insurance & Underwriting"]
+        SCI["Science, BioTech & Materials"]
         DATA["Data Analytics & SQL Reasoning"]
         ROB["Physical AI & Humanoid Robotics"]
         LAW["Legal, Contract & Compliance"]
     end
     
     subgraph OBS ["Layer 5: Evaluation & Observability"]
-        BENCH["Benchmarks (SWE-bench / Terminal-Bench / GAIA)"]
-        CORPUS["Datasets & Golden Trajectories (ToolBench / Mind2Web)"]
+        BENCH["Benchmarks (SWE-bench / Terminal-Bench / GAIA / OSWorld)"]
+        CORPUS["Datasets & Golden Trajectories (ToolBench 2 / Mind2Web)"]
         TRACE["Tracing & Evaluation (LangSmith / Langfuse / Phoenix / DeepEval)"]
     end
     
     subgraph SEC ["Layer 6: Guardians & Governance"]
         GATE["Security Gateways & Runtime Guardrails"]
         OWASP["OWASP ASI Top 10 Risk Mitigation"]
+        RED["Automated Red-Teaming (PyRIT / Garak)"]
     end
 
     subgraph ECON ["Layer 7: Operations & Agentic Economy"]
@@ -145,10 +157,10 @@ graph TD
     class User userStyle;
     class BU,VO,UI axStyle;
     class FM,AF,MA,SAND,MEM,PR,MCP stackStyle;
-    class REACT,PLAN,SWARM,HITL patternStyle;
-    class DEV,RES,OPS,BIZ,CX,SCI,DATA,ROB,LAW vertStyle;
+    class REACT,PLAN,SWARM,ROUT,HITL patternStyle;
+    class DEV,CYBER,SALES,RES,OPS,BIZ,CX,SUPPLY,DEFENSE,ENERGY,INSUR,SCI,DATA,ROB,LAW vertStyle;
     class BENCH,CORPUS,TRACE obsStyle;
-    class GATE,OWASP secStyle;
+    class GATE,OWASP,RED secStyle;
     class PAY,WORK econStyle;
 ```
 
@@ -160,14 +172,14 @@ graph TD
 
 | Section | Architecture Domain | Detailed Contents |
 | :--- | :--- | :--- |
-| **[01. What's New](#01-whats-new-right-now-q3-2026-digest)** | Digest | Q3 2026 breakthroughs across models, tools, and protocols |
+| **[01. What's New](#01-whats-new-right-now-q3-2026-digest)** | Digest | Q3 2026 breakthroughs across frontier reasoning, models, tools, and protocols |
 | **[02. Architecture](#02-the-nexum-architecture)** | Blueprint | 8-layer structural blueprint of the autonomous ecosystem |
 | **[03. The Agentic Stack](#03-the-agentic-stack)** | Core Infra | [Frontier Models](#31-intelligence-frontier-models) • [Orchestration](#32-orchestration-frameworks) • [Micro-Agents](#33-micro-agents--lightweight-sdks) • [Sandboxes](#34-agent-sandboxes--execution-runtimes) • [Memory](#35-agent-memory--context-layer) • [Protocols](#36-connectivity-protocols--standards) • [Local & Edge](#37-local--edge-on-device-agents) • [MCP Servers](#38-production-mcp-servers--registry) |
-| **[04. Design Patterns](#04-agent-reasoning--design-patterns)** | Architecture | [ReAct](#41-react-reasoning--acting) • [Plan-and-Solve](#42-plan-and-solve--tree-of-thoughts) • [Reflexion](#43-reflexion--verbal-reinforcement) • [Hierarchical Swarms](#44-hierarchical-supervisor-swarms) • [HITL Gateways](#45-human-in-the-loop-hitl-gateways) |
-| **[05. Agentic Experience (AX)](#05-the-agentic-experience-ax)** | Interaction | [Browser & GUI Computer Use](#51-vision--control-browser--computer--gui-use) • [Voice & Streaming Presence](#52-voice--presence) |
-| **[06. Vertical & Industry Agents](#06-vertical--industry-agents)** | Applied AI | [Engineering](#61-engineering--systems) • [DevOps/SRE](#62-devops-sre--cloud-infrastructure) • [Deep Research](#63-deep-research--intelligence) • [Business/Finance](#64-business-finance--hr) • [CX Support](#65-customer-experience--support) • [Enterprise Ops](#66-work-management--enterprise-ops) • [Science/Healthcare](#67-science--healthcare) • [Data Analytics](#68-data-analytics--mathematics) • [Gaming](#69-virtual-worlds--gaming) • [Robotics](#610-physical-ai-robotics) • [Legal](#611-law-legal--compliance) • [Design](#612-creative-media--design) • [Education](#613-education--adaptive-learning) |
+| **[04. Design Patterns](#04-agent-reasoning--design-patterns)** | Architecture | [ReAct](#41-react-reasoning--acting) • [Plan-and-Solve](#42-plan-and-solve--tree-of-thoughts) • [Reflexion](#43-reflexion--verbal-reinforcement) • [Hierarchical Swarms](#44-hierarchical-supervisor-swarms) • [Dynamic Routing](#45-dynamic-intent-routing--self-assembly) • [HITL Gateways](#46-human-in-the-loop-hitl-gateways) |
+| **[05. Agentic Experience (AX)](#05-the-agentic-experience-ax)** | Interaction | [Browser & GUI Computer Use](#51-vision--control-browser--computer--gui-use) • [Voice & Streaming Presence](#52-voice--presence) • [Dynamic Canvases](#53-dynamic-canvases-artifacts--agent-user-interfaces) |
+| **[06. Vertical & Industry Agents](#06-vertical--industry-agents)** | Applied AI | [Engineering](#61-engineering--systems) • [DevOps/SRE](#62-devops-sre--cloud-infrastructure) • [Deep Research](#63-deep-research--intelligence) • [Business/Finance](#64-business-finance--hr) • [CX Support](#65-customer-experience--support) • [Enterprise Ops](#66-work-management--enterprise-ops) • [Science/Healthcare](#67-science-biotech--materials) • [Data Analytics](#68-data-analytics--mathematics) • [Gaming](#69-virtual-worlds--gaming) • [Robotics](#610-physical-ai-robotics) • [Legal](#611-law-legal--compliance) • [Design](#612-creative-media--design) • [Education](#613-education--adaptive-learning) • [Cybersecurity](#614-cybersecurity--threat-intelligence) • [Supply Chain](#615-supply-chain--autonomous-logistics) • **[Sales & GTM](#616-sales-go-to-market-gtm--revenue-swarms)** • **[Defense & Intelligence](#617-defense-aerospace--national-security)** • **[Energy & Climate](#618-energy-utilities--climate-tech)** • **[Insurance & Underwriting](#619-insurance--risk-underwriting)** |
 | **[07. Evaluation & Observability](#07-agent-evaluation-tracing--observability)** | Telemetry | [Benchmarks & Leaderboards](#71-benchmarks--leaderboards) • [Datasets & Trajectory Corpora](#72-datasets-golden-traces--trajectory-corpora) • [Tracing & Telemetry Suites](#73-tracing-telemetry--evaluation-suites) |
-| **[08. Guardians & Governance](#08-guardians-security--governance)** | Safety | [Security Gateways & Guardrails](#81-security-gateways--guardrails) • [OWASP ASI Top 10 Risk Matrix](#82-owasp-top-10-for-agentic-applications-asi-top-10) |
+| **[08. Guardians & Governance](#08-guardians-security--governance)** | Safety | [Security Gateways & Guardrails](#81-security-gateways--guardrails) • [OWASP ASI Top 10 Risk Matrix](#82-owasp-top-10-for-agentic-applications-asi-top-10) • [Automated Red-Teaming](#83-automated-red-teaming--adversarial-probing) |
 | **[09. Agentic Commerce](#09-agentic-commerce--payments-protocols)** | Monetization | [Commerce Protocols & Wallets](#91-commerce-protocols--wallets) • [Payment Protocol Matrix](#92-agentic-payments-protocol-matrix) |
 | **[10. Operations & Economy](#10-agent-operations--economy)** | Ops & Billing | [Workflow & Low-Code Engines](#101-workflow--low-code) • [Metering & Sub-Cent Billing](#102-metering--billing) |
 | **[11. Research Papers & Literature](#11-seminal-research-papers--literature)** | Foundations | Essential reading list of seminal agent papers (2022–2026) |
@@ -181,40 +193,45 @@ graph TD
 *The core infrastructure layer powering the autonomous world.*
 
 ### 3.1. Intelligence (Frontier Models)
-- **[GPT-5.4 / GPT-5.5 Family](https://openai.com/index/introducing-gpt-5-4/)** `Proprietary` `Flagship` — OpenAI's frontier reasoning family for professional work, multi-modal coding, computer use, and long-horizon agent execution; GPT-5.5 currently tops the public Terminal-Bench 2.1 leaderboard via Codex CLI.
-- **[OpenAI o3 / o4-mini](https://openai.com/)** `Proprietary` `Reasoning` — OpenAI's frontier reasoning models featuring adaptive chain-of-thought compute, deep multi-step math/code synthesis, and native function calling.
-- **[Claude Opus 4.8 / Sonnet 5 / Haiku 4.5](https://www.anthropic.com/claude)** `Proprietary` `Flagship` — Anthropic's flagship agentic line: Opus 4.8 for maximum reasoning depth, Sonnet 5 for fast agentic day-to-day work, and Haiku 4.5 for low-latency tasks.
-- **[Claude Mythos 5 / Claude Fable 5](https://www.anthropic.com/news/fable-mythos-access)** `Proprietary` `High-Security` — Anthropic's new above-Opus "Mythos" tier, first released June 9, 2026; Fable 5 shares the same underlying model with added safety measures for bio/cyber/LLM-R&D domains. Restored July 1, 2026 following export-control compliance review.
-- **[Gemini 3.1 / 3.5 Pro & Flash](https://ai.google.dev/models/gemini)** `Proprietary` `Multimodal` — Google's frontier multimodal model family with 2M+ context, native tool execution, agentic coding, and the fast, low-cost Gemini 3.5 Flash tier powering Antigravity 2.0.
+- **[Claude 3.7 Sonnet / Sonnet 5 / Opus 4.8](https://www.anthropic.com/claude)** `Proprietary` `Hybrid-Reasoning` — Anthropic's flagship agentic line featuring Claude 3.7 Sonnet's hybrid architecture (instant response + dynamic thinking budget), Opus 4.8 for deep reasoning, Sonnet 5 for fast workflows, and Haiku 4.5 for low-latency tasks.
+- **[Claude Mythos 5 / Claude Fable 5](https://www.anthropic.com/news/fable-mythos-access)** `Proprietary` `High-Security` — Anthropic's pinnacle tier designed for high-assurance autonomous planning; Fable 5 provides added alignment barriers for critical cyber/bio/LLM-R&D domains.
+- **[GPT-5.4 / GPT-5.5 Family](https://openai.com/index/introducing-gpt-5-4/)** `Proprietary` `Flagship` — OpenAI's frontier reasoning family for professional work, multi-modal coding, computer use, and long-horizon agent execution; GPT-5.5 tops public Terminal-Bench 2.1 via Codex CLI.
+- **[OpenAI o3 / o4-mini / o1](https://openai.com/)** `Proprietary` `Reasoning` — OpenAI's frontier reasoning models featuring adaptive chain-of-thought compute, deep multi-step code synthesis, and native function calling.
+- **[Gemini 3.1 / 3.5 Pro & Flash](https://ai.google.dev/models/gemini)** `Proprietary` `Multimodal` — Google's multimodal frontier series with 2M+ context window, native tool execution, agentic coding, and the low-latency Gemini 3.5 Flash tier powering Antigravity 2.0.
+- **[xAI Grok 3 / Grok 3.5](https://x.ai/)** `Proprietary` `Real-Time Search` — xAI's frontier model suite featuring multi-step chain-of-thought reasoning, live X-stream data ingestion, and high-throughput agent tool execution.
 - **[DeepSeek V4 / V3.2 / R1](https://api-docs.deepseek.com/quick_start/pricing/)** `Open Weights` `Reasoning` — DeepSeek's open reasoning and coding model line, offering cost-efficient frontier intelligence, open weights distillation, and native agentic function calling.
-- **[Qwen 3.0 Max](https://github.com/QwenLM/Qwen)** `Open Weights` — Alibaba's open-weight model family with native MCP integration, 1M context, and top open-source SWE-bench scores.
-- **[Llama 4.5 Agentic](https://llama.meta.com)** `Open Weights` — Meta's open-weight foundation model family optimized for local agent deployment, tool execution, and multi-agent coordination.
+- **[Qwen 3.0 Max / Qwen 2.5-Coder](https://github.com/QwenLM/Qwen)** `Open Weights` `Coding Standard` — Alibaba's open-weight model family with native MCP integration, 1M context, and top open-source SWE-bench scores.
+- **[Meta Llama 4.5 Agentic / Llama 3.3 70B](https://llama.meta.com)** `Open Weights` — Meta's open-weight foundation model family optimized for local agent deployment, tool execution, and multi-agent coordination.
 - **[Kimi K2.5](https://github.com/MoonshotAI)** `Open Weights` — Moonshot AI's open-source base model, serving as the foundation under Cursor's in-house Composer 2.5 agent after heavy RL post-training.
 - **[Mistral NeMo Agentic 2 / Large 3](https://mistral.ai/)** `Open Weights` `Tool-Optimized` — Mistral AI's agent-optimized open model series engineered for high-throughput tool calling, structured outputs, and complex MCP action execution.
 - **[Cohere Command R+ (Agentic)](https://cohere.com/command)** `Commercial` `Enterprise-RAG` — Scalable enterprise model purpose-built for multi-step tool use, grounded RAG citations, and automated business workflows.
+- **[GLM-4-Voice / GLM-4-Plus](https://github.com/THUDM/GLM-4)** `Open Weights` — Zhipu AI's bilingual open model family with direct end-to-end multimodal voice processing and tool execution loops.
 
 ### 3.2. Orchestration (Frameworks)
-- **[Microsoft Agent Framework (MAF) 1.0](https://github.com/microsoft/agent-framework)** `MIT` `GA Release` — Microsoft's official successor to AutoGen and Semantic Kernel, reaching GA in April 2026 across Python and .NET with declarative YAML config, native MCP, and A2A integration.
-- **[LangGraph 1.0](https://github.com/langchain-ai/langgraph)** `MIT` `Enterprise Standard` — The enterprise standard for stateful, cyclic multi-agent graphs, featuring MCP tools as first-class streaming graph nodes.
-- **[Google Agent Development Kit (ADK) 2.0](https://github.com/google/adk)** `Apache 2.0` `Graph Engine` — Google's code-first agent toolkit, rebuilt around a graph-based execution engine at Google I/O 2026 with deep Gemini and Cloud Run integration.
+- **[Microsoft Agent Framework (MAF) 1.0](https://github.com/microsoft/agent-framework)** `MIT` `GA Release` — Microsoft's official successor to AutoGen and Semantic Kernel, reaching GA across Python and .NET with declarative YAML config, native MCP, and A2A integration.
+- **[LangGraph 1.0](https://github.com/langchain-ai/langgraph)** `MIT` `Enterprise Standard` — The enterprise standard for stateful, cyclic multi-agent graphs, featuring MCP tools as first-class streaming graph nodes and time-travel debugging.
+- **[Google Agent Development Kit (ADK) 2.0](https://github.com/google/adk)** `Apache 2.0` `Graph Engine` — Google's code-first agent toolkit rebuilt around a graph-based execution engine with deep Gemini, Cloud Run, and A2A integration.
 - **[Claude Agent SDK](https://pypi.org/project/claude-agent-sdk/)** `MIT` `Anthropic Official` — Anthropic's official SDK for building custom agents on the Claude Code harness, using MCP as its primary tool contract.
 - **[CrewAI 1.14](https://github.com/joaomdmoura/crewAI)** `MIT` `54k Stars` — Role-based multi-agent collaboration framework with built-in telemetry, enterprise flows, and native MCP/A2A swarming support.
+- **[Swarms](https://github.com/kyegomez/swarms)** `MIT` `18k Stars` — Enterprise-grade multi-agent orchestration framework for building, deploying, and managing concurrent swarms across heterogeneous models.
 - **[PydanticAI V2](https://github.com/pydantic/pydantic-ai)** `MIT` `Type-Safe` — Type-safe Python agent framework with a "harness-first" redesign bundling tools, hooks, instructions, and model settings into composable capability primitives.
 - **[AutoGen (v0.4+ Event-Driven)](https://github.com/microsoft/autogen)** `MIT` `Distributed Actors` — Microsoft's redesigned asynchronous, event-driven multi-agent framework featuring distributed agent actors, pluggable memory, and scalable swarms.
 - **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** `MIT` `Multi-Language` — Microsoft's enterprise-grade SDK for integrating AI services into C#, Python, and Java applications with rich plugin architecture and agent orchestration.
-- **[Mastra](https://github.com/mastra-ai/mastra)** `Apache 2.0` `TypeScript Native` — TypeScript-native agent framework tailored for full-stack JavaScript and Node.js teams.
+- **[Mastra](https://github.com/mastra-ai/mastra)** `Apache 2.0` `TypeScript Native` — TypeScript-native agent framework tailored for full-stack JavaScript and Node.js teams with built-in RAG and eval.
 - **[MetaGPT](https://github.com/geekan/MetaGPT)** `MIT` `46k Stars` — Multi-agent framework that assigns Standard Operating Procedures (SOPs) to simulated software company roles (PM, Architect, Engineer, QA).
 - **[ChatDev](https://github.com/OpenBMB/ChatDev)** `Apache 2.0` `26k Stars` — Communicative agent ecosystem simulating a virtual software development company to build applications from scratch through collaborative dialogue.
 - **[LlamaIndex Workflows 1.0](https://github.com/run-llama/llama_index)** `Apache 2.0` `Event-Driven RAG` — Event-driven workflow engine from LlamaIndex for RAG-heavy and data-centric multi-agent pipelines with native MCP support.
 - **[AG2](https://github.com/ag2ai/ag2)** `Apache 2.0` — Community-driven continuation of original AutoGen v0.2, maintained by former creators.
-- **[Camel-AI](https://github.com/camel-ai/camel)** `MIT` — Pioneer multi-agent framework exploring communicational agent behavior and cooperative task execution.
+- **[Camel-AI](https://github.com/camel-ai/camel)** `MIT` — Pioneer multi-agent framework exploring communicational agent behavior, role-playing, and cooperative task execution.
 - **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** `MIT` `High-Performance` — High-performance framework for lightweight, multimodal agents with vector memory and fast reasoning loops.
+- **[Microsoft Magentic-One](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)** `MIT` — Generalist multi-agent system from Microsoft Research capable of solving complex multi-step web and file-based tasks.
 - **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** `Apache 2.0` — Open-source developer-first autonomous AI agent framework designed to build, manage, and run autonomous agents with GUI dashboard management and multi-vector memory.
 - **[AutoGen Studio](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-studio)** `MIT` `Visual UI` — Interactive low-code UI for rapid multi-agent prototyping, visual skill creation, and session debugging.
 
 ### 3.3. Micro-Agents & Lightweight SDKs
 - **[Smolagents](https://github.com/huggingface/smolagents)** `Apache 2.0` `44k Stars` — Hugging Face's ultra-lightweight library for code-first agents where actions are clean Python code blocks.
 - **[ControlFlow](https://github.com/PrefectHQ/ControlFlow)** `Apache 2.0` `Task-Centric` — Prefect's task-centric, Pythonic agent framework designed to weave autonomous agents into structured, observable workflows.
+- **[Rig](https://github.com/0xPlaygrounds/rig)** `MIT` `Rust SDK` — Modular, type-safe Rust library for building scalable, high-performance LLM-powered applications and agents.
 - **[Goose](https://github.com/block/goose)** `Apache 2.0` — Block's open-source extensible AI agent that runs in your terminal to automate shell scripts, code edits, and environment operations.
 - **[Micro-Agent](https://github.com/builderio/micro-agent)** `MIT` — Builder.io's lightweight agent that writes code, executes tests in a sandbox, and iteratively fixes errors until tests pass.
 - **[BabyAGI 2.0](https://github.com/yoheinakajima/babyagi)** `MIT` — The evolution of the original autonomous task planner into a minimalist, modular micro-agent framework.
@@ -228,11 +245,13 @@ graph TD
 - **[Runloop](https://www.runloop.ai/)** `Commercial` `Managed Sandbox` — Cloud platform providing managed developer environments and sandboxes optimized for AI coding agents and benchmark evaluation.
 - **[Firecrawl Extract Engine](https://github.com/mendableai/firecrawl)** `AGPL-3.0` `Web Sandbox` — Turn-key web scraping and sandbox extraction engine that turns any URL into LLM-ready markdown for autonomous agents.
 - **[Docker Agent Sandbox](https://www.docker.com/)** `Apache 2.0` — Containerized execution environments optimized for isolating local and enterprise agent file/code operations.
+- **[Cloudflare Sandboxed Workers](https://developers.cloudflare.com/)** `Commercial` — Edge-based secure compute isolation with native headless browser rendering and sub-millisecond cold starts.
 
 ### 3.5. Agent Memory & Context Layer
 - **[Mem0](https://github.com/mem0ai/mem0)** `Apache 2.0` `28k Stars` — The intelligent memory layer for AI agents; provides persistent user, session, and domain memory across agentic interactions.
 - **[Letta (formerly MemGPT)](https://github.com/letta-ai/letta)** `Apache 2.0` `Stateful OS` — Stateful AI agent framework managing multi-tier memory (RAM/Disk) like an operating system for long-term retention.
 - **[Zep / Graphiti](https://github.com/getzep/graphiti)** `Apache 2.0` `Temporal Graph` — Temporal knowledge graph engine that dynamically extracts and updates episodic memory for autonomous agents.
+- **[HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** `Apache 2.0` `Hippocampal Memory` — Neurobiologically inspired long-term memory indexing framework enabling continuous knowledge integration and multi-hop reasoning.
 - **[Khoj](https://github.com/khoj-ai/khoj)** `AGPL-3.0` `20k Stars` — Open-source personal AI second brain with offline episodic memory, search indexation across documents, and custom agent creation.
 - **[Supermemory](https://github.com/supermemoryai/supermemory)** `MIT` — Open-source build-your-own memory engine for AI agents with document vectorization and temporal search.
 - **[Cognee](https://github.com/topobyte/cognee)** `Apache 2.0` — Memory management and graph-RAG pipeline for LLMs and agents, organizing unstructured context into searchable knowledge graphs.
@@ -244,6 +263,7 @@ graph TD
 - **[Agent Network Protocol (ANP)](https://agent-network-protocol.com)** `Open Standard` — Decentralized communication standard for P2P inter-agent messaging and discovery.
 - **[Universal Commerce Protocol (UCP)](https://developers.google.com/shopping)** `Open Standard` `Google` — Protocol for autonomous buy-and-sell agents to execute commercial transactions across digital storefronts.
 - **[MCP-A2A Interoperability Bridge v1.2](https://modelcontextprotocol.io)** `Open Standard` — Unified bridge protocol enabling Anthropic MCP tool contexts and Google A2A inter-agent negotiation to seamlessly hand off tasks across agent networks.
+- **[AG-UI Protocol](https://github.com/ag-ui-protocol/ag-ui)** `Open Standard` — Agent-to-User Interface streaming protocol establishing bidirectional canvas updates, state synchronization, and inline approval cards.
 - **[OpenAI AgentKit](https://github.com/openai/agent-kit)** `Open Source` — Cryptographic action authorization and wallet interface standard allowing agents to securely interact with third-party Web APIs and on-chain systems.
 - **[Open-RPC for Agents](https://open-rpc.org/)** `Open Standard` — JSON-RPC-based interface specification for strongly typed agent tool discovery, validation, and contract calling.
 - **[W3C DID Agent Identity Spec](https://www.w3.org/TR/did-core/)** `Open Standard` — Decentralized Identifiers and verifiable credentials establishing immutable identity and cryptographic accountability for autonomous software agents.
@@ -251,7 +271,9 @@ graph TD
 ### 3.7. Local & Edge (On-Device Agents)
 - **[Ollama](https://github.com/ollama/ollama)** `MIT` `120k+ Stars` — The premier local engine for running quantized agent models offline on consumer hardware with zero data leakage.
 - **[LM Studio Local Server](https://lmstudio.ai/)** `Proprietary / Free` — Desktop local LLM runtime exposing OpenAI-compatible REST endpoints with GPU acceleration and native tool-calling agent capabilities.
+- **[vLLM Engine](https://github.com/vllm-project/vllm)** `Apache 2.0` `High-Throughput` — High-throughput, memory-efficient LLM serving engine powered by PagedAttention, optimized for concurrent multi-agent tool calls.
 - **[Apple CoreML Agent Engine](https://developer.apple.com)** `Proprietary` — On-device framework allowing agents to access local file systems, native apps, and Apple Silicon neural engines securely.
+- **[Exo](https://github.com/exo-explore/exo)** `GPL-3.0` `18k Stars` — Run frontier-class open LLMs locally by pooling consumer devices (MacBooks, PCs, iPhones) into a distributed peer-to-peer AI cluster.
 - **[LocalAI](https://github.com/mudler/LocalAI)** `MIT` `28k Stars` — Free, open-source OpenAI drop-in replacement for local, self-hosted AI agent inference on CPU and GPU.
 - **[Jan](https://github.com/janhq/jan)** `AGPL-3.0` — Open-source local desktop AI assistant supporting local tool execution, extension plugins, and offline model runtimes.
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** `MIT` — Open-source desktop workspace that coordinates coding agents in parallel or sequence and supports local OpenAI-compatible model endpoints.
@@ -268,6 +290,7 @@ graph TD
 - **[Slack / Discord MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/slack)** `MIT` — Conversational channel integration for dispatching notifications, thread replies, and operational alerts.
 - **[Docker / Kubernetes MCP Server](https://github.com/modelcontextprotocol/servers)** `Apache 2.0` — Cluster state inspection, container lifecycle management, and log telemetry streaming.
 - **[Sequential Thinking & Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)** `MIT` — Dynamic chain-of-thought scratchpad and persistent context memory retention for multi-step agent reasoning.
+- **[AWS Cloud MCP Server](https://github.com/awslabs/mcp-server-aws)** `Apache 2.0` — AWS resource provisioning, CloudWatch metric inspection, and IAM policy diagnostics.
 
 [Back to Top](#nexum--the-agentic-universe)
 
@@ -292,9 +315,13 @@ graph TD
 
 ### 4.4. Hierarchical Supervisor Swarms
 - **Concept**: A primary Supervisor agent receives user intent, decomposes the problem, and delegates discrete tasks to specialized Worker agents (e.g. Coder, Reviewer, Tester), aggregating their outputs into a cohesive result.
-- **Best Suited For**: Enterprise workflows, software companies simulations (MetaGPT / ChatDev), and cross-functional task swarms.
+- **Best Suited For**: Enterprise workflows, software company simulations (MetaGPT / ChatDev / Swarms), and cross-functional task swarms.
 
-### 4.5. Human-in-the-Loop (HITL) Gateways
+### 4.5. Dynamic Intent Routing & Self-Assembly
+- **Concept**: The gateway agent dynamically analyzes incoming multi-modal requests, selects the optimal downstream subagent/model specialty on the fly, and injects runtime context-specific tool schemas without static hardcoding.
+- **Best Suited For**: Open-ended conversational assistants, multi-tenant enterprise gateways, and adaptive customer service swarms.
+
+### 4.6. Human-in-the-Loop (HITL) Gateways
 - **Concept**: Cryptographic and procedural checkpoints where autonomous agents pause execution to request explicit human authorization before executing irreversible actions (financial transactions, production deployments, database writes).
 - **Best Suited For**: Agentic commerce (AP2), SOC incident mitigations, and regulated clinical environments.
 
@@ -314,6 +341,7 @@ graph TD
 - **[OpenAI Operator](https://openai.com)** `Proprietary` — Autonomous browser agent capable of executing complex web tasks like travel booking, shopping, and research.
 - **[Cline / Roo Code](https://github.com/cline/cline)** `MIT` `67k Stars` — VS Code extension agent featuring full autonomous terminal, file edit, and browser preview loops.
 - **[Open Interpreter](https://github.com/KillianLucas/open-interpreter)** `MIT` `68k Stars` — Natural language command-line agent executing code locally across Python, JS, Shell, and native OS apps.
+- **[Midscene.js](https://github.com/web-infra-dev/midscene)** `MIT` — Multimodal AI-powered UI automation and visual testing tool for web apps that executes natural language steps via visual grounding.
 - **[LaVague](https://github.com/lavague-ai/LaVague)** `Apache 2.0` — Large Action Model (LAM) framework generating executable browser automation code directly from visual web pages and natural language goals.
 - **[Playwright AI Agent](https://github.com/microsoft/playwright)** `Apache 2.0` — Microsoft's autonomous end-to-end web testing and browser automation harness powered by vision-language agents.
 - **[Agent S (OpenOS)](https://github.com/simular-ai/Agent-S)** `Apache 2.0` — Open-source GUI agent designed to autonomously interact with OS desktops, GUI applications, and multi-window environments.
@@ -325,9 +353,15 @@ graph TD
 - **[Cartesia Sonic](https://cartesia.ai)** `Commercial` `Sub-80ms API` — Sub-80ms voice generation API designed for real-time streaming agentic voice conversations.
 - **[Retell AI](https://www.retellai.com/)** `Commercial` — Voice AI platform for building human-like conversational telephone and customer interaction agent swarms.
 - **[Bland AI](https://bland.ai)** `Commercial` — Enterprise platform for building and scaling autonomous phone-call agent swarms for sales and operations.
-- **[Workforce Wave](https://www.workforcewave.com/)** `Commercial` — AI voice receptionist that answers business calls 24/7, books appointments, and captures after-hours leads for small businesses.
 - **[ElevenLabs + IBM watsonx Orchestrate](https://elevenlabs.io/enterprise)** `Commercial` — Enterprise voice integration bringing ElevenLabs high-fidelity voice synthesis into IBM's agentic workflow platform across 70+ languages.
 - **[Ultravox v0.5](https://github.com/fixie-ai/ultravox)** `Apache 2.0` `Speech-LLM` — Open-source multimodal speech-LLM designed for direct audio-in audio-out conversational agent systems without transcription bottlenecks.
+- **[Mini-Omni 2](https://github.com/gpt-omni/mini-omni2)** `Apache 2.0` — Open-source multimodal agent capable of simultaneous real-time voice, vision, and text understanding.
+
+### 5.3. Dynamic Canvases, Artifacts & Agent-User Interfaces
+- **[Google Antigravity Canvas](https://antigravity.google)** `Proprietary` — Multi-agent supervisor surface rendering live executable artifacts, code diff branches, and parallel subagent execution monitors.
+- **[Claude Artifacts & Cowork Canvas](https://claude.ai)** `Proprietary` — Dynamic interactive side-by-side workspace rendering live React components, SVG diagrams, and document revisions.
+- **[OpenAI Canvas](https://openai.com)** `Proprietary` — Collaborative canvas environment enabling targeted code edits, text refactorings, and interactive line-by-line debugging.
+- **[Bolt.new Dynamic Workspace](https://bolt.new)** `Commercial` — In-browser full-stack development canvas running real Node.js runtimes, hot reload, and instant preview.
 
 [Back to Top](#nexum--the-agentic-universe)
 
@@ -341,6 +375,7 @@ graph TD
 - **[Google Antigravity 2.0](https://antigravity.google)** `Freemium` `Parallel Agent IDE` — Google's parallel-agent IDE built on the Windsurf acqui-hire; features split Editor View / Manager Surface for spawning and supervising multiple agents, powered by Gemini 3.5 Flash.
 - **[Cursor 3 (Composer 2.5)](https://cursor.com)** `Freemium` `Parallel Worktrees` — AI-native code editor powered by Composer 2.5 (built on Kimi K2.5), scoring ~79.8% SWE-Bench Multilingual at lower compute costs with parallel worktree execution.
 - **[OpenAI Codex CLI](https://openai.com/codex)** `Freemium` `#1 Terminal-Bench` — OpenAI's standalone cloud/CLI coding agent, #1 on the public Terminal-Bench 2.1 leaderboard with GPT-5.5.
+- **[Void](https://github.com/voideditor/void)** `Apache 2.0` `Open-Source IDE` — The open-source AI code editor alternative to Cursor; provides complete control over model endpoints, privacy, and custom agent tools.
 - **[Devin Desktop (formerly Windsurf)](https://cognition.ai)** `Commercial` — Cognition's relaunch of the Windsurf IDE, integrating the Devin cloud agent and Devin Terminal CLI for autonomous micro-VM runs.
 - **[Augment Code](https://www.augmentcode.com/)** `Commercial` `Deep Semantic Index` — Enterprise AI coding platform with proprietary deep codebase semantic indexing, instant dependency-aware context, and collaborative multi-file agents.
 - **[Codeium Windsurf (Cascade)](https://codeium.com/windsurf)** `Freemium` `Flows Engine` — Agentic IDE featuring Cascade real-time flows, multi-file editing, terminal tool execution, and codebase graph grounding.
@@ -366,6 +401,7 @@ graph TD
 - **[K8sGPT](https://k8sgpt.ai/)** `Apache 2.0` `K8s Remediation` — Kubernetes SRE agent that scans clusters, diagnoses complex YAML/runtime errors in plain English, and provides automated remediation actions.
 - **[PagerDuty Advance Agents](https://www.pagerduty.com/platform/generative-ai/)** `Commercial` — Enterprise incident triage agent automating responder mobilization, runbook diagnostics, and incident timeline summaries.
 - **[Shoreline AI](https://shoreline.io/)** `Commercial` — Cloud reliability agent that auto-detects operational anomalies and triggers autonomous remediation workflows across production fleets.
+- **[Dynatrace Davis CoPilot](https://www.dynatrace.com/)** `Commercial` — Observability agent leveraging deterministic topology graphs to automate root-cause analysis and cloud remediation.
 
 ### 6.3. Deep Research & Intelligence
 - **[Perplexity Deep Research](https://www.perplexity.ai/)** `Proprietary` `Multi-Hop Search` — Autonomous multi-step research agent executing dozens of web queries, citations, and analytical synthesis to produce exhaustive reports.
@@ -374,6 +410,7 @@ graph TD
 - **[Stanford STORM](https://github.com/stanford-oval/storm)** `MIT` — Synthesis of Topic Outlines through Grounded LLM Multi-Agent Interaction for generating structured, Wikipedia-style deep research reports.
 - **[Hebbia Matrix](https://www.hebbia.ai/)** `Commercial` — Enterprise research agent analyzing thousands of financial, legal, and unstructured documents simultaneously in a spreadsheet interface.
 - **[Elicit Research Agent](https://elicit.com/)** `Commercial` — Automated literature review and scientific synthesis agent analyzing over 200 million academic papers.
+- **[Consensus](https://consensus.app/)** `Commercial` — Research agent that searches academic literature, synthesizes consensus across clinical/scientific studies, and extracts evidence.
 
 ### 6.4. Business, Finance & HR
 - **[Salesforce Agentforce](https://salesforce.com/agentforce)** `Commercial` `Enterprise Swarm` — Autonomous enterprise agent suite across CRM, sales pipeline, service triage, and marketing workflows.
@@ -401,11 +438,13 @@ graph TD
 - **[Notion AI Agents](https://www.notion.so/product/ai)** `Commercial` — Integrated workspace agent that plans projects, searches cross-document context, and synthesizes action items.
 - **[Monday.com AI Automations](https://monday.com/ai)** `Commercial` — Adaptive work management agents handling project tracking, dependency management, and automated status reporting.
 
-### 6.7. Science & Healthcare
+### 6.7. Science, BioTech & Materials
 - **[CAS Newton](https://cas.org)** `Commercial` — Deep scientific discovery agent grounded in 150+ years of chemical and biological research data.
 - **[NVIDIA BioNeMo](https://nvidia.com/bionemo)** `Research` — Generative AI and agent framework for biomolecular discovery, protein structure prediction, and drug target validation.
 - **[AlphaFold 3 Agent](https://deepmind.google)** `Research` `Structural Biology` — DeepMind's structural biology system modeling joint structures of proteins, DNA, RNA, and ligands.
+- **[EvolutionaryScale ESM3](https://www.evolutionaryscale.ai/)** `Open Weights` `Generative Biology` — Frontier biological foundation model generating novel proteins, catalytic sequences, and functional enzymes from first principles.
 - **[Evo (Arc Institute)](https://github.com/evo-design/evo)** `Apache 2.0` `CRISPR & DNA` — Biological foundation model and generative agent capable of designing synthetic DNA, CRISPR systems, and protein assemblies.
+- **[ChemCrow](https://github.com/ur-whitelab/chemcrow-public)** `MIT` `Autonomous Chemistry` — Chemistry agent integrating 18 expert-designed computational chemistry tools for organic synthesis and reaction planning.
 - **[Abridge](https://www.abridge.com)** `Healthcare` — Clinical documentation agent structuring doctor-patient encounters into clinical notes and EHR updates.
 - **[Ambience Healthcare](https://www.ambiencehealthcare.com)** `Healthcare` — Operating system for AI clinical documentation, coding, and compliance workflows.
 - **[Hippocratic AI](https://www.hippocraticai.com)** `Healthcare` — Safety-focused non-diagnostic healthcare agents for patient follow-up, scheduling, and health education.
@@ -423,27 +462,72 @@ graph TD
 - **[Altera](https://altera.al)** `Commercial` — Autonomous digital humans operating in virtual sandbox worlds (e.g. Minecraft), demonstrating emergent social behaviors and economies.
 - **[Oasis Gen-World](https://oasis.ai)** `Research` — Real-time world generation engine creating infinite interactive game environments on the fly.
 - **[Inworld AI Engine 3.0](https://inworld.ai)** `Commercial` — Dynamic NPC brain framework providing persistent memory, emotion models, and adaptive narrative execution.
+- **[Voyagers / MineDojo](https://github.com/MineDojo/Voyager)** `MIT` — Lifelong learning agent in Minecraft driven by LLMs, continuous skill libraries, and automatic curricula.
 
 ### 6.10. Physical AI (Robotics)
 - **[NVIDIA Cosmos 3](https://developer.nvidia.com/cosmos)** `Open Weights` `World Foundation` — Foundation world model for physical AI, robotics simulation, and synthetic dataset generation.
 - **[NVIDIA Isaac GR00T N1.7](https://developer.nvidia.com/isaac/groot)** `Open Weights` `VLA Foundation` — Vision-Language-Action (VLA) foundation reasoning model built specifically for humanoid robots.
 - **[Boston Dynamics Atlas](https://bostondynamics.com/atlas)** `Commercial` `Electric Humanoid` — Fully electric humanoid robot powered by VLA physical reasoning stacks for industrial manufacturing.
 - **[Figure 02](https://figure.ai)** `Commercial` — Commercial humanoid worker agent deployed in automotive manufacturing lines (BMW/Mercedes).
+- **[Unitree G1 / H1](https://www.unitree.com/g1)** `Commercial` — High-agility mass-production humanoid robot utilizing multimodal reinforcement learning and visual terrain negotiation.
+- **[1X Neo](https://www.1x.tech/)** `Commercial` — Bipedal android designed for consumer and enterprise physical assistance powered by embodied AI foundation models.
 - **[LG CLOi](https://lg.com/global/robot)** `Commercial` — Smart home humanoid robot using edge AI reasoning to execute household physical chores.
 
 ### 6.11. Law, Legal & Compliance
 - **[Harvey AI](https://harvey.ai)** `Commercial` — Legal reasoning agent platform for law firms and corporate legal teams, automating contract analysis, redlining, and research.
 - **[Robin AI](https://robinai.co.uk)** `Commercial` — Contract negotiation agent automatically evaluating standard agreement terms and drafting revisions.
 - **[LexisNexis Lexis+ AI Agent](https://lexisnexis.com)** `Commercial` — Legal research agent generating verified briefs grounded in primary legal authorities.
+- **[Casetext CoCounsel](https://casetext.com/cocounsel)** `Commercial` — Legal AI assistant acquired by Thomson Reuters, performing document review, legal research memos, and deposition preparation.
 
 ### 6.12. Creative Media & Design
 - **[Figma AI / Genius Agent](https://figma.com)** `Commercial` — Collaborative UI/UX design agent generating, editing, and componentizing dynamic design systems inside Figma.
 - **[Runway Gen-3 / Sora Media Agent](https://runwayml.com)** `Commercial` — Multimodal creative video agent automating multi-shot storyboarding, character consistency, and spatial editing.
 - **[Uizard AI / Galatea Agent](https://uizard.io)** `Freemium` — Autonomous UI design agent transforming wireframe sketches and natural language prompts into interactive app prototypes.
+- **[Midjourney Agentic Canvas](https://www.midjourney.com)** `Commercial` — Visual generative agent allowing parametric inpainting, regional reframing, and multi-asset art direction.
 
 ### 6.13. Education & Adaptive Learning
 - **[Khanmigo](https://www.khanacademy.org/khanmigo)** `Freemium` `Socratic Agent` — Khan Academy's interactive AI tutoring agent providing Socratic step-by-step guidance across STEM, computer science, and humanities.
 - **[Synthesia Persona](https://www.synthesia.io)** `Commercial` — Interactive avatar tutoring agents for automated corporate training, language learning, and adaptive curriculum delivery.
+- **[Duolingo Max Agent](https://www.duolingo.com/)** `Freemium` — Conversational roleplay and explanation agent providing adaptive, personalized language mastery.
+
+### 6.14. Cybersecurity & Threat Intelligence
+- **[Google Big Sleep / Project Naptime](https://googleprojectzero.blogspot.com/)** `Research` `Zero-Day Agent` — Google Project Zero's autonomous agent framework that successfully discovered, triaged, and verified real-world in-the-wild zero-day vulnerabilities in production codebases.
+- **[Caido Agent](https://caido.io/)** `Commercial` `Offensive AppSec` — Autonomous web penetration testing and API security agent that actively explores attack surfaces and discovers injection flaws.
+- **[HexStrike](https://github.com/hexstrike/hexstrike)** `Open Source` `Automated Red Team` — Open-source autonomous adversary simulation agent executing MITRE ATT&CK tactical red-teaming campaigns.
+- **[CrowdStrike Charlotte AI](https://crowdstrike.com)** `Commercial` `SOC Defense` — Real-time autonomous SOC agent inside Falcon platform automating cross-endpoint threat hunting and remediation.
+- **[Palo Alto Prisma AIRS 3.0](https://paloaltonetworks.com/prisma/airs)** `Commercial` `Agent Gateway` — Autonomous AI runtime security platform providing inline prompt firewalling, tool isolation, and OWASP ASI Top 10 mitigation.
+- **[VulnCheck Agent](https://vulncheck.com/)** `Commercial` — Autonomous exploit intelligence and vulnerability tracking agent correlating real-time exploit chains across open-source dependencies.
+
+### 6.15. Supply Chain & Autonomous Logistics
+- **[Project44 Movement AI](https://www.project44.com/)** `Commercial` — Autonomous multimodal supply chain agent predicting freight disruptions, rerouting shipments, and mitigating port delays.
+- **[Flexport Autonomous Freight Agent](https://www.flexport.com/)** `Commercial` — Logistics agent automating customs filing, ocean/air quote negotiation, and shipment milestone tracking.
+- **[Manhattan Associates Supply Agent](https://www.manh.com/)** `Commercial` — Autonomous warehouse management agent optimizing slotting, inventory replenishment, and robotics dispatch.
+- **[Kinaxis Maestro](https://www.kinaxis.com/)** `Commercial` — Supply chain orchestration engine providing real-time multi-tier scenario modeling and automated inventory rebalancing.
+
+### 6.16. Sales, Go-To-Market (GTM) & Revenue Swarms
+- **[11x (Alice & Jordan)](https://11x.ai/)** `Commercial` `Autonomous SDR` — Autonomous digital sales development reps that research prospects, craft personalized multi-channel outreach, handle objections, and schedule meetings.
+- **[Artisan (Ava AI BDR)](https://artisan.co/)** `Commercial` `Outbound Agent` — Autonomous business development agent conducting lead enrichment, warm email deliverability orchestration, and intent-driven prospecting.
+- **[Clay / Claygent](https://www.clay.com/)** `Commercial` `GTM Research Agent` — Autonomous web-scraping and data enrichment agent crawling corporate websites, LinkedIn, and GitHub to build verified lead graphs.
+- **[Regie.ai](https://www.regie.ai/)** `Commercial` — Agentic prospecting platform that monitors intent signals and dynamically generates tailored sales campaigns for revenue teams.
+- **[Qualified Piper](https://www.qualified.com/)** `Commercial` — Inbound website conversational agent that qualifies enterprise buyers in real-time and routes high-intent pipeline directly into sales calendars.
+
+### 6.17. Defense, Aerospace & National Security
+- **[Palantir AIP Agents](https://www.palantir.com/platforms/aip/)** `Commercial` `Mission Intelligence` — Governed enterprise agent orchestration platform connecting operational ontologies, mission data, and defense action workflows with strict access controls.
+- **[Anduril Lattice Agentic OS](https://www.anduril.com/lattice/)** `Commercial` `Autonomous Command` — Real-time command-and-control software coordinating autonomous sensor grids, unmanned aerial systems (UAS), and tactical defense assets.
+- **[Scale AI Donovan](https://scale.com/donovan)** `Commercial` `Defense LLM` — Decision-support agent platform built for national security and defense personnel to synthesize satellite imagery, signals, and multi-source intel.
+- **[Primer AI](https://primer.ai/)** `Commercial` — Natural language intelligence agent analyzing open-source intelligence (OSINT) and classified data feeds to deliver real-time situational threat briefings.
+
+### 6.18. Energy, Utilities & Climate Tech
+- **[AutoGrid / Uplight](https://www.auto-grid.com/)** `Commercial` `Virtual Power Plant` — Autonomous energy flexibility agent forecasting grid demand, balancing distributed energy resources, and bidding storage assets in wholesale power markets.
+- **[Gridmatic](https://www.gridmatic.com/)** `Commercial` `AI Power Trading` — Algorithm-driven autonomous energy trading agent operating on renewable generation and battery storage dispatch.
+- **[Pachama](https://pachama.com/)** `Commercial` `Satellite Carbon Verification` — Geospatial agent utilizing satellite LIDAR and computer vision to verify carbon offset projects and detect deforestation in near real-time.
+- **[LevelTen Energy AI](https://www.leveltenenergy.com/)** `Commercial` — Renewable energy procurement agent analyzing power purchase agreements (PPAs) and risk-pricing clean energy transactions.
+
+### 6.19. Insurance & Risk Underwriting
+- **[Sixfold](https://sixfold.am/)** `Commercial` `Underwriting Co-Pilot` — Purpose-built generative agent for commercial insurance underwriters, synthesizing regulatory filings, risk portfolios, and capacity limits.
+- **[Shift Technology](https://www.shift-technology.com/)** `Commercial` `Fraud Adjudication` — Autonomous insurance fraud detection and claims decisioning agent analyzing behavioral telemetry and healthcare billing codes.
+- **[Hyperscience](https://www.hyperscience.com/)** `Commercial` — Hyperautomation agent parsing complex handwriting, unstructured policy documents, and claims submissions with automated human-in-the-loop fallback.
+- **[ClaimSorted](https://www.claimsorted.com/)** `Commercial` — End-to-end autonomous medical claims adjudication agent reviewing health receipts against dynamic insurance policy rule sets.
 
 [Back to Top](#nexum--the-agentic-universe)
 
@@ -498,7 +582,7 @@ graph TD
 - **[CrowdStrike Charlotte AI](https://crowdstrike.com)** `Commercial` — Agentic SOC platform inside Falcon SIEM automating threat hunting, triage, and mitigation routines.
 - **[Palo Alto Prisma AIRS 3.0](https://paloaltonetworks.com/prisma/airs)** `Commercial` — Security suite covering full agent lifecycles: pre-deployment scanning, inline prompt protection, and red-teaming, explicitly mapped to the OWASP ASI Top 10.
 - **[Wiz Security Agents](https://wiz.io)** `Commercial` — Cloud security guardrails designed specifically for AWS AgentCore, Gemini Enterprise Agent Platform, and Salesforce Agentforce.
-- **[Garak (LLM Vulnerability Scanner)](https://github.com/leondz/garak)** `Apache 2.0` `4k Stars` — Open-source vulnerability scanner and automated red-teaming probe discovering halluncinations, jailbreaks, and injection flaws in AI agents.
+- **[Garak (LLM Vulnerability Scanner)](https://github.com/leondz/garak)** `Apache 2.0` `4k Stars` — Open-source vulnerability scanner and automated red-teaming probe discovering hallucinations, jailbreaks, and injection flaws in AI agents.
 - **[HiddenLayer AISec](https://hiddenlayer.com/)** `Commercial` — Enterprise security platform protecting AI systems from adversarial attacks, model theft, prompt injections, and rogue agent behavior.
 - **[Llama Guard 3](https://llama.meta.com)** `Open Weights` — Meta's safety classification model for input and output agent moderation across text, code, and tool execution.
 - **[Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit)** `MIT` — Open-source runtime toolkit enforcing safety constraints, identity boundaries, and OWASP compliance on AI agents.
@@ -521,6 +605,11 @@ graph TD
 | **ASI08** | **Supply Chain & Skill Poisoning** | Compromised third-party MCP servers or agent plugins | MCP server attestation & checksum verification |
 | **ASI09** | **Data Exfiltration via Autonomous Side-Channels**| Agent transmitting secrets via unauthorized web endpoints | Strict egress firewalling & API gateway allowlists |
 | **ASI10** | **Rogue / Unkillable Agent Loops** | Infinite recursion consuming unconstrained API budget | Hard compute/dollar budget caps & mandatory heartbeat monitors |
+
+### 8.3. Automated Red-Teaming & Adversarial Probing
+- **[Microsoft PyRIT (Python Risk Identification Tool)](https://github.com/Azure/PyRIT)** `MIT` — Open-source automation framework used by AI red teams to assess agent vulnerabilities against adversarial prompts, multi-turn jailbreaks, and sensitive data leakage.
+- **[DeepEval RedTeam Suite](https://github.com/confident-ai/deepeval)** `Apache 2.0` — Synthetic adversarial attack generator probing agent tool calls against OWASP ASI Top 10 vectors.
+- **[Promptfoo RedTeam CLI](https://github.com/promptfoo/promptfoo)** `MIT` — Automated fuzzing tool generating thousands of boundary attacks, indirect prompt injections, and privilege-escalation probes.
 
 [Back to Top](#nexum--the-agentic-universe)
 
@@ -592,6 +681,7 @@ graph TD
 | **2023** | *Toolformer: Language Models Can Teach Themselves to Use Tools* | Schick et al. (Meta AI Research) | Self-supervised learning of API and tool invocation | [arXiv:2302.04761](https://arxiv.org/abs/2302.04761) |
 | **2024** | *SWE-bench: Can Language Models Resolve Real-World GitHub Issues?* | Jimenez et al. (Princeton University) | Industry-standard benchmark for software engineering agents | [arXiv:2310.06770](https://arxiv.org/abs/2310.06770) |
 | **2024** | *OSWorld: Benchmarking Multimodal Agents on OS Interaction* | Xie et al. (HKU & CMU) | Unified environment for evaluating agents on desktop OS tasks | [arXiv:2404.07972](https://arxiv.org/abs/2404.07972) |
+| **2025** | *Agent2Agent (A2A) Protocol Specification* | Google Cloud & DeepMind Working Group | Standardized inter-agent negotiation and capability discovery | [Google Tech Report](https://developers.google.com) |
 | **2026** | *OWASP Top 10 for Agentic Applications Standard (ASI Top 10)* | OWASP Foundation Working Group | Industry-wide risk taxonomy and mitigation framework | [OWASP Standard](https://genai.owasp.org/) |
 
 [Back to Top](#nexum--the-agentic-universe)
@@ -603,8 +693,8 @@ graph TD
 
 | Language | Primary Frameworks & SDKs | Key Features & Focus |
 | :--- | :--- | :--- |
-| **Python** | LangGraph, CrewAI, PydanticAI V2, AutoGen v0.4, Smolagents, Camel-AI | Stateful graphs, role-based swarms, type validation, micro-VMs |
-| **TypeScript / Node** | Mastra, LangChain.js, AutoKitteh, Flowise | Full-stack JS/TS native, React integration, workflow canvases |
+| **Python** | LangGraph, CrewAI, PydanticAI V2, Swarms, AutoGen v0.4, Smolagents, Camel-AI | Stateful graphs, role-based swarms, type validation, micro-VMs |
+| **TypeScript / Node** | Mastra, LangChain.js, AutoKitteh, Flowise, Midscene.js | Full-stack JS/TS native, React integration, workflow canvases |
 | **C# / .NET** | Microsoft Agent Framework (MAF 1.0), Semantic Kernel | Enterprise Azure/Office 365, declarative YAML, high throughput |
 | **Go** | Google ADK 2.0 (Go), LangChainGo, E2B Go Client | High concurrency, microservices orchestration, low memory |
 | **Rust** | Rig, AutoGPT Rust Core, Llama.cpp Rust Bindings | Maximum performance, zero-cost abstractions, edge agent servers |
@@ -633,7 +723,7 @@ To be included in NEXUM, a project must undergo the **Lead Designer's Vetting Pr
 ```
 
 1. **Autonomy Tier**: Must demonstrate multi-step reasoning, goal decomposition, and task execution without human micro-management.
-2. **2026 Resilience**: Must support modern protocols (MCP, A2A, ACP/AP2/x402, or VLA).
+2. **2026 Resilience**: Must support modern protocols (MCP, A2A, ACP/AP2/x402, AG-UI, or VLA).
 3. **Community Velocity**: Active development with high-fidelity documentation, reliable test suites, and proven production usage.
 4. **Operational Safety**: Built-in guardrails, telemetry hooks, or compatibility with the OWASP ASI Top 10 and other Guardian systems.
 
