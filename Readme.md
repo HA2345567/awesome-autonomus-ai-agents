@@ -390,6 +390,7 @@ graph TD
 - **[AutoCodeRover](https://github.com/nus-apr/auto-code-rover)** `Apache 2.0` — Automated software engineering agent using AST and program structure analysis to navigate codebases and resolve complex GitHub issues.
 - **[Agent QA](https://github.com/vostride/agent-qa)** `Source Available` — QA agent that authors, executes, and self-repairs natural-language web and mobile regression tests with persistent test memory, a dashboard, CLI, MCP server, and agent skills.
 - **[Qodo (formerly CodiumAI)](https://www.qodo.ai/)** `Commercial` `Agentic Testing` — Agentic code analysis platform offering automated test generation, PR review agents, and context-aware integrity verification.
+- **[YYLO](https://github.com/yylo-dev/yylo)** `MIT` — Open-source command-line orchestrator for coding agents that runs each task in a dedicated branch/worktree behind typed task, validation, merge, and release-readiness boundaries, with a risk-based merge queue and receipt-backed repository changes.
 
 ### 6.2. DevOps, SRE & Cloud Infrastructure
 - **[Kubiya](https://www.kubiya.ai)** `Commercial` — Conversational DevOps and infrastructure automation agent executing operations across Kubernetes, Terraform, and cloud platforms.
