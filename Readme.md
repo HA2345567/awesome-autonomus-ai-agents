@@ -562,6 +562,7 @@ graph TD
 - **[Braintrust](https://www.braintrust.dev/)** `Commercial` — Enterprise evaluation stack for automated agent testing, prompt playground experiments, and CI/CD quality gates.
 - **[Comet Opik](https://www.comet.com/site/products/opik/)** `Open Source` — End-to-end LLM evaluation and agent tracing platform supporting custom metrics, automated evaluation, and real-time monitoring.
 - **[Traceloop (OpenLLMetry)](https://www.traceloop.com/)** `Open Source` — OpenTelemetry-native telemetry standard for monitoring agent traces across OpenTelemetry collectors (Datadog, Dynatrace, New Relic).
+- **[YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark)** `MIT` — Flexible, isolated evaluation layer for task prompts and Workflow Runner YAML that normalizes every case into one attempt contract, runs each candidate in a private fresh-repository workspace, and evaluates retained evidence with ordered deterministic and/or LLM profiles, retaining hash-verified terminals and immutable records.
 
 [Back to Top](#nexum--the-agentic-universe)
 
