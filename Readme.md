@@ -417,6 +417,7 @@ graph TD
 - **[Microsoft Agent 365](https://microsoft.com)** `Commercial` — Control plane for building, deploying, and governing business agents inside Microsoft 365 environments.
 - **[Glean](https://glean.com)** `Commercial` — Enterprise search and autonomous agent engine connected across Slack, Google Drive, Jira, and Notion.
 - **[FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)** `MIT` `Quantitative Agent` — Open-source financial AI agent platform designed for quantitative analysis, equity research, algorithmic trading, and SEC filing synthesis.
+- **[Solgrok](https://github.com/LMajster/sgrok)** `Open Source` `Solana Creator Ops` — Always-on Solana creator-ops AI agent that promotes $SGROK, claims creator fees, and sweeps rewards autonomously. Site: https://lmajster.github.io/sgrok/
 
 ### 6.5. Customer Experience & Support
 - **[Intercom Fin](https://www.intercom.com/fin)** `Commercial` `Auto-Resolution` — AI customer support agent resolving user queries without human intervention across chat and email.
