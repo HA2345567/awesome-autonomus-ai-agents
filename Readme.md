@@ -629,6 +629,8 @@ graph TD
 - **[Coinbase Agent Wallet](https://coinbase.com)** `Infrastructure` — On-chain wallet infrastructure empowering agents to hold crypto, pay for compute, and settle smart contracts.
 - **[Crossmint](https://www.crossmint.com)** `Commercial` — Enterprise agent wallet platform unified across x402, AP2 mandates, and conversational checkout with programmable guardrails.
 - **[Skyfire](https://skyfire.xyz)** `Financial Infrastructure` — Banking and payment network enabling AI agents to hold balances and pay merchant endpoints.
+- **[AffixIO](https://www.npmjs.com/package/affixio)** `npm` `Agentic Pay` - Agentic Pay Kit. Install with `npm i affixio`. Host-side signed ACTION attestation before pay (x402BeforePay / Agentic Pay / KYA; not person KYC). ([GitHub](https://github.com/AffixIO/SDK)) ([docs](https://www.affix-io.com/agent-trust/))
+
 
 ### 9.2. Agentic Payments Protocol Matrix
 
