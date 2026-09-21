@@ -410,6 +410,7 @@ graph TD
 - **[Consensus](https://consensus.app/)** `Commercial` — Research agent that searches academic literature, synthesizes consensus across clinical/scientific studies, and extracts evidence.
 
 ### 6.4. Business, Finance & HR
+- **[Statsnet](https://github.com/usenetstate/statsnet-mcp)** — Background check any company in the world: registration, executives, courts and finances. Endpoint: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - **[Salesforce Agentforce](https://salesforce.com/agentforce)** `Commercial` `Enterprise Swarm` — Autonomous enterprise agent suite across CRM, sales pipeline, service triage, and marketing workflows.
 - **[Claude Cowork](https://claude.ai)** `Anthropic` `Knowledge Ops` — Desktop agentic platform for knowledge work — reconciling spend, building trackers from contract folders, and assembling decks from transcripts across connected apps.
 - **[Workday Sana](https://workday.com)** `Commercial` — Enterprise AI agent suite automating HR, payroll, procurement, and financial operations.
