@@ -48,8 +48,8 @@
   Google Big Sleep / Project Naptime pioneers automated zero-day triage; 11x Alice and Artisan Ava deploy autonomous revenue swarms; Project 44 and Flexport automate predictive freight routing.  
   → *Explore: [Vertical Sectors](#06-vertical--industry-agents)*
 
-- **Commerce & Settlement Rails** `Google AP2` `Coinbase x402` `OpenAI ACP` `Stripe MPP`  
-  Google AP2 cryptographic mandates standard, Linux Foundation x402 micropayments protocol, OpenAI ACP, and Stripe MPP process real-world autonomous micro-transactions with zero API keys.  
+- **Commerce & Settlement Rails** `Google AP2` `Coinbase x402` `Nano XNO` `OpenAI ACP` `Stripe MPP`  
+  Google AP2 cryptographic mandates standard, Linux Foundation x402 micropayments protocol, Nano XNO feeless layer-1 settlement, OpenAI ACP, and Stripe MPP process real-world autonomous micro-transactions with zero API keys.  
   → *Explore: [Commerce Protocols](#09-agentic-commerce--payments-protocols)*
 
 - **Security & Governance Standards** `OWASP ASI Top 10` `Least-Agency Baseline` `PyRIT`  
