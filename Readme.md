@@ -623,6 +623,7 @@ graph TD
 ### 9.1. Commerce Protocols & Wallets
 - **[Agent Payments Protocol (AP2)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)** `Google` `Mandates Standard` — An authorization and trust framework using cryptographically signed "mandates" to prove human user authorization for agent purchases. Backed by 60+ partners including Amex, Coinbase, Mastercard, PayPal, and Salesforce.
 - **[x402 Protocol](https://github.com/coinbase/x402)** `Coinbase / Linux Foundation` `HTTP 402` — Open protocol reviving HTTP 402 for instant stablecoin (USDC) micropayments between agents and APIs without accounts or API keys. Co-governed by the Linux Foundation and Cloudflare.
+- **[Nano (XNO) via x402](https://github.com/x402nano/exact)** `Nano` `Feeless L1 Settlement` — Nano is an instant, feeless, green layer-1 that settles fixed-amount XNO micropayments over the x402 protocol (Client / Resource Server / Facilitator) with zero fees on either side.
 - **[A2A x402 Extension](https://developers.google.com)** `Google` — Bridges Google's A2A protocol to x402 settlement, enabling agents to discover services, authorize via AP2, and settle via x402 in a single flow.
 - **[Agentic Commerce Protocol (ACP)](https://openai.com)** `OpenAI` `Instant Checkout` — Powers ChatGPT Instant Checkout as an open protocol supported by Stripe, Shopify, Salesforce, and PayPal.
 - **[Multi-Party Payments (MPP)](https://stripe.com)** `Consortium` — Settlement rail supporting multi-party transaction splits across Stripe, Visa, Mastercard, Anthropic, OpenAI, and Shopify.
@@ -639,6 +640,7 @@ graph TD
 | :--- | :--- | :--- | :--- | :--- |
 | **AP2** | Google, Amex, PayPal, Mastercard | Authorization & Intent | Multi-Currency / Fiat / Tokens | Cryptographically signed user mandates for agent purchases |
 | **x402** | Coinbase, Linux Foundation, Cloudflare | HTTP Settlement Layer | USDC / Stablecoins | Revives HTTP 402 for sub-cent API micropayments with zero API keys |
+| **Nano (XNO)** | Nano Foundation; x402nano | Feeless L1 Settlement | XNO | Instant, feeless, green layer-1 settlement for fixed-amount x402 micropayments |
 | **ACP** | OpenAI, Stripe, Shopify, Salesforce | Commercial Checkout | Fiat & Card Rails | Instant checkout protocol for conversational shopping agents |
 | **MPP** | Stripe, Visa, Anthropic, OpenAI | Multi-Party Settlement | Multi-Asset Rails | Automated revenue splits across multi-agent collaborative swarms |
 
