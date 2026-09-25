@@ -388,7 +388,7 @@ graph TD
 - **[Amazon Q Developer Agent](https://aws.amazon.com/q/developer/)** `Commercial` — AWS's enterprise engineering agent capable of executing multi-repository feature implementations, dependency upgrades, and cloud security remediations in isolated sandboxes.
 - **[Plandex](https://github.com/plandex-ai/plandex)** `AGPL-3.0` — Open-source, terminal-native AI coding engine designed for complex, multi-file code tasks with tree-based planning and long-horizon execution.
 - **[AutoCodeRover](https://github.com/nus-apr/auto-code-rover)** `Apache 2.0` — Automated software engineering agent using AST and program structure analysis to navigate codebases and resolve complex GitHub issues.
-- **[Agent QA](https://github.com/vostride/agent-qa)** `Source Available` — QA agent that authors, executes, and self-repairs natural-language web and mobile regression tests with persistent test memory, a dashboard, CLI, MCP server, and agent skills.
+- **[Agent QA](https://github.com/vostride/agent-qa)** `FSL-1.1-ALv2` — Self-improving QA agent for natural-language web and mobile regression tests with persistent test memory, a dashboard, CLI, MCP server, and agent skills.
 - **[Qodo (formerly CodiumAI)](https://www.qodo.ai/)** `Commercial` `Agentic Testing` — Agentic code analysis platform offering automated test generation, PR review agents, and context-aware integrity verification.
 - **[YYLO](https://github.com/yylo-dev/yylo)** `MIT` — Open-source command-line orchestrator for coding agents that runs each task in a dedicated branch/worktree behind typed task, validation, merge, and release-readiness boundaries, with a risk-based merge queue and receipt-backed repository changes.
 
