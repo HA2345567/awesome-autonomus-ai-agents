@@ -391,6 +391,7 @@ graph TD
 - **[Agent QA](https://github.com/vostride/agent-qa)** `FSL-1.1-ALv2` — Self-improving QA agent for natural-language web and mobile regression tests with persistent test memory, a dashboard, CLI, MCP server, and agent skills.
 - **[Qodo (formerly CodiumAI)](https://www.qodo.ai/)** `Commercial` `Agentic Testing` — Agentic code analysis platform offering automated test generation, PR review agents, and context-aware integrity verification.
 - **[YYLO](https://github.com/yylo-dev/yylo)** `MIT` — Open-source command-line orchestrator for coding agents that runs each task in a dedicated branch/worktree behind typed task, validation, merge, and release-readiness boundaries, with a risk-based merge queue and receipt-backed repository changes.
+- **[Orbi](https://github.com/orbi-build/orbi)** `AGPL-3.0` — Open-source agent that takes a labeled GitHub issue to a reviewed, merged pull request and a tagged release; an independent review session gates every merge, and it also runs ops tickets.
 
 ### 6.2. DevOps, SRE & Cloud Infrastructure
 - **[Kubiya](https://www.kubiya.ai)** `Commercial` — Conversational DevOps and infrastructure automation agent executing operations across Kubernetes, Terraform, and cloud platforms.
