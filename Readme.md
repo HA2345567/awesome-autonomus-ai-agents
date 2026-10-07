@@ -509,6 +509,7 @@ graph TD
 - **[Clay / Claygent](https://www.clay.com/)** `Commercial` `GTM Research Agent` — Autonomous web-scraping and data enrichment agent crawling corporate websites, LinkedIn, and GitHub to build verified lead graphs.
 - **[Regie.ai](https://www.regie.ai/)** `Commercial` — Agentic prospecting platform that monitors intent signals and dynamically generates tailored sales campaigns for revenue teams.
 - **[Qualified Piper](https://www.qualified.com/)** `Commercial` — Inbound website conversational agent that qualifies enterprise buyers in real-time and routes high-intent pipeline directly into sales calendars.
+- **[Robot Speed](https://www.robot-speed.com/mcp)** `Commercial` `MCP` — AI SEO and content automation for organic growth: keyword research, SEO audits, article generation and publishing, backlinks and AI visibility tracking, exposed as MCP tools. Endpoint: `https://www.robot-speed.com/api/mcp` (OAuth; free no-auth tools at `/api/mcp/free`) · Registry: `io.github.robot-speed/mcp`
 
 ### 6.17. Defense, Aerospace & National Security
 - **[Palantir AIP Agents](https://www.palantir.com/platforms/aip/)** `Commercial` `Mission Intelligence` — Governed enterprise agent orchestration platform connecting operational ontologies, mission data, and defense action workflows with strict access controls.
