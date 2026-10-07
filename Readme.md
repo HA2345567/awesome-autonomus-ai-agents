@@ -483,6 +483,7 @@ graph TD
 - **[Runway Gen-3 / Sora Media Agent](https://runwayml.com)** `Commercial` — Multimodal creative video agent automating multi-shot storyboarding, character consistency, and spatial editing.
 - **[Uizard AI / Galatea Agent](https://uizard.io)** `Freemium` — Autonomous UI design agent transforming wireframe sketches and natural language prompts into interactive app prototypes.
 - **[Midjourney Agentic Canvas](https://www.midjourney.com)** `Commercial` — Visual generative agent allowing parametric inpainting, regional reframing, and multi-asset art direction.
+- **[Kleap](https://kleap.co/mcp)** `Freemium` `MCP` — AI website and app builder that agents can drive over MCP: create, edit and publish websites from Claude, Cursor or any MCP client. Endpoint: `https://kleap.co/api/mcp` (OAuth) · Registry: `io.github.kleaphq/kleap`
 
 ### 6.13. Education & Adaptive Learning
 - **[Khanmigo](https://www.khanacademy.org/khanmigo)** `Freemium` `Socratic Agent` — Khan Academy's interactive AI tutoring agent providing Socratic step-by-step guidance across STEM, computer science, and humanities.
