@@ -287,6 +287,7 @@ graph TD
 - **[Docker / Kubernetes MCP Server](https://github.com/modelcontextprotocol/servers)** `Apache 2.0` — Cluster state inspection, container lifecycle management, and log telemetry streaming.
 - **[Sequential Thinking & Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)** `MIT` — Dynamic chain-of-thought scratchpad and persistent context memory retention for multi-step agent reasoning.
 - **[AWS Cloud MCP Server](https://github.com/awslabs/mcp-server-aws)** `Apache 2.0` — AWS resource provisioning, CloudWatch metric inspection, and IAM policy diagnostics.
+- **[Tanod MCP Server](https://tanod.dev/connect/)** `Pay-per-call` `x402` — Remote MCP server at `https://tanod.dev/mcp` with 120+ tools for agents (PDF, OCR and image tools, web search, chain reads, phishing and OFAC checks); no account or API key, free daily allowance per IP, then USDC on Base or Polygon via x402.
 
 [Back to Top](#nexum--the-agentic-universe)
 
