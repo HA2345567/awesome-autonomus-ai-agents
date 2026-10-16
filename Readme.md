@@ -289,10 +289,9 @@ graph TD
 - **[AWS Cloud MCP Server](https://github.com/awslabs/mcp-server-aws)** `Apache 2.0` — AWS resource provisioning, CloudWatch metric inspection, and IAM policy diagnostics.
 - **[Tanod MCP Server](https://tanod.dev/connect/)** `Pay-per-call` `x402` — Remote MCP server at `https://tanod.dev/mcp` with 120+ tools for agents (PDF, OCR and image tools, web search, chain reads, phishing and OFAC checks); no account or API key, free daily allowance per IP, then USDC on Base or Polygon via x402.
 - **[DC Hub](https://github.com/azmartone67/dchub-mcp-server)** `Hosted MCP` `Data Center` — DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. 94 MCP tools keyless at free-tier depth. Endpoint: `https://dchub.cloud/mcp`
-- **[Aident Loadout](https://aident.ai)** `Hosted MCP` `MIT` — Remote MCP server at `https://loadout.aident.ai/mcp` that connects Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 400+ expert-built Skills through one setup; credentials stay in Aident Vault and every action is logged in Audit. ([GitHub](https://github.com/Aident-AI/aident-skill))
+- **[Aident Loadout](https://aident.ai)** `Hosted MCP` `MIT` — Remote MCP server at `https://loadout.aident.ai/mcp` that connects Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 400+ expert-built Skills through one setup; credentials stay in Aident Vault and every action is logged in Audit. ([GitHub](https://github.com/Aident-AI/aident-skill)
 - **[CareJobs.Now MCP](https://github.com/yumaheymans/carejobs-mcp)** `MIT` `Hosted MCP` — Remote MCP server at `https://carejobs.now/api/mcp` (Streamable HTTP, no auth, read-only) with 6 tools to search 170,000+ open US healthcare jobs, get job details, posted pay by kind of job, employers, states and job kinds.
-
-[Back to Top](#nexum--the-agentic-universe)
+- **[CurlShot](https://curlshot.com)** `Hosted MCP` `Freemium` — Remote MCP server at `https://curlshot.com/api/mcp` that gives agents eyes on the web: `take_screenshot` renders any public URL and returns it as an image the model can read, a PDF or a scrolling video, with full-page capture, device presets, dark mode and single-element capture by CSS selector. Free plan of 100 screenshots/month, no card; [setup docs](https://github.com/SergiuPogor/curlshot-mcp).
 
 ---
 
