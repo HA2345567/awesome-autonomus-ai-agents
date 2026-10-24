@@ -795,3 +795,8 @@ If you find NEXUM valuable, please consider **starring the repository** and shar
 [Back to Top](#nexum--the-agentic-universe)
 
 </div>
+
+### Autonomous Agent Payments & Bounty Escrow Verification
+- **[DoomPay](https://github.com/doomsday-network/doom-pay)** - 3-line Stripe-style non-custodial crypto checkout SDK (`DoomPay.checkout()`) and REST transaction receipt verifier for autonomous agents (`DOOM` Layer-1 + `wDOOM` on Base Mainnet `8453`).
+- **[BountyGuard](https://github.com/doomsday-network/bounty-guard)** - Pre-flight GitHub bounty auditor and on-chain Proof-of-Escrow verification MCP server & CLI skill for autonomous coding agents.
+
