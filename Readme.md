@@ -298,6 +298,7 @@ graph TD
 - **[PlaceCall](https://voygr.tech/placecall/)** `Hosted MCP` `Pay-per-outcome` — Remote MCP server at `https://api.voygr.tech/mcp` (Streamable HTTP, OAuth or `X-API-Key`) that lets an agent phone a US business on the user's behalf: `suggest_places` finds whom to call, `place_call` dials and works through IVR menus, holds and transfers, `answer_question` relays a question from the live call back to the user, and `get_call_result` returns the structured outcome, transcript and recording. Every new API key includes 250 free calls; MIT client with skill and plugins on [GitHub](https://github.com/voygr-tech/placecall).
 - **[NeverApply MCP](https://github.com/kasovy/neverapply-mcp)** `MIT` `Hosted MCP` — Remote MCP server at `https://neverapply.co/mcp` (Streamable HTTP, OAuth 2.1 + PKCE) with tools to search jobs, explain matches, track applications, tailor resumes and apply to jobs the user approves. Docs: https://neverapply.co/features/mcp · Registry: `co.neverapply/neverapply`
 - **[Datacircle](https://datacircle.dev/docs/mcp)** `Hosted MCP` `Free` — Find the best GTM APIs. Remote MCP server at `https://api.datacircle.dev/mcp` (Streamable HTTP, no key): `list_apis` lists the GTM APIs and `search_plans` finds their plans by API, provider or price.
+- **[Zambo](https://github.com/zambodotdev/zambo-mcp)** `MIT` — Remote MCP server with 153 tools (36 on the default surface; full 153-tool catalog via `?full=true`), cross-AI handover and continuity, and a verifiable AER-1 receipt for every job.
 
 ---
 
