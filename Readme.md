@@ -400,6 +400,7 @@ graph TD
 - **[Qodo (formerly CodiumAI)](https://www.qodo.ai/)** `Commercial` `Agentic Testing` — Agentic code analysis platform offering automated test generation, PR review agents, and context-aware integrity verification.
 - **[YYLO](https://github.com/yylo-dev/yylo)** `MIT` — Open-source command-line orchestrator for coding agents that runs each task in a dedicated branch/worktree behind typed task, validation, merge, and release-readiness boundaries, with a risk-based merge queue and receipt-backed repository changes.
 - **[Orbi](https://github.com/orbi-build/orbi)** `AGPL-3.0` — Open-source agent that takes a labeled GitHub issue to a reviewed, merged pull request and a tagged release; an independent review session gates every merge, and it also runs ops tickets.
+- **[Sqwakie](https://sqwakie.si/?utm_source=awesome-autonomus-ai-agents&utm_medium=listing)** `FSL-1.1-ALv2` `Freemium` — Peer-to-peer walkie-talkie and Mission Control dashboard for a team's Claude Code and Codex agents: live agent status, shared kanban boards, MCP tools, Sqwakie Direct or Tailscale. Free for 2 people; self-hosted on macOS Apple Silicon and Linux.
 
 ### 6.2. DevOps, SRE & Cloud Infrastructure
 - **[Kubiya](https://www.kubiya.ai)** `Commercial` — Conversational DevOps and infrastructure automation agent executing operations across Kubernetes, Terraform, and cloud platforms.
