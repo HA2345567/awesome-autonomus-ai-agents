@@ -299,6 +299,7 @@ graph TD
 - **[NeverApply MCP](https://github.com/kasovy/neverapply-mcp)** `MIT` `Hosted MCP` — Remote MCP server at `https://neverapply.co/mcp` (Streamable HTTP, OAuth 2.1 + PKCE) with tools to search jobs, explain matches, track applications, tailor resumes and apply to jobs the user approves. Docs: https://neverapply.co/features/mcp · Registry: `co.neverapply/neverapply`
 - **[Datacircle](https://datacircle.dev/docs/mcp)** `Hosted MCP` `Free` — Find the best GTM APIs. Remote MCP server at `https://api.datacircle.dev/mcp` (Streamable HTTP, no key): `list_apis` lists the GTM APIs and `search_plans` finds their plans by API, provider or price.
 - **[Zambo](https://github.com/zambodotdev/zambo-mcp)** `MIT` — Remote MCP server with 153 tools (36 on the default surface; full 153-tool catalog via `?full=true`), cross-AI handover and continuity, and a verifiable AER-1 receipt for every job.
+- **[Imagera MCP](https://github.com/alexadams6ix/imagera-skills)** `Hosted MCP` `Paid` — Remote MCP server at `https://mcp.imagera.ai/mcp` (Streamable HTTP, OAuth sign-in) that gives Claude Code, Codex, Cursor and other MCP clients image, video, voice and music generation, plus multi-step skills (product photos, ads, reels, Character IDs that keep a face or product consistent). Every call is quoted in credits before it runs; needs a paid Imagera account.
 
 ---
 
