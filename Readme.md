@@ -300,6 +300,7 @@ graph TD
 - **[Datacircle](https://datacircle.dev/docs/mcp)** `Hosted MCP` `Free` — Find the best GTM APIs. Remote MCP server at `https://api.datacircle.dev/mcp` (Streamable HTTP, no key): `list_apis` lists the GTM APIs and `search_plans` finds their plans by API, provider or price.
 - **[Zambo](https://github.com/zambodotdev/zambo-mcp)** `MIT` — Remote MCP server with 153 tools (36 on the default surface; full 153-tool catalog via `?full=true`), cross-AI handover and continuity, and a verifiable AER-1 receipt for every job.
 - **[Imagera MCP](https://github.com/alexadams6ix/imagera-skills)** `Hosted MCP` `Paid` — Remote MCP server at `https://mcp.imagera.ai/mcp` (Streamable HTTP, OAuth sign-in) that gives Claude Code, Codex, Cursor and other MCP clients image, video, voice and music generation, plus multi-step skills (product photos, ads, reels, Character IDs that keep a face or product consistent). Every call is quoted in credits before it runs; needs a paid Imagera account.
+- **[/call-me](https://callmemcp.com)** `Hosted MCP` `Paid` — Remote MCP server at `https://callmemcp.com/mcp` (Streamable HTTP, no OAuth) that lets Claude Code, Codex, Gemini CLI, Cursor, ChatGPT, Grok and other MCP agents ring the human's iPhone or Android phone, read the agent's question aloud and return the spoken answer as text; it also texts. Needs the /call-me phone app, a paid subscription; [install repo](https://github.com/radres/call-me).
 
 ---
 
