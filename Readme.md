@@ -283,6 +283,7 @@ graph TD
 - **[Playwright Browser MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)** `MIT` — Headless and visible browser automation server allowing agents to click, scrape, take screenshots, and navigate SPAs.
 - **[Filesystem MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** `MIT` — Sandboxed local directory search, file reading, and atomic file replacement with strict root path boundaries.
 - **[Brave Search MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)** `MIT` — Real-time web index querying and citation retrieval for grounded research agents.
+- **[Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server)** `MIT` `Hosted MCP` — Official Firecrawl MCP server for search, scrape, crawl and Firecrawl Alexandria data tools. Hosted endpoint: `https://mcp.firecrawl.dev/v2/mcp`.
 - **[Slack / Discord MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/slack)** `MIT` — Conversational channel integration for dispatching notifications, thread replies, and operational alerts.
 - **[Docker / Kubernetes MCP Server](https://github.com/modelcontextprotocol/servers)** `Apache 2.0` — Cluster state inspection, container lifecycle management, and log telemetry streaming.
 - **[Sequential Thinking & Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)** `MIT` — Dynamic chain-of-thought scratchpad and persistent context memory retention for multi-step agent reasoning.
