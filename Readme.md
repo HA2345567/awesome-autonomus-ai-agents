@@ -239,7 +239,7 @@ graph TD
 - **[Modal Micro-VM Runtimes](https://modal.com/)** `Commercial` `Serverless GPU` — Serverless infrastructure optimized for ultra-low latency agent sandboxing, code execution, and GPU workloads.
 - **[Fly.io MicroVM Machines](https://fly.io/docs/machines/)** `Commercial` `Global Edge` — Ephemeral micro-VM infrastructure for provisioning isolated, sub-second execution sandboxes across global edge locations.
 - **[Runloop](https://www.runloop.ai/)** `Commercial` `Managed Sandbox` — Cloud platform providing managed developer environments and sandboxes optimized for AI coding agents and benchmark evaluation.
-- **[Firecrawl Extract Engine](https://github.com/mendableai/firecrawl)** `AGPL-3.0` `Web Sandbox` — Turn-key web scraping and sandbox extraction engine that turns any URL into LLM-ready markdown for autonomous agents.
+- **[Firecrawl Extract Engine](https://github.com/firecrawl/firecrawl)** `AGPL-3.0` `Web Sandbox` — Turn-key web scraping and sandbox extraction engine that turns any URL into LLM-ready markdown for autonomous agents.
 - **[Docker Agent Sandbox](https://www.docker.com/)** `Apache 2.0` — Containerized execution environments optimized for isolating local and enterprise agent file/code operations.
 - **[Cloudflare Sandboxed Workers](https://developers.cloudflare.com/)** `Commercial` — Edge-based secure compute isolation with native headless browser rendering and sub-millisecond cold starts.
 
