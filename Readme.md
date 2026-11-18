@@ -239,7 +239,7 @@ graph TD
 - **[Modal Micro-VM Runtimes](https://modal.com/)** `Commercial` `Serverless GPU` — Serverless infrastructure optimized for ultra-low latency agent sandboxing, code execution, and GPU workloads.
 - **[Fly.io MicroVM Machines](https://fly.io/docs/machines/)** `Commercial` `Global Edge` — Ephemeral micro-VM infrastructure for provisioning isolated, sub-second execution sandboxes across global edge locations.
 - **[Runloop](https://www.runloop.ai/)** `Commercial` `Managed Sandbox` — Cloud platform providing managed developer environments and sandboxes optimized for AI coding agents and benchmark evaluation.
-- **[Firecrawl Extract Engine](https://github.com/mendableai/firecrawl)** `AGPL-3.0` `Web Sandbox` — Turn-key web scraping and sandbox extraction engine that turns any URL into LLM-ready markdown for autonomous agents.
+- **[Firecrawl Extract Engine](https://github.com/firecrawl/firecrawl)** `AGPL-3.0` `Web Sandbox` — Turn-key web scraping and sandbox extraction engine that turns any URL into LLM-ready markdown for autonomous agents.
 - **[Docker Agent Sandbox](https://www.docker.com/)** `Apache 2.0` — Containerized execution environments optimized for isolating local and enterprise agent file/code operations.
 - **[Cloudflare Sandboxed Workers](https://developers.cloudflare.com/)** `Commercial` — Edge-based secure compute isolation with native headless browser rendering and sub-millisecond cold starts.
 
@@ -283,6 +283,7 @@ graph TD
 - **[Playwright Browser MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)** `MIT` — Headless and visible browser automation server allowing agents to click, scrape, take screenshots, and navigate SPAs.
 - **[Filesystem MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** `MIT` — Sandboxed local directory search, file reading, and atomic file replacement with strict root path boundaries.
 - **[Brave Search MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)** `MIT` — Real-time web index querying and citation retrieval for grounded research agents.
+- **[Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server)** `MIT` `Hosted MCP` — Official Firecrawl MCP server for search, scrape, crawl and Firecrawl Alexandria data tools. Hosted endpoint: `https://mcp.firecrawl.dev/v2/mcp`.
 - **[Slack / Discord MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/slack)** `MIT` — Conversational channel integration for dispatching notifications, thread replies, and operational alerts.
 - **[Docker / Kubernetes MCP Server](https://github.com/modelcontextprotocol/servers)** `Apache 2.0` — Cluster state inspection, container lifecycle management, and log telemetry streaming.
 - **[Sequential Thinking & Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)** `MIT` — Dynamic chain-of-thought scratchpad and persistent context memory retention for multi-step agent reasoning.
