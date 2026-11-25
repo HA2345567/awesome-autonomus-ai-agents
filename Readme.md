@@ -442,6 +442,7 @@ graph TD
 - **[SAP Joule Studio 2.0](https://sap.com)** `Commercial` — Enterprise agent layer for supply chain, HCM, and ERP business processes across SAP environments.
 - **[Microsoft Agent 365](https://microsoft.com)** `Commercial` — Control plane for building, deploying, and governing business agents inside Microsoft 365 environments.
 - **[Glean](https://glean.com)** `Commercial` — Enterprise search and autonomous agent engine connected across Slack, Google Drive, Jira, and Notion.
+- **[Enhanciar](https://enhanciar.in)** `Commercial` — Company brain that answers from Slack, Gmail, Drive, Notion and other work tools with source links, then drafts replies and tickets that wait for a person to approve.
 - **[FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)** `MIT` `Quantitative Agent` — Open-source financial AI agent platform designed for quantitative analysis, equity research, algorithmic trading, and SEC filing synthesis.
 - **[Invompt](https://invompt.com/)** `Hosted MCP` `Invoicing` — Turn AI-host work into invoices you review before send — Continue as guest or OAuth via hosted MCP. Endpoint: `https://mcp.invompt.com/mcp`
 
