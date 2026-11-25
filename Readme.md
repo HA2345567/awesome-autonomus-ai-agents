@@ -571,6 +571,8 @@ graph TD
 - **[OSWorld](https://os-world.github.io/)** `OS Benchmark` — Operating system interaction benchmark assessing agents' visual screen perception and mouse/keyboard execution on Windows, Ubuntu, and macOS.
 - **[WebArena & Tau-Bench](https://webarena.dev/)** `Web Benchmark` — Web-based environment benchmarks evaluating autonomous web navigation, e-commerce transactions, and customer service workflows.
 - **[Humanity's Last Exam (HLE)](https://cais.community/hle/)** `Frontier Benchmark` — Frontier multimodal benchmark designed to evaluate advanced agentic reasoning across academic and technical disciplines.
+- **[PerspectiveGap](https://github.com/WhymustIhaveaname/PerspectiveGap)** `MIT` `Orchestration Benchmark` — The first benchmark for multi-agent orchestration prompt writing: 110 scenarios across 10 loop topologies test whether an orchestrator gives each sub-agent the facts it needs. Across 33 commercial models, the average combined pass rate is 17.2%.
+- **[SciΠvot](https://github.com/AutoResearch-Factory/SciPIvot)** `CC-BY-4.0` `Research Agent Benchmark` — 248 research-judgment cases built from senior researchers' corrections of LLM agents on 26 real projects. Four of five frontier models score below chance.
 
 ### 7.2. Datasets, Golden Traces & Trajectory Corpora
 *Curated training and evaluation datasets containing multi-step agent interaction traces.*
